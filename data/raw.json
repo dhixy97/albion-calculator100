@@ -1,0 +1,1986 @@
+[
+  {
+    "uniqueName": "T1_WOOD",
+    "enchantment": 0,
+    "tier": 1,
+    "categoryId": "resources",
+    "uiSprite": "WOOD",
+    "localizedNames": "Rough Logs"
+  },
+  {
+    "uniqueName": "T2_WOOD",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "resources",
+    "uiSprite": "WOOD",
+    "localizedNames": "Birch Logs"
+  },
+  {
+    "uniqueName": "T3_WOOD",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "resources",
+    "uiSprite": "WOOD",
+    "localizedNames": "Chestnut Logs"
+  },
+  {
+    "uniqueName": "T4_WOOD",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "WOOD",
+    "localizedNames": "Pine Logs"
+  },
+  {
+    "uniqueName": "T5_WOOD",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "WOOD",
+    "localizedNames": "Cedar Logs"
+  },
+  {
+    "uniqueName": "T6_WOOD",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "WOOD",
+    "localizedNames": "Bloodoak Logs"
+  },
+  {
+    "uniqueName": "T7_WOOD",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "WOOD",
+    "localizedNames": "Ashenbark Logs"
+  },
+  {
+    "uniqueName": "T8_WOOD",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "WOOD",
+    "localizedNames": "Whitewood Logs"
+  },
+  {
+    "uniqueName": "T4_WOOD_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL1",
+    "localizedNames": "Uncommon Pine Logs"
+  },
+  {
+    "uniqueName": "T5_WOOD_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL1",
+    "localizedNames": "Uncommon Cedar Logs"
+  },
+  {
+    "uniqueName": "T6_WOOD_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL1",
+    "localizedNames": "Uncommon Bloodoak Logs"
+  },
+  {
+    "uniqueName": "T7_WOOD_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL1",
+    "localizedNames": "Uncommon Ashenbark Logs"
+  },
+  {
+    "uniqueName": "T8_WOOD_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL1",
+    "localizedNames": "Uncommon Whitewood Logs"
+  },
+  {
+    "uniqueName": "T4_WOOD_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL2",
+    "localizedNames": "Rare Pine Logs"
+  },
+  {
+    "uniqueName": "T5_WOOD_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL2",
+    "localizedNames": "Rare Cedar Logs"
+  },
+  {
+    "uniqueName": "T6_WOOD_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL2",
+    "localizedNames": "Rare Bloodoak Logs"
+  },
+  {
+    "uniqueName": "T7_WOOD_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL2",
+    "localizedNames": "Rare Ashenbark Logs"
+  },
+  {
+    "uniqueName": "T8_WOOD_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL2",
+    "localizedNames": "Rare Whitewood Logs"
+  },
+  {
+    "uniqueName": "T4_WOOD_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL3",
+    "localizedNames": "Exceptional Pine Logs"
+  },
+  {
+    "uniqueName": "T5_WOOD_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL3",
+    "localizedNames": "Exceptional Cedar Logs"
+  },
+  {
+    "uniqueName": "T6_WOOD_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL3",
+    "localizedNames": "Exceptional Bloodoak Logs"
+  },
+  {
+    "uniqueName": "T7_WOOD_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL3",
+    "localizedNames": "Exceptional Ashenbark Logs"
+  },
+  {
+    "uniqueName": "T8_WOOD_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL3",
+    "localizedNames": "Exceptional Whitewood Logs"
+  },
+  {
+    "uniqueName": "T4_WOOD_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL4",
+    "localizedNames": "Pristine Pine Logs"
+  },
+  {
+    "uniqueName": "T5_WOOD_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL4",
+    "localizedNames": "Pristine Cedar Logs"
+  },
+  {
+    "uniqueName": "T6_WOOD_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL4",
+    "localizedNames": "Pristine Bloodoak Logs"
+  },
+  {
+    "uniqueName": "T7_WOOD_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL4",
+    "localizedNames": "Pristine Ashenbark Logs"
+  },
+  {
+    "uniqueName": "T8_WOOD_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "WOOD_LEVEL4",
+    "localizedNames": "Pristine Whitewood Logs"
+  },
+  {
+    "uniqueName": "T1_ROCK",
+    "enchantment": 0,
+    "tier": 1,
+    "categoryId": "resources",
+    "uiSprite": "ROCK",
+    "localizedNames": "Rough Stone"
+  },
+  {
+    "uniqueName": "T2_ROCK",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "resources",
+    "uiSprite": "ROCK",
+    "localizedNames": "Limestone"
+  },
+  {
+    "uniqueName": "T3_ROCK",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "resources",
+    "uiSprite": "ROCK",
+    "localizedNames": "Sandstone"
+  },
+  {
+    "uniqueName": "T4_ROCK",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "ROCK",
+    "localizedNames": "Travertine"
+  },
+  {
+    "uniqueName": "T5_ROCK",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "ROCK",
+    "localizedNames": "Granite"
+  },
+  {
+    "uniqueName": "T6_ROCK",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "ROCK",
+    "localizedNames": "Slate"
+  },
+  {
+    "uniqueName": "T7_ROCK",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "ROCK",
+    "localizedNames": "Basalt"
+  },
+  {
+    "uniqueName": "T8_ROCK",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "ROCK",
+    "localizedNames": "Marble"
+  },
+  {
+    "uniqueName": "T4_ROCK_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL1",
+    "localizedNames": "Uncommon Travertine"
+  },
+  {
+    "uniqueName": "T5_ROCK_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL1",
+    "localizedNames": "Uncommon Granite"
+  },
+  {
+    "uniqueName": "T6_ROCK_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL1",
+    "localizedNames": "Uncommon Slate"
+  },
+  {
+    "uniqueName": "T7_ROCK_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL1",
+    "localizedNames": "Uncommon Basalt"
+  },
+  {
+    "uniqueName": "T8_ROCK_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL1",
+    "localizedNames": "Uncommon Marble"
+  },
+  {
+    "uniqueName": "T4_ROCK_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL2",
+    "localizedNames": "Rare Travertine"
+  },
+  {
+    "uniqueName": "T5_ROCK_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL2",
+    "localizedNames": "Rare Granite"
+  },
+  {
+    "uniqueName": "T6_ROCK_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL2",
+    "localizedNames": "Rare Slate"
+  },
+  {
+    "uniqueName": "T7_ROCK_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL2",
+    "localizedNames": "Rare Basalt"
+  },
+  {
+    "uniqueName": "T8_ROCK_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL2",
+    "localizedNames": "Rare Marble"
+  },
+  {
+    "uniqueName": "T4_ROCK_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL3",
+    "localizedNames": "Exceptional Travertine"
+  },
+  {
+    "uniqueName": "T5_ROCK_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL3",
+    "localizedNames": "Exceptional Granite"
+  },
+  {
+    "uniqueName": "T6_ROCK_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL3",
+    "localizedNames": "Exceptional Slate"
+  },
+  {
+    "uniqueName": "T7_ROCK_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL3",
+    "localizedNames": "Exceptional Basalt"
+  },
+  {
+    "uniqueName": "T8_ROCK_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "ROCK_LEVEL3",
+    "localizedNames": "Exceptional Marble"
+  },
+  {
+    "uniqueName": "T2_ORE",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "resources",
+    "uiSprite": "ORE",
+    "localizedNames": "Copper Ore"
+  },
+  {
+    "uniqueName": "T3_ORE",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "resources",
+    "uiSprite": "ORE",
+    "localizedNames": "Tin Ore"
+  },
+  {
+    "uniqueName": "T4_ORE",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "ORE",
+    "localizedNames": "Iron Ore"
+  },
+  {
+    "uniqueName": "T5_ORE",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "ORE",
+    "localizedNames": "Titanium Ore"
+  },
+  {
+    "uniqueName": "T6_ORE",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "ORE",
+    "localizedNames": "Runite Ore"
+  },
+  {
+    "uniqueName": "T7_ORE",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "ORE",
+    "localizedNames": "Meteorite Ore"
+  },
+  {
+    "uniqueName": "T8_ORE",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "ORE",
+    "localizedNames": "Adamantium Ore"
+  },
+  {
+    "uniqueName": "T4_ORE_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL1",
+    "localizedNames": "Uncommon Iron Ore"
+  },
+  {
+    "uniqueName": "T5_ORE_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL1",
+    "localizedNames": "Uncommon Titanium Ore"
+  },
+  {
+    "uniqueName": "T6_ORE_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL1",
+    "localizedNames": "Uncommon Runite Ore"
+  },
+  {
+    "uniqueName": "T7_ORE_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL1",
+    "localizedNames": "Uncommon Meteorite Ore"
+  },
+  {
+    "uniqueName": "T8_ORE_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL1",
+    "localizedNames": "Uncommon Adamantium Ore"
+  },
+  {
+    "uniqueName": "T4_ORE_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL2",
+    "localizedNames": "Rare Iron Ore"
+  },
+  {
+    "uniqueName": "T5_ORE_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL2",
+    "localizedNames": "Rare Titanium Ore"
+  },
+  {
+    "uniqueName": "T6_ORE_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL2",
+    "localizedNames": "Rare Runite Ore"
+  },
+  {
+    "uniqueName": "T7_ORE_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL2",
+    "localizedNames": "Rare Meteorite Ore"
+  },
+  {
+    "uniqueName": "T8_ORE_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL2",
+    "localizedNames": "Rare Adamantium Ore"
+  },
+  {
+    "uniqueName": "T4_ORE_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL3",
+    "localizedNames": "Exceptional Iron Ore"
+  },
+  {
+    "uniqueName": "T5_ORE_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL3",
+    "localizedNames": "Exceptional Titanium Ore"
+  },
+  {
+    "uniqueName": "T6_ORE_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL3",
+    "localizedNames": "Exceptional Runite Ore"
+  },
+  {
+    "uniqueName": "T7_ORE_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL3",
+    "localizedNames": "Exceptional Meteorite Ore"
+  },
+  {
+    "uniqueName": "T8_ORE_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL3",
+    "localizedNames": "Exceptional Adamantium Ore"
+  },
+  {
+    "uniqueName": "T4_ORE_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL4",
+    "localizedNames": "Pristine Iron Ore"
+  },
+  {
+    "uniqueName": "T5_ORE_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL4",
+    "localizedNames": "Pristine Titanium Ore"
+  },
+  {
+    "uniqueName": "T6_ORE_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL4",
+    "localizedNames": "Pristine Runite Ore"
+  },
+  {
+    "uniqueName": "T7_ORE_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL4",
+    "localizedNames": "Pristine Meteorite Ore"
+  },
+  {
+    "uniqueName": "T8_ORE_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "ORE_LEVEL4",
+    "localizedNames": "Pristine Adamantium Ore"
+  },
+  {
+    "uniqueName": "T1_HIDE",
+    "enchantment": 0,
+    "tier": 1,
+    "categoryId": "resources",
+    "uiSprite": "HIDE",
+    "localizedNames": "Scraps of Hide"
+  },
+  {
+    "uniqueName": "T2_HIDE",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "resources",
+    "uiSprite": "HIDE",
+    "localizedNames": "Rugged Hide"
+  },
+  {
+    "uniqueName": "T3_HIDE",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "resources",
+    "uiSprite": "HIDE",
+    "localizedNames": "Thin Hide"
+  },
+  {
+    "uniqueName": "T4_HIDE",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "HIDE",
+    "localizedNames": "Medium Hide"
+  },
+  {
+    "uniqueName": "T5_HIDE",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "HIDE",
+    "localizedNames": "Heavy Hide"
+  },
+  {
+    "uniqueName": "T6_HIDE",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "HIDE",
+    "localizedNames": "Robust Hide"
+  },
+  {
+    "uniqueName": "T7_HIDE",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "HIDE",
+    "localizedNames": "Thick Hide"
+  },
+  {
+    "uniqueName": "T8_HIDE",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "HIDE",
+    "localizedNames": "Resilient Hide"
+  },
+  {
+    "uniqueName": "T4_HIDE_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL1",
+    "localizedNames": "Uncommon Medium Hide"
+  },
+  {
+    "uniqueName": "T5_HIDE_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL1",
+    "localizedNames": "Uncommon Heavy Hide"
+  },
+  {
+    "uniqueName": "T6_HIDE_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL1",
+    "localizedNames": "Uncommon Robust Hide"
+  },
+  {
+    "uniqueName": "T7_HIDE_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL1",
+    "localizedNames": "Uncommon Thick Hide"
+  },
+  {
+    "uniqueName": "T8_HIDE_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL1",
+    "localizedNames": "Uncommon Resilient Hide"
+  },
+  {
+    "uniqueName": "T4_HIDE_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL2",
+    "localizedNames": "Rare Medium Hide"
+  },
+  {
+    "uniqueName": "T5_HIDE_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL2",
+    "localizedNames": "Rare Heavy Hide"
+  },
+  {
+    "uniqueName": "T6_HIDE_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL2",
+    "localizedNames": "Rare Robust Hide"
+  },
+  {
+    "uniqueName": "T7_HIDE_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL2",
+    "localizedNames": "Rare Thick Hide"
+  },
+  {
+    "uniqueName": "T8_HIDE_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL2",
+    "localizedNames": "Rare Resilient Hide"
+  },
+  {
+    "uniqueName": "T4_HIDE_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL3",
+    "localizedNames": "Exceptional Medium Hide"
+  },
+  {
+    "uniqueName": "T5_HIDE_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL3",
+    "localizedNames": "Exceptional Heavy Hide"
+  },
+  {
+    "uniqueName": "T6_HIDE_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL3",
+    "localizedNames": "Exceptional Robust Hide"
+  },
+  {
+    "uniqueName": "T7_HIDE_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL3",
+    "localizedNames": "Exceptional Thick Hide"
+  },
+  {
+    "uniqueName": "T8_HIDE_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL3",
+    "localizedNames": "Exceptional Resilient Hide"
+  },
+  {
+    "uniqueName": "T4_HIDE_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL4",
+    "localizedNames": "Pristine Medium Hide"
+  },
+  {
+    "uniqueName": "T5_HIDE_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL4",
+    "localizedNames": "Pristine Heavy Hide"
+  },
+  {
+    "uniqueName": "T6_HIDE_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL4",
+    "localizedNames": "Pristine Robust Hide"
+  },
+  {
+    "uniqueName": "T7_HIDE_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL4",
+    "localizedNames": "Pristine Thick Hide"
+  },
+  {
+    "uniqueName": "T8_HIDE_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "HIDE_LEVEL4",
+    "localizedNames": "Pristine Resilient Hide"
+  },
+  {
+    "uniqueName": "T2_FIBER",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "resources",
+    "uiSprite": "FIBER",
+    "localizedNames": "Cotton"
+  },
+  {
+    "uniqueName": "T3_FIBER",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "resources",
+    "uiSprite": "FIBER",
+    "localizedNames": "Flax"
+  },
+  {
+    "uniqueName": "T4_FIBER",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "FIBER",
+    "localizedNames": "Hemp"
+  },
+  {
+    "uniqueName": "T5_FIBER",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "FIBER",
+    "localizedNames": "Skyflower"
+  },
+  {
+    "uniqueName": "T6_FIBER",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "FIBER",
+    "localizedNames": "Amberleaf Cotton"
+  },
+  {
+    "uniqueName": "T7_FIBER",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "FIBER",
+    "localizedNames": "Sunflax"
+  },
+  {
+    "uniqueName": "T8_FIBER",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "FIBER",
+    "localizedNames": "Ghost Hemp"
+  },
+  {
+    "uniqueName": "T4_FIBER_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL1",
+    "localizedNames": "Uncommon Hemp"
+  },
+  {
+    "uniqueName": "T5_FIBER_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL1",
+    "localizedNames": "Uncommon Skyflower"
+  },
+  {
+    "uniqueName": "T6_FIBER_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL1",
+    "localizedNames": "Uncommon Amberleaf Cotton"
+  },
+  {
+    "uniqueName": "T7_FIBER_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL1",
+    "localizedNames": "Uncommon Sunflax"
+  },
+  {
+    "uniqueName": "T8_FIBER_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL1",
+    "localizedNames": "Uncommon Ghost Hemp"
+  },
+  {
+    "uniqueName": "T4_FIBER_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL2",
+    "localizedNames": "Rare Hemp"
+  },
+  {
+    "uniqueName": "T5_FIBER_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL2",
+    "localizedNames": "Rare Skyflower"
+  },
+  {
+    "uniqueName": "T6_FIBER_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL2",
+    "localizedNames": "Rare Amberleaf Cotton"
+  },
+  {
+    "uniqueName": "T7_FIBER_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL2",
+    "localizedNames": "Rare Sunflax"
+  },
+  {
+    "uniqueName": "T8_FIBER_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL2",
+    "localizedNames": "Rare Ghost Hemp"
+  },
+  {
+    "uniqueName": "T4_FIBER_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL3",
+    "localizedNames": "Exceptional Hemp"
+  },
+  {
+    "uniqueName": "T5_FIBER_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL3",
+    "localizedNames": "Exceptional Skyflower"
+  },
+  {
+    "uniqueName": "T6_FIBER_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL3",
+    "localizedNames": "Exceptional Amberleaf Cotton"
+  },
+  {
+    "uniqueName": "T7_FIBER_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL3",
+    "localizedNames": "Exceptional Sunflax"
+  },
+  {
+    "uniqueName": "T8_FIBER_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL3",
+    "localizedNames": "Exceptional Ghost Hemp"
+  },
+  {
+    "uniqueName": "T4_FIBER_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL4",
+    "localizedNames": "Pristine Hemp"
+  },
+  {
+    "uniqueName": "T5_FIBER_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL4",
+    "localizedNames": "Pristine Skyflower"
+  },
+  {
+    "uniqueName": "T6_FIBER_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL4",
+    "localizedNames": "Pristine Amberleaf Cotton"
+  },
+  {
+    "uniqueName": "T7_FIBER_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL4",
+    "localizedNames": "Pristine Sunflax"
+  },
+  {
+    "uniqueName": "T8_FIBER_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "resources",
+    "uiSprite": "FIBER_LEVEL4",
+    "localizedNames": "Pristine Ghost Hemp"
+  },
+  {
+    "uniqueName": "T2_PLANKS",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS",
+    "localizedNames": "Birch Planks"
+  },
+  {
+    "uniqueName": "T3_PLANKS",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS",
+    "localizedNames": "Chestnut Planks"
+  },
+  {
+    "uniqueName": "T4_PLANKS",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS",
+    "localizedNames": "Pine Planks"
+  },
+  {
+    "uniqueName": "T5_PLANKS",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS",
+    "localizedNames": "Cedar Planks"
+  },
+  {
+    "uniqueName": "T6_PLANKS",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS",
+    "localizedNames": "Bloodoak Planks"
+  },
+  {
+    "uniqueName": "T7_PLANKS",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS",
+    "localizedNames": "Ashenbark Planks"
+  },
+  {
+    "uniqueName": "T8_PLANKS",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS",
+    "localizedNames": "Whitewood Planks"
+  },
+  {
+    "uniqueName": "T4_PLANKS_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL1",
+    "localizedNames": "Uncommon Pine Planks"
+  },
+  {
+    "uniqueName": "T5_PLANKS_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL1",
+    "localizedNames": "Uncommon Cedar Planks"
+  },
+  {
+    "uniqueName": "T6_PLANKS_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL1",
+    "localizedNames": "Uncommon Bloodoak Planks"
+  },
+  {
+    "uniqueName": "T7_PLANKS_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL1",
+    "localizedNames": "Uncommon Ashenbark Planks"
+  },
+  {
+    "uniqueName": "T8_PLANKS_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL1",
+    "localizedNames": "Uncommon Whitewood Planks"
+  },
+  {
+    "uniqueName": "T4_PLANKS_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL2",
+    "localizedNames": "Rare Pine Planks"
+  },
+  {
+    "uniqueName": "T5_PLANKS_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL2",
+    "localizedNames": "Rare Cedar Planks"
+  },
+  {
+    "uniqueName": "T6_PLANKS_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL2",
+    "localizedNames": "Rare Bloodoak Planks"
+  },
+  {
+    "uniqueName": "T7_PLANKS_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL2",
+    "localizedNames": "Rare Ashenbark Planks"
+  },
+  {
+    "uniqueName": "T8_PLANKS_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL2",
+    "localizedNames": "Rare Whitewood Planks"
+  },
+  {
+    "uniqueName": "T4_PLANKS_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL3",
+    "localizedNames": "Exceptional Pine Planks"
+  },
+  {
+    "uniqueName": "T5_PLANKS_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL3",
+    "localizedNames": "Exceptional Cedar Planks"
+  },
+  {
+    "uniqueName": "T6_PLANKS_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL3",
+    "localizedNames": "Exceptional Bloodoak Planks"
+  },
+  {
+    "uniqueName": "T7_PLANKS_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL3",
+    "localizedNames": "Exceptional Ashenbark Planks"
+  },
+  {
+    "uniqueName": "T8_PLANKS_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL3",
+    "localizedNames": "Exceptional Whitewood Planks"
+  },
+  {
+    "uniqueName": "T4_PLANKS_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL4",
+    "localizedNames": "Pristine Pine Planks"
+  },
+  {
+    "uniqueName": "T5_PLANKS_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL4",
+    "localizedNames": "Pristine Cedar Planks"
+  },
+  {
+    "uniqueName": "T6_PLANKS_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL4",
+    "localizedNames": "Pristine Bloodoak Planks"
+  },
+  {
+    "uniqueName": "T7_PLANKS_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL4",
+    "localizedNames": "Pristine Ashenbark Planks"
+  },
+  {
+    "uniqueName": "T8_PLANKS_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "PLANKS_LEVEL4",
+    "localizedNames": "Pristine Whitewood Planks"
+  },
+  {
+    "uniqueName": "T2_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "refinedresources",
+    "uiSprite": "STONEBLOCK",
+    "localizedNames": "Limestone Block"
+  },
+  {
+    "uniqueName": "T3_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "refinedresources",
+    "uiSprite": "STONEBLOCK",
+    "localizedNames": "Sandstone Block"
+  },
+  {
+    "uniqueName": "T4_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "STONEBLOCK",
+    "localizedNames": "Travertine Block"
+  },
+  {
+    "uniqueName": "T5_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "STONEBLOCK",
+    "localizedNames": "Granite Block"
+  },
+  {
+    "uniqueName": "T6_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "STONEBLOCK",
+    "localizedNames": "Slate Block"
+  },
+  {
+    "uniqueName": "T7_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "STONEBLOCK",
+    "localizedNames": "Basalt Block"
+  },
+  {
+    "uniqueName": "T8_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "STONEBLOCK",
+    "localizedNames": "Marble Block"
+  },
+  {
+    "uniqueName": "T2_METALBAR",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR",
+    "localizedNames": "Copper Bar"
+  },
+  {
+    "uniqueName": "T3_METALBAR",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR",
+    "localizedNames": "Bronze Bar"
+  },
+  {
+    "uniqueName": "T4_METALBAR",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR",
+    "localizedNames": "Steel Bar"
+  },
+  {
+    "uniqueName": "T5_METALBAR",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR",
+    "localizedNames": "Titanium Steel Bar"
+  },
+  {
+    "uniqueName": "T6_METALBAR",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR",
+    "localizedNames": "Runite Steel Bar"
+  },
+  {
+    "uniqueName": "T7_METALBAR",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR",
+    "localizedNames": "Meteorite Steel Bar"
+  },
+  {
+    "uniqueName": "T8_METALBAR",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR",
+    "localizedNames": "Adamantium Steel Bar"
+  },
+  {
+    "uniqueName": "T4_METALBAR_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL1",
+    "localizedNames": "Uncommon Steel Bar"
+  },
+  {
+    "uniqueName": "T5_METALBAR_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL1",
+    "localizedNames": "Uncommon Titanium Steel Bar"
+  },
+  {
+    "uniqueName": "T6_METALBAR_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL1",
+    "localizedNames": "Uncommon Runite Steel Bar"
+  },
+  {
+    "uniqueName": "T7_METALBAR_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL1",
+    "localizedNames": "Uncommon Meteorite Steel Bar"
+  },
+  {
+    "uniqueName": "T8_METALBAR_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL1",
+    "localizedNames": "Uncommon Adamantium Steel Bar"
+  },
+  {
+    "uniqueName": "T4_METALBAR_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL2",
+    "localizedNames": "Rare Steel Bar"
+  },
+  {
+    "uniqueName": "T5_METALBAR_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL2",
+    "localizedNames": "Rare Titanium Steel Bar"
+  },
+  {
+    "uniqueName": "T6_METALBAR_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL2",
+    "localizedNames": "Rare Runite Steel Bar"
+  },
+  {
+    "uniqueName": "T7_METALBAR_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL2",
+    "localizedNames": "Rare Meteorite Steel Bar"
+  },
+  {
+    "uniqueName": "T8_METALBAR_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL2",
+    "localizedNames": "Rare Adamantium Steel Bar"
+  },
+  {
+    "uniqueName": "T4_METALBAR_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL3",
+    "localizedNames": "Exceptional Steel Bar"
+  },
+  {
+    "uniqueName": "T5_METALBAR_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL3",
+    "localizedNames": "Exceptional Titanium Steel Bar"
+  },
+  {
+    "uniqueName": "T6_METALBAR_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL3",
+    "localizedNames": "Exceptional Runite Steel Bar"
+  },
+  {
+    "uniqueName": "T7_METALBAR_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL3",
+    "localizedNames": "Exceptional Meteorite Steel Bar"
+  },
+  {
+    "uniqueName": "T8_METALBAR_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL3",
+    "localizedNames": "Exceptional Adamantium Steel Bar"
+  },
+  {
+    "uniqueName": "T4_METALBAR_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL4",
+    "localizedNames": "Pristine Steel Bar"
+  },
+  {
+    "uniqueName": "T5_METALBAR_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL4",
+    "localizedNames": "Pristine Titanium Steel Bar"
+  },
+  {
+    "uniqueName": "T6_METALBAR_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL4",
+    "localizedNames": "Pristine Runite Steel Bar"
+  },
+  {
+    "uniqueName": "T7_METALBAR_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL4",
+    "localizedNames": "Pristine Meteorite Steel Bar"
+  },
+  {
+    "uniqueName": "T8_METALBAR_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "METALBAR_LEVEL4",
+    "localizedNames": "Pristine Adamantium Steel Bar"
+  },
+  {
+    "uniqueName": "T2_LEATHER",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER",
+    "localizedNames": "Stiff Leather"
+  },
+  {
+    "uniqueName": "T3_LEATHER",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER",
+    "localizedNames": "Thick Leather"
+  },
+  {
+    "uniqueName": "T4_LEATHER",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER",
+    "localizedNames": "Worked Leather"
+  },
+  {
+    "uniqueName": "T5_LEATHER",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER",
+    "localizedNames": "Cured Leather"
+  },
+  {
+    "uniqueName": "T6_LEATHER",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER",
+    "localizedNames": "Hardened Leather"
+  },
+  {
+    "uniqueName": "T7_LEATHER",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER",
+    "localizedNames": "Reinforced Leather"
+  },
+  {
+    "uniqueName": "T8_LEATHER",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER",
+    "localizedNames": "Fortified Leather"
+  },
+  {
+    "uniqueName": "T4_LEATHER_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL1",
+    "localizedNames": "Uncommon Worked Leather"
+  },
+  {
+    "uniqueName": "T5_LEATHER_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL1",
+    "localizedNames": "Uncommon Cured Leather"
+  },
+  {
+    "uniqueName": "T6_LEATHER_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL1",
+    "localizedNames": "Uncommon Hardened Leather"
+  },
+  {
+    "uniqueName": "T7_LEATHER_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL1",
+    "localizedNames": "Uncommon Reinforced Leather"
+  },
+  {
+    "uniqueName": "T8_LEATHER_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL1",
+    "localizedNames": "Uncommon Fortified Leather"
+  },
+  {
+    "uniqueName": "T4_LEATHER_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL2",
+    "localizedNames": "Rare Worked Leather"
+  },
+  {
+    "uniqueName": "T5_LEATHER_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL2",
+    "localizedNames": "Rare Cured Leather"
+  },
+  {
+    "uniqueName": "T6_LEATHER_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL2",
+    "localizedNames": "Rare Hardened Leather"
+  },
+  {
+    "uniqueName": "T7_LEATHER_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL2",
+    "localizedNames": "Rare Reinforced Leather"
+  },
+  {
+    "uniqueName": "T8_LEATHER_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL2",
+    "localizedNames": "Rare Fortified Leather"
+  },
+  {
+    "uniqueName": "T4_LEATHER_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL3",
+    "localizedNames": "Exceptional Worked Leather"
+  },
+  {
+    "uniqueName": "T5_LEATHER_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL3",
+    "localizedNames": "Exceptional Cured Leather"
+  },
+  {
+    "uniqueName": "T6_LEATHER_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL3",
+    "localizedNames": "Exceptional Hardened Leather"
+  },
+  {
+    "uniqueName": "T7_LEATHER_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL3",
+    "localizedNames": "Exceptional Reinforced Leather"
+  },
+  {
+    "uniqueName": "T8_LEATHER_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL3",
+    "localizedNames": "Exceptional Fortified Leather"
+  },
+  {
+    "uniqueName": "T4_LEATHER_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL4",
+    "localizedNames": "Pristine Worked Leather"
+  },
+  {
+    "uniqueName": "T5_LEATHER_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL4",
+    "localizedNames": "Pristine Cured Leather"
+  },
+  {
+    "uniqueName": "T6_LEATHER_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL4",
+    "localizedNames": "Pristine Hardened Leather"
+  },
+  {
+    "uniqueName": "T7_LEATHER_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL4",
+    "localizedNames": "Pristine Reinforced Leather"
+  },
+  {
+    "uniqueName": "T8_LEATHER_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "LEATHER_LEVEL4",
+    "localizedNames": "Pristine Fortified Leather"
+  },
+  {
+    "uniqueName": "T2_CLOTH",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH",
+    "localizedNames": "Simple Cloth"
+  },
+  {
+    "uniqueName": "T3_CLOTH",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH",
+    "localizedNames": "Neat Cloth"
+  },
+  {
+    "uniqueName": "T4_CLOTH",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH",
+    "localizedNames": "Fine Cloth"
+  },
+  {
+    "uniqueName": "T5_CLOTH",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH",
+    "localizedNames": "Ornate Cloth"
+  },
+  {
+    "uniqueName": "T6_CLOTH",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH",
+    "localizedNames": "Lavish Cloth"
+  },
+  {
+    "uniqueName": "T7_CLOTH",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH",
+    "localizedNames": "Opulent Cloth"
+  },
+  {
+    "uniqueName": "T8_CLOTH",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH",
+    "localizedNames": "Baroque Cloth"
+  },
+  {
+    "uniqueName": "T4_CLOTH_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL1",
+    "localizedNames": "Uncommon Fine Cloth"
+  },
+  {
+    "uniqueName": "T5_CLOTH_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL1",
+    "localizedNames": "Uncommon Ornate Cloth"
+  },
+  {
+    "uniqueName": "T6_CLOTH_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL1",
+    "localizedNames": "Uncommon Lavish Cloth"
+  },
+  {
+    "uniqueName": "T7_CLOTH_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL1",
+    "localizedNames": "Uncommon Opulent Cloth"
+  },
+  {
+    "uniqueName": "T8_CLOTH_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL1",
+    "localizedNames": "Uncommon Baroque Cloth"
+  },
+  {
+    "uniqueName": "T4_CLOTH_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL2",
+    "localizedNames": "Rare Fine Cloth"
+  },
+  {
+    "uniqueName": "T5_CLOTH_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL2",
+    "localizedNames": "Rare Ornate Cloth"
+  },
+  {
+    "uniqueName": "T6_CLOTH_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL2",
+    "localizedNames": "Rare Lavish Cloth"
+  },
+  {
+    "uniqueName": "T7_CLOTH_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL2",
+    "localizedNames": "Rare Opulent Cloth"
+  },
+  {
+    "uniqueName": "T8_CLOTH_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL2",
+    "localizedNames": "Rare Baroque Cloth"
+  },
+  {
+    "uniqueName": "T4_CLOTH_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL3",
+    "localizedNames": "Exceptional Fine Cloth"
+  },
+  {
+    "uniqueName": "T5_CLOTH_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL3",
+    "localizedNames": "Exceptional Ornate Cloth"
+  },
+  {
+    "uniqueName": "T6_CLOTH_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL3",
+    "localizedNames": "Exceptional Lavish Cloth"
+  },
+  {
+    "uniqueName": "T7_CLOTH_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL3",
+    "localizedNames": "Exceptional Opulent Cloth"
+  },
+  {
+    "uniqueName": "T8_CLOTH_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL3",
+    "localizedNames": "Exceptional Baroque Cloth"
+  },
+  {
+    "uniqueName": "T4_CLOTH_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL4",
+    "localizedNames": "Pristine Fine Cloth"
+  },
+  {
+    "uniqueName": "T5_CLOTH_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL4",
+    "localizedNames": "Pristine Ornate Cloth"
+  },
+  {
+    "uniqueName": "T6_CLOTH_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL4",
+    "localizedNames": "Pristine Lavish Cloth"
+  },
+  {
+    "uniqueName": "T7_CLOTH_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL4",
+    "localizedNames": "Pristine Opulent Cloth"
+  },
+  {
+    "uniqueName": "T8_CLOTH_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "uiSprite": "CLOTH_LEVEL4",
+    "localizedNames": "Pristine Baroque Cloth"
+  }
+]

@@ -1,0 +1,2532 @@
+[
+  {
+    "uniqueName": "T2_PLANKS",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "refinedresources",
+    "localizedNames": "Birch Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T2_WOOD",
+        "count": 1,
+        "weight": 0.2,
+        "localizedNames": "Birch Logs"
+      }
+    ],
+    "weight": 0.2,
+    "itemValue": 0
+  },
+  {
+    "uniqueName": "T3_PLANKS",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "refinedresources",
+    "localizedNames": "Chestnut Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T3_WOOD",
+        "count": 2,
+        "weight": 0.3,
+        "localizedNames": "Chestnut Logs"
+      },
+      {
+        "uniqueName": "T2_PLANKS",
+        "count": 1,
+        "weight": 0.2,
+        "localizedNames": "Birch Planks"
+      }
+    ],
+    "weight": 0.3,
+    "itemValue": 8
+  },
+  {
+    "uniqueName": "T4_PLANKS",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pine Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_WOOD",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Pine Logs"
+      },
+      {
+        "uniqueName": "T3_PLANKS",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Chestnut Planks"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 16
+  },
+  {
+    "uniqueName": "T5_PLANKS",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Cedar Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_WOOD",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Cedar Logs"
+      },
+      {
+        "uniqueName": "T4_PLANKS",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Pine Planks"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 32
+  },
+  {
+    "uniqueName": "T6_PLANKS",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Bloodoak Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_WOOD",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Bloodoak Logs"
+      },
+      {
+        "uniqueName": "T5_PLANKS",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Cedar Planks"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T7_PLANKS",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Ashenbark Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_WOOD",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Ashenbark Logs"
+      },
+      {
+        "uniqueName": "T6_PLANKS",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Bloodoak Planks"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T8_PLANKS",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Whitewood Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_WOOD",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Whitewood Logs"
+      },
+      {
+        "uniqueName": "T7_PLANKS",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Ashenbark Planks"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T4_PLANKS_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Pine Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_WOOD_LEVEL1",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Uncommon Pine Logs"
+      },
+      {
+        "uniqueName": "T3_PLANKS",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Chestnut Planks"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 32
+  },
+  {
+    "uniqueName": "T5_PLANKS_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Cedar Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_WOOD_LEVEL1",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Uncommon Cedar Logs"
+      },
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Uncommon Pine Planks"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T6_PLANKS_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Bloodoak Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_WOOD_LEVEL1",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Uncommon Bloodoak Logs"
+      },
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Uncommon Cedar Planks"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T7_PLANKS_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Ashenbark Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_WOOD_LEVEL1",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Uncommon Ashenbark Logs"
+      },
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Uncommon Bloodoak Planks"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T8_PLANKS_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Whitewood Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_WOOD_LEVEL1",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Uncommon Whitewood Logs"
+      },
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Uncommon Ashenbark Planks"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T4_PLANKS_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Pine Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_WOOD_LEVEL2",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Rare Pine Logs"
+      },
+      {
+        "uniqueName": "T3_PLANKS",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Chestnut Planks"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T5_PLANKS_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Cedar Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_WOOD_LEVEL2",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Rare Cedar Logs"
+      },
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Rare Pine Planks"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T6_PLANKS_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Bloodoak Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_WOOD_LEVEL2",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Rare Bloodoak Logs"
+      },
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Rare Cedar Planks"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T7_PLANKS_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Ashenbark Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_WOOD_LEVEL2",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Rare Ashenbark Logs"
+      },
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Rare Bloodoak Planks"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T8_PLANKS_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Whitewood Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_WOOD_LEVEL2",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Rare Whitewood Logs"
+      },
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Rare Ashenbark Planks"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T4_PLANKS_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Pine Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_WOOD_LEVEL3",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Exceptional Pine Logs"
+      },
+      {
+        "uniqueName": "T3_PLANKS",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Chestnut Planks"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T5_PLANKS_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Cedar Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_WOOD_LEVEL3",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Exceptional Cedar Logs"
+      },
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Exceptional Pine Planks"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T6_PLANKS_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Bloodoak Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_WOOD_LEVEL3",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Exceptional Bloodoak Logs"
+      },
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Exceptional Cedar Planks"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T7_PLANKS_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Ashenbark Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_WOOD_LEVEL3",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Exceptional Ashenbark Logs"
+      },
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Exceptional Bloodoak Planks"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T8_PLANKS_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Whitewood Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_WOOD_LEVEL3",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Exceptional Whitewood Logs"
+      },
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Exceptional Ashenbark Planks"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 2048
+  },
+  {
+    "uniqueName": "T4_PLANKS_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Pine Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_WOOD_LEVEL4",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Pristine Pine Logs"
+      },
+      {
+        "uniqueName": "T3_PLANKS",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Chestnut Planks"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T5_PLANKS_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Cedar Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_WOOD_LEVEL4",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Pristine Cedar Logs"
+      },
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Pristine Pine Planks"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T6_PLANKS_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Bloodoak Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_WOOD_LEVEL4",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Pristine Bloodoak Logs"
+      },
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Pristine Cedar Planks"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T7_PLANKS_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Ashenbark Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_WOOD_LEVEL4",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Pristine Ashenbark Logs"
+      },
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Pristine Bloodoak Planks"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 2048
+  },
+  {
+    "uniqueName": "T8_PLANKS_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Whitewood Planks",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_WOOD_LEVEL4",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Pristine Whitewood Logs"
+      },
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Pristine Ashenbark Planks"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 4096
+  },
+  {
+    "uniqueName": "T2_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "refinedresources",
+    "localizedNames": "Limestone Block",
+    "craftMaterial": [],
+    "weight": 0.2,
+    "itemValue": 0
+  },
+  {
+    "uniqueName": "T3_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "refinedresources",
+    "localizedNames": "Sandstone Block",
+    "craftMaterial": [],
+    "weight": 0.3,
+    "itemValue": 8
+  },
+  {
+    "uniqueName": "T4_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Travertine Block",
+    "craftMaterial": [],
+    "weight": 0.5,
+    "itemValue": 16
+  },
+  {
+    "uniqueName": "T5_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Granite Block",
+    "craftMaterial": [],
+    "weight": 0.8,
+    "itemValue": 32
+  },
+  {
+    "uniqueName": "T6_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Slate Block",
+    "craftMaterial": [],
+    "weight": 1.1,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T7_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Basalt Block",
+    "craftMaterial": [],
+    "weight": 1.7,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T8_STONEBLOCK",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Marble Block",
+    "craftMaterial": [],
+    "weight": 2.6,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T2_METALBAR",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "refinedresources",
+    "localizedNames": "Copper Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T2_ORE",
+        "count": 1,
+        "weight": 0.2,
+        "localizedNames": "Copper Ore"
+      }
+    ],
+    "weight": 0.2,
+    "itemValue": 0
+  },
+  {
+    "uniqueName": "T3_METALBAR",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "refinedresources",
+    "localizedNames": "Bronze Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T3_ORE",
+        "count": 2,
+        "weight": 0.3,
+        "localizedNames": "Tin Ore"
+      },
+      {
+        "uniqueName": "T2_METALBAR",
+        "count": 1,
+        "weight": 0.2,
+        "localizedNames": "Copper Bar"
+      }
+    ],
+    "weight": 0.3,
+    "itemValue": 8
+  },
+  {
+    "uniqueName": "T4_METALBAR",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_ORE",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Iron Ore"
+      },
+      {
+        "uniqueName": "T3_METALBAR",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Bronze Bar"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 16
+  },
+  {
+    "uniqueName": "T5_METALBAR",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Titanium Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_ORE",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Titanium Ore"
+      },
+      {
+        "uniqueName": "T4_METALBAR",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Steel Bar"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 32
+  },
+  {
+    "uniqueName": "T6_METALBAR",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Runite Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_ORE",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Runite Ore"
+      },
+      {
+        "uniqueName": "T5_METALBAR",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Titanium Steel Bar"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T7_METALBAR",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Meteorite Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_ORE",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Meteorite Ore"
+      },
+      {
+        "uniqueName": "T6_METALBAR",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Runite Steel Bar"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T8_METALBAR",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Adamantium Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_ORE",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Adamantium Ore"
+      },
+      {
+        "uniqueName": "T7_METALBAR",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Meteorite Steel Bar"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T4_METALBAR_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_ORE_LEVEL1",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Uncommon Iron Ore"
+      },
+      {
+        "uniqueName": "T3_METALBAR",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Bronze Bar"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 32
+  },
+  {
+    "uniqueName": "T5_METALBAR_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Titanium Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_ORE_LEVEL1",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Uncommon Titanium Ore"
+      },
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Uncommon Steel Bar"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T6_METALBAR_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Runite Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_ORE_LEVEL1",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Uncommon Runite Ore"
+      },
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Uncommon Titanium Steel Bar"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T7_METALBAR_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Meteorite Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_ORE_LEVEL1",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Uncommon Meteorite Ore"
+      },
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Uncommon Runite Steel Bar"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T8_METALBAR_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Adamantium Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_ORE_LEVEL1",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Uncommon Adamantium Ore"
+      },
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Uncommon Meteorite Steel Bar"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T4_METALBAR_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_ORE_LEVEL2",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Rare Iron Ore"
+      },
+      {
+        "uniqueName": "T3_METALBAR",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Bronze Bar"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T5_METALBAR_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Titanium Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_ORE_LEVEL2",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Rare Titanium Ore"
+      },
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Rare Steel Bar"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T6_METALBAR_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Runite Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_ORE_LEVEL2",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Rare Runite Ore"
+      },
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Rare Titanium Steel Bar"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T7_METALBAR_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Meteorite Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_ORE_LEVEL2",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Rare Meteorite Ore"
+      },
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Rare Runite Steel Bar"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T8_METALBAR_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Adamantium Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_ORE_LEVEL2",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Rare Adamantium Ore"
+      },
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Rare Meteorite Steel Bar"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T4_METALBAR_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_ORE_LEVEL3",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Exceptional Iron Ore"
+      },
+      {
+        "uniqueName": "T3_METALBAR",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Bronze Bar"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T5_METALBAR_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Titanium Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_ORE_LEVEL3",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Exceptional Titanium Ore"
+      },
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Exceptional Steel Bar"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T6_METALBAR_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Runite Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_ORE_LEVEL3",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Exceptional Runite Ore"
+      },
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Exceptional Titanium Steel Bar"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T7_METALBAR_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Meteorite Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_ORE_LEVEL3",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Exceptional Meteorite Ore"
+      },
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Exceptional Runite Steel Bar"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T8_METALBAR_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Adamantium Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_ORE_LEVEL3",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Exceptional Adamantium Ore"
+      },
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Exceptional Meteorite Steel Bar"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 2048
+  },
+  {
+    "uniqueName": "T4_METALBAR_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_ORE_LEVEL4",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Pristine Iron Ore"
+      },
+      {
+        "uniqueName": "T3_METALBAR",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Bronze Bar"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T5_METALBAR_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Titanium Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_ORE_LEVEL4",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Pristine Titanium Ore"
+      },
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Pristine Steel Bar"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T6_METALBAR_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Runite Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_ORE_LEVEL4",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Pristine Runite Ore"
+      },
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Pristine Titanium Steel Bar"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T7_METALBAR_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Meteorite Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_ORE_LEVEL4",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Pristine Meteorite Ore"
+      },
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Pristine Runite Steel Bar"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 2048
+  },
+  {
+    "uniqueName": "T8_METALBAR_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Adamantium Steel Bar",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_ORE_LEVEL4",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Pristine Adamantium Ore"
+      },
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Pristine Meteorite Steel Bar"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 4096
+  },
+  {
+    "uniqueName": "T2_LEATHER",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "refinedresources",
+    "localizedNames": "Stiff Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T2_HIDE",
+        "count": 1,
+        "weight": 0.2,
+        "localizedNames": "Rugged Hide"
+      }
+    ],
+    "weight": 0.2,
+    "itemValue": 0
+  },
+  {
+    "uniqueName": "T3_LEATHER",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "refinedresources",
+    "localizedNames": "Thick Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T3_HIDE",
+        "count": 2,
+        "weight": 0.3,
+        "localizedNames": "Thin Hide"
+      },
+      {
+        "uniqueName": "T2_LEATHER",
+        "count": 1,
+        "weight": 0.2,
+        "localizedNames": "Stiff Leather"
+      }
+    ],
+    "weight": 0.3,
+    "itemValue": 8
+  },
+  {
+    "uniqueName": "T4_LEATHER",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Worked Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_HIDE",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Medium Hide"
+      },
+      {
+        "uniqueName": "T3_LEATHER",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Thick Leather"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 16
+  },
+  {
+    "uniqueName": "T5_LEATHER",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Cured Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_HIDE",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Heavy Hide"
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Worked Leather"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 32
+  },
+  {
+    "uniqueName": "T6_LEATHER",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Hardened Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_HIDE",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Robust Hide"
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Cured Leather"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T7_LEATHER",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Reinforced Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_HIDE",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Thick Hide"
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Hardened Leather"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T8_LEATHER",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Fortified Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_HIDE",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Resilient Hide"
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Reinforced Leather"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T4_LEATHER_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Worked Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_HIDE_LEVEL1",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Uncommon Medium Hide"
+      },
+      {
+        "uniqueName": "T3_LEATHER",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Thick Leather"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 32
+  },
+  {
+    "uniqueName": "T5_LEATHER_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Cured Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_HIDE_LEVEL1",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Uncommon Heavy Hide"
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Uncommon Worked Leather"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T6_LEATHER_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Hardened Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_HIDE_LEVEL1",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Uncommon Robust Hide"
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Uncommon Cured Leather"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T7_LEATHER_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Reinforced Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_HIDE_LEVEL1",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Uncommon Thick Hide"
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Uncommon Hardened Leather"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T8_LEATHER_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Fortified Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_HIDE_LEVEL1",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Uncommon Resilient Hide"
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Uncommon Reinforced Leather"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T4_LEATHER_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Worked Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_HIDE_LEVEL2",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Rare Medium Hide"
+      },
+      {
+        "uniqueName": "T3_LEATHER",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Thick Leather"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T5_LEATHER_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Cured Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_HIDE_LEVEL2",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Rare Heavy Hide"
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Rare Worked Leather"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T6_LEATHER_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Hardened Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_HIDE_LEVEL2",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Rare Robust Hide"
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Rare Cured Leather"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T7_LEATHER_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Reinforced Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_HIDE_LEVEL2",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Rare Thick Hide"
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Rare Hardened Leather"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T8_LEATHER_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Fortified Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_HIDE_LEVEL2",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Rare Resilient Hide"
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Rare Reinforced Leather"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T4_LEATHER_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Worked Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_HIDE_LEVEL3",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Exceptional Medium Hide"
+      },
+      {
+        "uniqueName": "T3_LEATHER",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Thick Leather"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T5_LEATHER_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Cured Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_HIDE_LEVEL3",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Exceptional Heavy Hide"
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Exceptional Worked Leather"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T6_LEATHER_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Hardened Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_HIDE_LEVEL3",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Exceptional Robust Hide"
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Exceptional Cured Leather"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T7_LEATHER_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Reinforced Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_HIDE_LEVEL3",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Exceptional Thick Hide"
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Exceptional Hardened Leather"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T8_LEATHER_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Fortified Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_HIDE_LEVEL3",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Exceptional Resilient Hide"
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Exceptional Reinforced Leather"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 2048
+  },
+  {
+    "uniqueName": "T4_LEATHER_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Worked Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_HIDE_LEVEL4",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Pristine Medium Hide"
+      },
+      {
+        "uniqueName": "T3_LEATHER",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Thick Leather"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T5_LEATHER_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Cured Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_HIDE_LEVEL4",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Pristine Heavy Hide"
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Pristine Worked Leather"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T6_LEATHER_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Hardened Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_HIDE_LEVEL4",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Pristine Robust Hide"
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Pristine Cured Leather"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T7_LEATHER_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Reinforced Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_HIDE_LEVEL4",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Pristine Thick Hide"
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Pristine Hardened Leather"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 2048
+  },
+  {
+    "uniqueName": "T8_LEATHER_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Fortified Leather",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_HIDE_LEVEL4",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Pristine Resilient Hide"
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Pristine Reinforced Leather"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 4096
+  },
+  {
+    "uniqueName": "T2_CLOTH",
+    "enchantment": 0,
+    "tier": 2,
+    "categoryId": "refinedresources",
+    "localizedNames": "Simple Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T2_FIBER",
+        "count": 1,
+        "weight": 0.2,
+        "localizedNames": "Cotton"
+      }
+    ],
+    "weight": 0.2,
+    "itemValue": 0
+  },
+  {
+    "uniqueName": "T3_CLOTH",
+    "enchantment": 0,
+    "tier": 3,
+    "categoryId": "refinedresources",
+    "localizedNames": "Neat Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T3_FIBER",
+        "count": 2,
+        "weight": 0.3,
+        "localizedNames": "Flax"
+      },
+      {
+        "uniqueName": "T2_CLOTH",
+        "count": 1,
+        "weight": 0.2,
+        "localizedNames": "Simple Cloth"
+      }
+    ],
+    "weight": 0.3,
+    "itemValue": 8
+  },
+  {
+    "uniqueName": "T4_CLOTH",
+    "enchantment": 0,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Fine Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_FIBER",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Hemp"
+      },
+      {
+        "uniqueName": "T3_CLOTH",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Neat Cloth"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 16
+  },
+  {
+    "uniqueName": "T5_CLOTH",
+    "enchantment": 0,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Ornate Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_FIBER",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Skyflower"
+      },
+      {
+        "uniqueName": "T4_CLOTH",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Fine Cloth"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 32
+  },
+  {
+    "uniqueName": "T6_CLOTH",
+    "enchantment": 0,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Lavish Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_FIBER",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Amberleaf Cotton"
+      },
+      {
+        "uniqueName": "T5_CLOTH",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Ornate Cloth"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T7_CLOTH",
+    "enchantment": 0,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Opulent Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_FIBER",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Sunflax"
+      },
+      {
+        "uniqueName": "T6_CLOTH",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Lavish Cloth"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T8_CLOTH",
+    "enchantment": 0,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Baroque Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_FIBER",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Ghost Hemp"
+      },
+      {
+        "uniqueName": "T7_CLOTH",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Opulent Cloth"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T4_CLOTH_LEVEL1",
+    "enchantment": 1,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Fine Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_FIBER_LEVEL1",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Uncommon Hemp"
+      },
+      {
+        "uniqueName": "T3_CLOTH",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Neat Cloth"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 32
+  },
+  {
+    "uniqueName": "T5_CLOTH_LEVEL1",
+    "enchantment": 1,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Ornate Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_FIBER_LEVEL1",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Uncommon Skyflower"
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Uncommon Fine Cloth"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T6_CLOTH_LEVEL1",
+    "enchantment": 1,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Lavish Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_FIBER_LEVEL1",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Uncommon Amberleaf Cotton"
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Uncommon Ornate Cloth"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T7_CLOTH_LEVEL1",
+    "enchantment": 1,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Opulent Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_FIBER_LEVEL1",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Uncommon Sunflax"
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Uncommon Lavish Cloth"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T8_CLOTH_LEVEL1",
+    "enchantment": 1,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Uncommon Baroque Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_FIBER_LEVEL1",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Uncommon Ghost Hemp"
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Uncommon Opulent Cloth"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T4_CLOTH_LEVEL2",
+    "enchantment": 2,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Fine Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_FIBER_LEVEL2",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Rare Hemp"
+      },
+      {
+        "uniqueName": "T3_CLOTH",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Neat Cloth"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 64
+  },
+  {
+    "uniqueName": "T5_CLOTH_LEVEL2",
+    "enchantment": 2,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Ornate Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_FIBER_LEVEL2",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Rare Skyflower"
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Rare Fine Cloth"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T6_CLOTH_LEVEL2",
+    "enchantment": 2,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Lavish Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_FIBER_LEVEL2",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Rare Amberleaf Cotton"
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Rare Ornate Cloth"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T7_CLOTH_LEVEL2",
+    "enchantment": 2,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Opulent Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_FIBER_LEVEL2",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Rare Sunflax"
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Rare Lavish Cloth"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T8_CLOTH_LEVEL2",
+    "enchantment": 2,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Rare Baroque Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_FIBER_LEVEL2",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Rare Ghost Hemp"
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Rare Opulent Cloth"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T4_CLOTH_LEVEL3",
+    "enchantment": 3,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Fine Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_FIBER_LEVEL3",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Exceptional Hemp"
+      },
+      {
+        "uniqueName": "T3_CLOTH",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Neat Cloth"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 128
+  },
+  {
+    "uniqueName": "T5_CLOTH_LEVEL3",
+    "enchantment": 3,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Ornate Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_FIBER_LEVEL3",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Exceptional Skyflower"
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Exceptional Fine Cloth"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T6_CLOTH_LEVEL3",
+    "enchantment": 3,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Lavish Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_FIBER_LEVEL3",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Exceptional Amberleaf Cotton"
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Exceptional Ornate Cloth"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T7_CLOTH_LEVEL3",
+    "enchantment": 3,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Opulent Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_FIBER_LEVEL3",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Exceptional Sunflax"
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Exceptional Lavish Cloth"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T8_CLOTH_LEVEL3",
+    "enchantment": 3,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Exceptional Baroque Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_FIBER_LEVEL3",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Exceptional Ghost Hemp"
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Exceptional Opulent Cloth"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 2048
+  },
+  {
+    "uniqueName": "T4_CLOTH_LEVEL4",
+    "enchantment": 4,
+    "tier": 4,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Fine Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_FIBER_LEVEL4",
+        "count": 2,
+        "weight": 0.5,
+        "localizedNames": "Pristine Hemp"
+      },
+      {
+        "uniqueName": "T3_CLOTH",
+        "count": 1,
+        "weight": 0.3,
+        "localizedNames": "Neat Cloth"
+      }
+    ],
+    "weight": 0.5,
+    "itemValue": 256
+  },
+  {
+    "uniqueName": "T5_CLOTH_LEVEL4",
+    "enchantment": 4,
+    "tier": 5,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Ornate Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_FIBER_LEVEL4",
+        "count": 3,
+        "weight": 0.8,
+        "localizedNames": "Pristine Skyflower"
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "count": 1,
+        "weight": 0.5,
+        "localizedNames": "Pristine Fine Cloth"
+      }
+    ],
+    "weight": 0.8,
+    "itemValue": 512
+  },
+  {
+    "uniqueName": "T6_CLOTH_LEVEL4",
+    "enchantment": 4,
+    "tier": 6,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Lavish Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_FIBER_LEVEL4",
+        "count": 4,
+        "weight": 1.1,
+        "localizedNames": "Pristine Amberleaf Cotton"
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "count": 1,
+        "weight": 0.8,
+        "localizedNames": "Pristine Ornate Cloth"
+      }
+    ],
+    "weight": 1.1,
+    "itemValue": 1024
+  },
+  {
+    "uniqueName": "T7_CLOTH_LEVEL4",
+    "enchantment": 4,
+    "tier": 7,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Opulent Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_FIBER_LEVEL4",
+        "count": 5,
+        "weight": 1.7,
+        "localizedNames": "Pristine Sunflax"
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "count": 1,
+        "weight": 1.1,
+        "localizedNames": "Pristine Lavish Cloth"
+      }
+    ],
+    "weight": 1.7,
+    "itemValue": 2048
+  },
+  {
+    "uniqueName": "T8_CLOTH_LEVEL4",
+    "enchantment": 4,
+    "tier": 8,
+    "categoryId": "refinedresources",
+    "localizedNames": "Pristine Baroque Cloth",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_FIBER_LEVEL4",
+        "count": 5,
+        "weight": 2.6,
+        "localizedNames": "Pristine Ghost Hemp"
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "count": 1,
+        "weight": 1.7,
+        "localizedNames": "Pristine Opulent Cloth"
+      }
+    ],
+    "weight": 2.6,
+    "itemValue": 4096
+  }
+]
