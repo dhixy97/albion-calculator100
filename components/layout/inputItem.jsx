@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from "react";
 import ImageIcon from "../icon/ImageIcon";
 import refined from "@/data/refined.json";
+import offhand from "@/data/offhand.json"
 import { useRecipes } from "@/context/RecipeContext";
 
 export default function InputItem({localReturnRate, handleReturnRateChange}) {
@@ -35,11 +36,12 @@ export default function InputItem({localReturnRate, handleReturnRateChange}) {
     return () => document.removeEventListener("mousedown", handleClikcOutside);
   }, []);
 
-  // Filter item list
-  const filterItems = refined.filter((item) =>
-    item.localizedNames.toLowerCase().includes(query.toLowerCase()),
-  );
+  const allItems = [...refined,...offhand]
 
+  // Filter item list
+  const filterItems = allItems.filter((item) =>
+  item.localizedNames?.toLowerCase().includes(query.toLowerCase()),
+);
   // fungsi ubah format penulisan pada return rate
 
 

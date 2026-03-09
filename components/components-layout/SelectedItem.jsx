@@ -8,32 +8,42 @@ import { calculateProfit } from "@/helper/calculateProfit";
 
 export default function SelectedItem({ recipes }) {
   const [open, setOpen] = useState(true);
-  const { removeRecipe, setRecipes, cityBuyMats, sellCity, sellTax, buyTax, premium } = useRecipes();
+  const {
+    removeRecipe,
+    setRecipes,
+    cityBuyMats,
+    sellCity,
+    sellTax,
+    buyTax,
+    premium,
+  } = useRecipes();
   const [buyPriceMats, setBuyPriceMats] = useState(0);
   const [sellPriceItem, setSellPriceItem] = useState(0);
-  const needMaterials = countNeedMaterials(recipes);
-  // Fect harga untuk materials
-  useEffect(() => {
-    async function fetchBuyPrice() {
-      const updatedMaterials = await Promise.all(
-        recipes.craftMaterial.map(async (mat) => {
-          const res = await fetch(
-            `https://east.albion-online-data.com/api/v2/stats/prices/${mat.uniqueName}.json?locations=${cityBuyMats}`,
-          );
-          const data = await res.json();
-          return { ...mat, buyPrice: data[0]?.buy_price_max || 0 };
-        }),
-      );
-      setRecipes((prev) =>
-        prev.map((r) =>
-          r.uniqueName === recipes.uniqueName
-            ? { ...r, craftMaterial: updatedMaterials }
-            : r,
-        ),
-      );
-    }
-    fetchBuyPrice();
-  }, [recipes.uniqueName, cityBuyMats, setRecipes]);
+  const needMaterials = countNeedMaterials(recipes ?? { craftMaterial: [] });
+ useEffect(() => {
+  async function fetchBuyPrice() {
+    if (!recipes?.craftMaterial) return; // <- pastikan ada craftMaterial
+
+    const updatedMaterials = await Promise.all(
+      recipes.craftMaterial.map(async (mat) => {
+        const res = await fetch(
+          `https://east.albion-online-data.com/api/v2/stats/prices/${mat.uniqueName}.json?locations=${cityBuyMats}`
+        );
+        const data = await res.json();
+        return { ...mat, buyPrice: data[0]?.buy_price_max || 0 };
+      })
+    );
+
+    setRecipes((prev) =>
+      prev.map((r) =>
+        r.uniqueName === recipes.uniqueName
+          ? { ...r, craftMaterial: updatedMaterials }
+          : r
+      )
+    );
+  }
+  fetchBuyPrice();
+}, [recipes.uniqueName, cityBuyMats, setRecipes]);
 
   useEffect(() => {
     async function fetchSellPrice() {
@@ -62,13 +72,13 @@ export default function SelectedItem({ recipes }) {
 
     fetchSellPrice();
   }, [recipes.uniqueName, sellCity]);
-  
+
   const { materialCost, sellFee, profit } = calculateProfit(
-  recipes,
-  premium,
-  sellTax,
-  buyTax,
-);
+    recipes,
+    premium,
+    sellTax,
+    buyTax,
+  );
 
   return (
     <div className="mt-2 w-full">
@@ -92,7 +102,11 @@ export default function SelectedItem({ recipes }) {
 
             {/* Price */}
             <div className="flex justify-between items-center gap-2">
-              <span className={`text-sm ${profit > 0 ? "text-green-500" : "text-red-500"}`}>{Math.round(profit).toLocaleString()}Silver</span>
+              <span
+                className={`text-sm ${profit > 0 ? "text-green-500" : "text-red-500"}`}
+              >
+                {Math.round(profit).toLocaleString()}Silver
+              </span>
 
               <div className="flex gap-1">
                 <button
@@ -197,7 +211,7 @@ export default function SelectedItem({ recipes }) {
               <div className="flex flex-col">
                 <label className="text-white text-sm">Weight</label>
                 <span className="text-white text-sm">
-                  {recipes.weight * recipes.quantity}kg
+                  {recipes.weight * recipes.quantity || 0}kg
                 </span>
               </div>
             </div>
