@@ -27,8 +27,9 @@ export function calculateProfit(recipe, premium, sellTax, buyTax) {
 
   const sellFee = totalSellPrice * sellFeeRate;
   const feeUsage = Math.ceil(itemsValue * 0.1125 * usageFee / 100)
+  const feeCraft = Math.ceil(feeUsage * quantity)
 
-  const profit = totalSellPrice - materialCost - feeUsage - sellFee;
+  const profit = totalSellPrice - materialCost - feeCraft - sellFee;
 
   return {
     materialCost,
