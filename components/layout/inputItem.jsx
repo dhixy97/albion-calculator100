@@ -5,6 +5,7 @@ import ImageIcon from "../icon/ImageIcon";
 import refined from "@/data/refined.json";
 import offhand from "@/data/offhand.json"
 import clothItems from "@/data/clothItems.json"
+import leatherItems from "@/data/leatherItems.json"
 import { useRecipes } from "@/context/RecipeContext";
 
 export default function InputItem({localReturnRate, handleReturnRateChange}) {
@@ -37,7 +38,7 @@ export default function InputItem({localReturnRate, handleReturnRateChange}) {
     return () => document.removeEventListener("mousedown", handleClikcOutside);
   }, []);
 
-  const allItems = [...refined,...offhand, ...clothItems]
+  const allItems = [...refined,...offhand, ...clothItems, ...leatherItems]
 
   // Filter item list
   const filterItems = allItems.filter((item) =>

@@ -20,6 +20,7 @@ export default function SelectedItem({ recipes }) {
   const [buyPriceMats, setBuyPriceMats] = useState(0);
   const [sellPriceItem, setSellPriceItem] = useState(0);
   const needMaterials = countNeedMaterials(recipes ?? { craftMaterial: [] });
+  
  useEffect(() => {
   async function fetchBuyPrice() {
     if (!recipes?.craftMaterial) return; // <- pastikan ada craftMaterial
