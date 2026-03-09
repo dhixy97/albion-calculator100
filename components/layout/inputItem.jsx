@@ -3,49 +3,48 @@
 import { useState, useEffect, useRef } from "react";
 import ImageIcon from "../icon/ImageIcon";
 import refined from "@/data/refined.json";
-import offhand from "@/data/offhand.json"
-import clothItems from "@/data/clothItems.json"
-import leatherItems from "@/data/leatherItems.json"
+import offhand from "@/data/offhand.json";
+import clothItems from "@/data/clothItems.json";
+import leatherItems from "@/data/leatherItems.json";
+import plateItems from "@/data/plateItems.json";
 import { useRecipes } from "@/context/RecipeContext";
 
-export default function InputItem({localReturnRate, handleReturnRateChange}) {
+export default function InputItem({ localReturnRate, handleReturnRateChange }) {
   const [isOpen, setIsOpen] = useState(false);
   const [query, setQuery] = useState("");
-  const {
-        setRecipes,
-        premium,
-        setPremium,
-        sellTax,
-        setSellTax,
-        buyTax,
-        setBuyTax,
-        selectedItem,
-        setSelectedItem,
-        returnRate,
-        setReturnRate
-  } = useRecipes()
-  
+  const [visibleCount, setVisibleCount] = useState(10);
 
-  // Fungsi menutup item list saat klik di luar
+  const {
+    premium,
+    setPremium,
+    sellTax,
+    setSellTax,
+    buyTax,
+    setBuyTax,
+    selectedItem,
+    setSelectedItem,
+  } = useRecipes();
+
   const dropdownRef = useRef(null);
+
   useEffect(() => {
-    function handleClikcOutside(e) {
+    function handleClickOutside(e) {
       if (dropdownRef.current && !dropdownRef.current.contains(e.target)) {
         setIsOpen(false);
       }
     }
-    document.addEventListener("mousedown", handleClikcOutside);
-    return () => document.removeEventListener("mousedown", handleClikcOutside);
+
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  const allItems = [...refined,...offhand, ...clothItems, ...leatherItems]
+  const allItems = [...refined, ...offhand, ...clothItems, ...leatherItems, ...plateItems];
 
-  // Filter item list
   const filterItems = allItems.filter((item) =>
-  item.localizedNames?.toLowerCase().includes(query.toLowerCase()),
-);
-  // fungsi ubah format penulisan pada return rate
+    item.localizedNames?.toLowerCase().includes(query.toLowerCase())
+  );
 
+  const visibleItems = filterItems.slice(0, visibleCount);
 
   return (
     <div className="bg-neutral-900 border border-neutral-800 rounded-xl p-6 relative">
@@ -68,28 +67,37 @@ export default function InputItem({localReturnRate, handleReturnRateChange}) {
             <input
               value={selectedItem ? selectedItem.localizedNames : query}
               onChange={(e) => {
-                setQuery(e.target.value);
+                const value = e.target.value;
+
+                setQuery(value);
                 setSelectedItem(null);
+                setVisibleCount(10); // reset pagination
+
+                if (value.trim().length > 0) {
+                  setIsOpen(true);
+                } else {
+                  setIsOpen(false);
+                }
               }}
-              onFocus={() => setIsOpen(true)}
               type="text"
               placeholder="Select recipes......"
               className="bg-slate-700 text-gray-200 px-3 h-10 rounded-md text-sm outline-none w-full"
             />
           </div>
 
-          {/* Dropdown list item */}
-          {isOpen && (
+          {/* Dropdown */}
+          {isOpen && query.trim().length > 0 && (
             <div
-              className="absolute top-full mt-2 w-full bg-slate-800 border border-slate-600 rounded-md shadow-lg max-h-60 overflow-y-auto"
               ref={dropdownRef}
+              className="absolute top-full mt-2 w-full bg-slate-800 border border-slate-600 rounded-md shadow-lg max-h-60 overflow-y-auto"
             >
-              {filterItems.map((items) => (
+              {visibleItems.map((items) => (
                 <div
                   key={items.uniqueName}
                   onClick={() => {
                     setIsOpen(false);
-                    setSelectedItem(items)
+                    setSelectedItem(items);
+                    setQuery("");
                   }}
                   className="px-4 py-2 hover:bg-slate-700 cursor-pointer flex items-center gap-3"
                 >
@@ -101,6 +109,22 @@ export default function InputItem({localReturnRate, handleReturnRateChange}) {
                   {items.localizedNames}
                 </div>
               ))}
+
+              {/* tombol more */}
+              {visibleCount < filterItems.length && (
+                <div
+                  onClick={() => setVisibleCount((prev) => prev + 10)}
+                  className="px-4 py-2 text-blue-400 hover:bg-slate-700 cursor-pointer text-center"
+                >
+                  More...
+                </div>
+              )}
+
+              {filterItems.length === 0 && (
+                <div className="px-4 py-2 text-sm text-gray-400">
+                  Item tidak ditemukan
+                </div>
+              )}
             </div>
           )}
         </div>
@@ -117,13 +141,8 @@ export default function InputItem({localReturnRate, handleReturnRateChange}) {
           />
         </div>
 
-        {/* Toggle Premium */}
         <Toggle label="Premium" enabled={premium} setEnabled={setPremium} />
-
-        {/* Toggle sell order */}
-        <Toggle label="Sell order" enabled={sellTax} setEnabled={setSellTax} /> 
-
-        {/* Toggle buy order */}
+        <Toggle label="Sell order" enabled={sellTax} setEnabled={setSellTax} />
         <Toggle label="Buy order" enabled={buyTax} setEnabled={setBuyTax} />
       </div>
     </div>
@@ -134,8 +153,9 @@ function Toggle({ label, enabled, setEnabled }) {
   return (
     <div className="flex flex-col">
       <label className="mb-5 text-gray-200 text-sm">{label}</label>
+
       <button
-        onClick={() => setEnabled(prev => !prev)}
+        onClick={() => setEnabled((prev) => !prev)}
         className={`w-14 h-7 flex items-center rounded-full cursor-pointer p-1 transition ${
           enabled ? "bg-blue-600" : "bg-slate-600"
         }`}
