@@ -9,6 +9,10 @@ export function calculateTotalMaterialCost(recipes, buyTax) {
       return matAcc + finalPrice * mat.totalNeed;
     }, 0);
 
-    return recipeAcc + materialTotal;
+    const usageFee = recipe.usageFee || 0;
+    const itemsValue = recipe.itemValue || 0;
+    const feeUsage = Math.ceil(itemsValue * 0.1125 * usageFee / 100)
+
+    return recipeAcc + materialTotal + feeUsage;
   }, 0);
 }
