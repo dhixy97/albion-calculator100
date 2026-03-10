@@ -21,7 +21,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_DAGGER@1",
@@ -45,7 +45,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_DAGGER@2",
@@ -69,7 +69,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_DAGGER@3",
@@ -93,7 +93,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_DAGGER@4",
@@ -117,7 +117,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_DAGGER",
@@ -141,7 +141,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_DAGGER@1",
@@ -165,7 +165,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_DAGGER@2",
@@ -189,7 +189,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_DAGGER@3",
@@ -213,7 +213,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_DAGGER@4",
@@ -237,7 +237,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_DAGGER",
@@ -261,7 +261,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_DAGGER@1",
@@ -285,7 +285,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_DAGGER@2",
@@ -309,7 +309,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_DAGGER@3",
@@ -333,7 +333,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_DAGGER@4",
@@ -357,7 +357,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_DAGGER",
@@ -381,7 +381,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_DAGGER@1",
@@ -405,7 +405,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_DAGGER@2",
@@ -429,7 +429,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_DAGGER@3",
@@ -453,7 +453,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_DAGGER@4",
@@ -477,7 +477,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_DAGGER",
@@ -501,7 +501,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_DAGGER@1",
@@ -525,7 +525,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_DAGGER@2",
@@ -549,7 +549,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_DAGGER@3",
@@ -573,7 +573,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_DAGGER@4",
@@ -597,7 +597,7 @@
         "count": 12
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGERPAIR",
@@ -621,7 +621,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGERPAIR@1",
@@ -645,7 +645,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGERPAIR@2",
@@ -669,7 +669,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGERPAIR@3",
@@ -693,7 +693,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGERPAIR@4",
@@ -717,7 +717,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGERPAIR",
@@ -741,7 +741,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGERPAIR@1",
@@ -765,7 +765,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGERPAIR@2",
@@ -789,7 +789,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGERPAIR@3",
@@ -813,7 +813,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGERPAIR@4",
@@ -837,7 +837,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGERPAIR",
@@ -861,7 +861,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGERPAIR@1",
@@ -885,7 +885,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGERPAIR@2",
@@ -909,7 +909,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGERPAIR@3",
@@ -933,7 +933,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGERPAIR@4",
@@ -957,7 +957,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGERPAIR",
@@ -981,7 +981,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGERPAIR@1",
@@ -1005,7 +1005,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGERPAIR@2",
@@ -1029,7 +1029,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGERPAIR@3",
@@ -1053,7 +1053,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGERPAIR@4",
@@ -1077,7 +1077,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGERPAIR",
@@ -1101,7 +1101,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGERPAIR@1",
@@ -1125,7 +1125,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGERPAIR@2",
@@ -1149,7 +1149,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGERPAIR@3",
@@ -1173,7 +1173,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGERPAIR@4",
@@ -1197,7 +1197,7 @@
         "count": 16
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_CLAWPAIR",
@@ -1221,7 +1221,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_CLAWPAIR@1",
@@ -1245,7 +1245,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_CLAWPAIR@2",
@@ -1269,7 +1269,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_CLAWPAIR@3",
@@ -1293,7 +1293,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_CLAWPAIR@4",
@@ -1317,7 +1317,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_CLAWPAIR",
@@ -1341,7 +1341,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_CLAWPAIR@1",
@@ -1365,7 +1365,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_CLAWPAIR@2",
@@ -1389,7 +1389,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_CLAWPAIR@3",
@@ -1413,7 +1413,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_CLAWPAIR@4",
@@ -1437,7 +1437,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_CLAWPAIR",
@@ -1461,7 +1461,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_CLAWPAIR@1",
@@ -1485,7 +1485,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_CLAWPAIR@2",
@@ -1509,7 +1509,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_CLAWPAIR@3",
@@ -1533,7 +1533,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_CLAWPAIR@4",
@@ -1557,7 +1557,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_CLAWPAIR",
@@ -1581,7 +1581,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_CLAWPAIR@1",
@@ -1605,7 +1605,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_CLAWPAIR@2",
@@ -1629,7 +1629,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_CLAWPAIR@3",
@@ -1653,7 +1653,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_CLAWPAIR@4",
@@ -1677,7 +1677,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_CLAWPAIR",
@@ -1701,7 +1701,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_CLAWPAIR@1",
@@ -1725,7 +1725,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_CLAWPAIR@2",
@@ -1749,7 +1749,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_CLAWPAIR@3",
@@ -1773,7 +1773,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_CLAWPAIR@4",
@@ -1797,7 +1797,7 @@
         "count": 20
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_RAPIER_MORGANA",
@@ -1827,7 +1827,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_RAPIER_MORGANA@1",
@@ -1857,7 +1857,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_RAPIER_MORGANA@2",
@@ -1887,7 +1887,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_RAPIER_MORGANA@3",
@@ -1917,7 +1917,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_RAPIER_MORGANA@4",
@@ -1947,7 +1947,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_RAPIER_MORGANA",
@@ -1977,7 +1977,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_RAPIER_MORGANA@1",
@@ -2007,7 +2007,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_RAPIER_MORGANA@2",
@@ -2037,7 +2037,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_RAPIER_MORGANA@3",
@@ -2067,7 +2067,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_RAPIER_MORGANA@4",
@@ -2097,7 +2097,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_RAPIER_MORGANA",
@@ -2127,7 +2127,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_RAPIER_MORGANA@1",
@@ -2157,7 +2157,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_RAPIER_MORGANA@2",
@@ -2187,7 +2187,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_RAPIER_MORGANA@3",
@@ -2217,7 +2217,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_RAPIER_MORGANA@4",
@@ -2247,7 +2247,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_RAPIER_MORGANA",
@@ -2277,7 +2277,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_RAPIER_MORGANA@1",
@@ -2307,7 +2307,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_RAPIER_MORGANA@2",
@@ -2337,7 +2337,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_RAPIER_MORGANA@3",
@@ -2367,7 +2367,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_RAPIER_MORGANA@4",
@@ -2397,7 +2397,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_RAPIER_MORGANA",
@@ -2427,7 +2427,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_RAPIER_MORGANA@1",
@@ -2457,7 +2457,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_RAPIER_MORGANA@2",
@@ -2487,7 +2487,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_RAPIER_MORGANA@3",
@@ -2517,7 +2517,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_RAPIER_MORGANA@4",
@@ -2547,7 +2547,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_DAGGER_HELL",
@@ -2577,7 +2577,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_DAGGER_HELL@1",
@@ -2607,7 +2607,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_DAGGER_HELL@2",
@@ -2637,7 +2637,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_DAGGER_HELL@3",
@@ -2667,7 +2667,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_MAIN_DAGGER_HELL@4",
@@ -2697,7 +2697,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_DAGGER_HELL",
@@ -2727,7 +2727,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_DAGGER_HELL@1",
@@ -2757,7 +2757,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_DAGGER_HELL@2",
@@ -2787,7 +2787,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_DAGGER_HELL@3",
@@ -2817,7 +2817,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_MAIN_DAGGER_HELL@4",
@@ -2847,7 +2847,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_DAGGER_HELL",
@@ -2877,7 +2877,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_DAGGER_HELL@1",
@@ -2907,7 +2907,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_DAGGER_HELL@2",
@@ -2937,7 +2937,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_DAGGER_HELL@3",
@@ -2967,7 +2967,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_MAIN_DAGGER_HELL@4",
@@ -2997,7 +2997,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_DAGGER_HELL",
@@ -3027,7 +3027,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_DAGGER_HELL@1",
@@ -3057,7 +3057,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_DAGGER_HELL@2",
@@ -3087,7 +3087,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_DAGGER_HELL@3",
@@ -3117,7 +3117,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_MAIN_DAGGER_HELL@4",
@@ -3147,7 +3147,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_DAGGER_HELL",
@@ -3177,7 +3177,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_DAGGER_HELL@1",
@@ -3207,7 +3207,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_DAGGER_HELL@2",
@@ -3237,7 +3237,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_DAGGER_HELL@3",
@@ -3267,7 +3267,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_MAIN_DAGGER_HELL@4",
@@ -3297,7 +3297,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DUALSICKLE_UNDEAD",
@@ -3327,7 +3327,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DUALSICKLE_UNDEAD@1",
@@ -3357,7 +3357,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DUALSICKLE_UNDEAD@2",
@@ -3387,7 +3387,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DUALSICKLE_UNDEAD@3",
@@ -3417,7 +3417,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DUALSICKLE_UNDEAD@4",
@@ -3447,7 +3447,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DUALSICKLE_UNDEAD",
@@ -3477,7 +3477,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DUALSICKLE_UNDEAD@1",
@@ -3507,7 +3507,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DUALSICKLE_UNDEAD@2",
@@ -3537,7 +3537,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DUALSICKLE_UNDEAD@3",
@@ -3567,7 +3567,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DUALSICKLE_UNDEAD@4",
@@ -3597,7 +3597,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DUALSICKLE_UNDEAD",
@@ -3627,7 +3627,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DUALSICKLE_UNDEAD@1",
@@ -3657,7 +3657,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DUALSICKLE_UNDEAD@2",
@@ -3687,7 +3687,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DUALSICKLE_UNDEAD@3",
@@ -3717,7 +3717,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DUALSICKLE_UNDEAD@4",
@@ -3747,7 +3747,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DUALSICKLE_UNDEAD",
@@ -3777,7 +3777,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DUALSICKLE_UNDEAD@1",
@@ -3807,7 +3807,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DUALSICKLE_UNDEAD@2",
@@ -3837,7 +3837,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DUALSICKLE_UNDEAD@3",
@@ -3867,7 +3867,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DUALSICKLE_UNDEAD@4",
@@ -3897,7 +3897,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DUALSICKLE_UNDEAD",
@@ -3927,7 +3927,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DUALSICKLE_UNDEAD@1",
@@ -3957,7 +3957,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DUALSICKLE_UNDEAD@2",
@@ -3987,7 +3987,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DUALSICKLE_UNDEAD@3",
@@ -4017,7 +4017,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DUALSICKLE_UNDEAD@4",
@@ -4047,7 +4047,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGER_KATAR_AVALON",
@@ -4077,7 +4077,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGER_KATAR_AVALON@1",
@@ -4107,7 +4107,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGER_KATAR_AVALON@2",
@@ -4137,7 +4137,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGER_KATAR_AVALON@3",
@@ -4167,7 +4167,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGER_KATAR_AVALON@4",
@@ -4197,7 +4197,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGER_KATAR_AVALON",
@@ -4227,7 +4227,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGER_KATAR_AVALON@1",
@@ -4257,7 +4257,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGER_KATAR_AVALON@2",
@@ -4287,7 +4287,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGER_KATAR_AVALON@3",
@@ -4317,7 +4317,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGER_KATAR_AVALON@4",
@@ -4347,7 +4347,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGER_KATAR_AVALON",
@@ -4377,7 +4377,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGER_KATAR_AVALON@1",
@@ -4407,7 +4407,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGER_KATAR_AVALON@2",
@@ -4437,7 +4437,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGER_KATAR_AVALON@3",
@@ -4467,7 +4467,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGER_KATAR_AVALON@4",
@@ -4497,7 +4497,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGER_KATAR_AVALON",
@@ -4527,7 +4527,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGER_KATAR_AVALON@1",
@@ -4557,7 +4557,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGER_KATAR_AVALON@2",
@@ -4587,7 +4587,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGER_KATAR_AVALON@3",
@@ -4617,7 +4617,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGER_KATAR_AVALON@4",
@@ -4647,7 +4647,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGER_KATAR_AVALON",
@@ -4677,7 +4677,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGER_KATAR_AVALON@1",
@@ -4707,7 +4707,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGER_KATAR_AVALON@2",
@@ -4737,7 +4737,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGER_KATAR_AVALON@3",
@@ -4767,7 +4767,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGER_KATAR_AVALON@4",
@@ -4797,7 +4797,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGERPAIR_CRYSTAL",
@@ -4827,7 +4827,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGERPAIR_CRYSTAL@1",
@@ -4857,7 +4857,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGERPAIR_CRYSTAL@2",
@@ -4887,7 +4887,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGERPAIR_CRYSTAL@3",
@@ -4917,7 +4917,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_2H_DAGGERPAIR_CRYSTAL@4",
@@ -4947,7 +4947,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGERPAIR_CRYSTAL",
@@ -4977,7 +4977,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGERPAIR_CRYSTAL@1",
@@ -5007,7 +5007,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGERPAIR_CRYSTAL@2",
@@ -5037,7 +5037,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGERPAIR_CRYSTAL@3",
@@ -5067,7 +5067,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_2H_DAGGERPAIR_CRYSTAL@4",
@@ -5097,7 +5097,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGERPAIR_CRYSTAL",
@@ -5127,7 +5127,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGERPAIR_CRYSTAL@1",
@@ -5157,7 +5157,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGERPAIR_CRYSTAL@2",
@@ -5187,7 +5187,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGERPAIR_CRYSTAL@3",
@@ -5217,7 +5217,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_2H_DAGGERPAIR_CRYSTAL@4",
@@ -5247,7 +5247,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGERPAIR_CRYSTAL",
@@ -5277,7 +5277,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGERPAIR_CRYSTAL@1",
@@ -5307,7 +5307,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGERPAIR_CRYSTAL@2",
@@ -5337,7 +5337,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGERPAIR_CRYSTAL@3",
@@ -5367,7 +5367,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_2H_DAGGERPAIR_CRYSTAL@4",
@@ -5397,7 +5397,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGERPAIR_CRYSTAL",
@@ -5427,7 +5427,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGERPAIR_CRYSTAL@1",
@@ -5457,7 +5457,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGERPAIR_CRYSTAL@2",
@@ -5487,7 +5487,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGERPAIR_CRYSTAL@3",
@@ -5517,7 +5517,7 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_2H_DAGGERPAIR_CRYSTAL@4",
@@ -5547,6 +5547,6 @@
         "count": 1
       }
     ],
-    "weight": 0
+    "journalRequired": true
   }
 ]

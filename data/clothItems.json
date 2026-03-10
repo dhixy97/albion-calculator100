@@ -15,7 +15,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET1@1",
@@ -33,7 +34,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET1@2",
@@ -51,7 +53,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET1@3",
@@ -69,7 +72,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET1@4",
@@ -87,7 +91,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET1",
@@ -105,7 +110,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET1@1",
@@ -123,7 +129,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET1@2",
@@ -141,7 +148,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET1@3",
@@ -159,7 +167,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET1@4",
@@ -177,7 +186,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET1",
@@ -195,7 +205,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET1@1",
@@ -213,7 +224,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET1@2",
@@ -231,7 +243,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET1@3",
@@ -249,7 +262,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET1@4",
@@ -267,7 +281,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET1",
@@ -285,7 +300,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET1@1",
@@ -303,7 +319,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET1@2",
@@ -321,7 +338,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET1@3",
@@ -339,7 +357,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET1@4",
@@ -357,7 +376,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET1",
@@ -375,7 +395,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET1@1",
@@ -393,7 +414,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET1@2",
@@ -411,7 +433,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET1@3",
@@ -429,7 +452,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET1@4",
@@ -447,7 +471,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET1",
@@ -465,7 +490,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET1@1",
@@ -483,7 +509,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET1@2",
@@ -501,7 +528,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET1@3",
@@ -519,7 +547,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET1@4",
@@ -537,7 +566,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET1",
@@ -555,7 +585,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET1@1",
@@ -573,7 +604,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET1@2",
@@ -591,7 +623,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET1@3",
@@ -609,7 +642,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET1@4",
@@ -627,7 +661,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET1",
@@ -645,7 +680,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET1@1",
@@ -663,7 +699,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET1@2",
@@ -681,7 +718,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET1@3",
@@ -699,7 +737,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET1@4",
@@ -717,7 +756,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET1",
@@ -735,7 +775,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET1@1",
@@ -753,7 +794,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET1@2",
@@ -771,7 +813,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET1@3",
@@ -789,7 +832,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET1@4",
@@ -807,7 +851,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET1",
@@ -825,7 +870,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET1@1",
@@ -843,7 +889,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET1@2",
@@ -861,7 +908,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET1@3",
@@ -879,7 +927,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET1@4",
@@ -897,7 +946,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET1",
@@ -915,7 +965,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET1@1",
@@ -933,7 +984,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET1@2",
@@ -951,7 +1003,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET1@3",
@@ -969,7 +1022,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET1@4",
@@ -987,7 +1041,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET1",
@@ -1005,7 +1060,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET1@1",
@@ -1023,7 +1079,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET1@2",
@@ -1041,7 +1098,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET1@3",
@@ -1059,7 +1117,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET1@4",
@@ -1077,7 +1136,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET1",
@@ -1095,7 +1155,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET1@1",
@@ -1113,7 +1174,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET1@2",
@@ -1131,7 +1193,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET1@3",
@@ -1149,7 +1212,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET1@4",
@@ -1167,7 +1231,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET1",
@@ -1185,7 +1250,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET1@1",
@@ -1203,7 +1269,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET1@2",
@@ -1221,7 +1288,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET1@3",
@@ -1239,7 +1307,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET1@4",
@@ -1257,7 +1326,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET1",
@@ -1275,7 +1345,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET1@1",
@@ -1293,7 +1364,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET1@2",
@@ -1311,7 +1383,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET1@3",
@@ -1329,7 +1402,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET1@4",
@@ -1347,7 +1421,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET2",
@@ -1365,7 +1440,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET2@1",
@@ -1383,7 +1459,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET2@2",
@@ -1401,7 +1478,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET2@3",
@@ -1419,7 +1497,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET2@4",
@@ -1437,7 +1516,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET2",
@@ -1455,7 +1535,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET2@1",
@@ -1473,7 +1554,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET2@2",
@@ -1491,7 +1573,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET2@3",
@@ -1509,7 +1592,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET2@4",
@@ -1527,7 +1611,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET2",
@@ -1545,7 +1630,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET2@1",
@@ -1563,7 +1649,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET2@2",
@@ -1581,7 +1668,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET2@3",
@@ -1599,7 +1687,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET2@4",
@@ -1617,7 +1706,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET2",
@@ -1635,7 +1725,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET2@1",
@@ -1653,7 +1744,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET2@2",
@@ -1671,7 +1763,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET2@3",
@@ -1689,7 +1782,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET2@4",
@@ -1707,7 +1801,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET2",
@@ -1725,7 +1820,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET2@1",
@@ -1743,7 +1839,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET2@2",
@@ -1761,7 +1858,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET2@3",
@@ -1779,7 +1877,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET2@4",
@@ -1797,7 +1896,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET2",
@@ -1815,7 +1915,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET2@1",
@@ -1833,7 +1934,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET2@2",
@@ -1851,7 +1953,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET2@3",
@@ -1869,7 +1972,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET2@4",
@@ -1887,7 +1991,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET2",
@@ -1905,7 +2010,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET2@1",
@@ -1923,7 +2029,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET2@2",
@@ -1941,7 +2048,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET2@3",
@@ -1959,7 +2067,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET2@4",
@@ -1977,7 +2086,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET2",
@@ -1995,7 +2105,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET2@1",
@@ -2013,7 +2124,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET2@2",
@@ -2031,7 +2143,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET2@3",
@@ -2049,7 +2162,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET2@4",
@@ -2067,7 +2181,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET2",
@@ -2085,7 +2200,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET2@1",
@@ -2103,7 +2219,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET2@2",
@@ -2121,7 +2238,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET2@3",
@@ -2139,7 +2257,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET2@4",
@@ -2157,7 +2276,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET2",
@@ -2175,7 +2295,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET2@1",
@@ -2193,7 +2314,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET2@2",
@@ -2211,7 +2333,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET2@3",
@@ -2229,7 +2352,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET2@4",
@@ -2247,7 +2371,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET2",
@@ -2265,7 +2390,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET2@1",
@@ -2283,7 +2409,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET2@2",
@@ -2301,7 +2428,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET2@3",
@@ -2319,7 +2447,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET2@4",
@@ -2337,7 +2466,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET2",
@@ -2355,7 +2485,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET2@1",
@@ -2373,7 +2504,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET2@2",
@@ -2391,7 +2523,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET2@3",
@@ -2409,7 +2542,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET2@4",
@@ -2427,7 +2561,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET2",
@@ -2445,7 +2580,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET2@1",
@@ -2463,7 +2599,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET2@2",
@@ -2481,7 +2618,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET2@3",
@@ -2499,7 +2637,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET2@4",
@@ -2517,7 +2656,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET2",
@@ -2535,7 +2675,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET2@1",
@@ -2553,7 +2694,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET2@2",
@@ -2571,7 +2713,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET2@3",
@@ -2589,7 +2732,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET2@4",
@@ -2607,7 +2751,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET2",
@@ -2625,7 +2770,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET2@1",
@@ -2643,7 +2789,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET2@2",
@@ -2661,7 +2808,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET2@3",
@@ -2679,7 +2827,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET2@4",
@@ -2697,7 +2846,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET3",
@@ -2715,7 +2865,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET3@1",
@@ -2733,7 +2884,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET3@2",
@@ -2751,7 +2903,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET3@3",
@@ -2769,7 +2922,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_SET3@4",
@@ -2787,7 +2941,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET3",
@@ -2805,7 +2960,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET3@1",
@@ -2823,7 +2979,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET3@2",
@@ -2841,7 +2998,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET3@3",
@@ -2859,7 +3017,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_SET3@4",
@@ -2877,7 +3036,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET3",
@@ -2895,7 +3055,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET3@1",
@@ -2913,7 +3074,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET3@2",
@@ -2931,7 +3093,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET3@3",
@@ -2949,7 +3112,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_SET3@4",
@@ -2967,7 +3131,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET3",
@@ -2985,7 +3150,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET3@1",
@@ -3003,7 +3169,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET3@2",
@@ -3021,7 +3188,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET3@3",
@@ -3039,7 +3207,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_SET3@4",
@@ -3057,7 +3226,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET3",
@@ -3075,7 +3245,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET3@1",
@@ -3093,7 +3264,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET3@2",
@@ -3111,7 +3283,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET3@3",
@@ -3129,7 +3302,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_SET3@4",
@@ -3147,7 +3321,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET3",
@@ -3165,7 +3340,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET3@1",
@@ -3183,7 +3359,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET3@2",
@@ -3201,7 +3378,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET3@3",
@@ -3219,7 +3397,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_SET3@4",
@@ -3237,7 +3416,8 @@
         "count": 16
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET3",
@@ -3255,7 +3435,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET3@1",
@@ -3273,7 +3454,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET3@2",
@@ -3291,7 +3473,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET3@3",
@@ -3309,7 +3492,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_SET3@4",
@@ -3327,7 +3511,8 @@
         "count": 16
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET3",
@@ -3345,7 +3530,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET3@1",
@@ -3363,7 +3549,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET3@2",
@@ -3381,7 +3568,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET3@3",
@@ -3399,7 +3587,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_SET3@4",
@@ -3417,7 +3606,8 @@
         "count": 16
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET3",
@@ -3435,7 +3625,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET3@1",
@@ -3453,7 +3644,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET3@2",
@@ -3471,7 +3663,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET3@3",
@@ -3489,7 +3682,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_SET3@4",
@@ -3507,7 +3701,8 @@
         "count": 16
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET3",
@@ -3525,7 +3720,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET3@1",
@@ -3543,7 +3739,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET3@2",
@@ -3561,7 +3758,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET3@3",
@@ -3579,7 +3777,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_SET3@4",
@@ -3597,7 +3796,8 @@
         "count": 16
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET3",
@@ -3615,7 +3815,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET3@1",
@@ -3633,7 +3834,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET3@2",
@@ -3651,7 +3853,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET3@3",
@@ -3669,7 +3872,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_SET3@4",
@@ -3687,7 +3891,8 @@
         "count": 8
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET3",
@@ -3705,7 +3910,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET3@1",
@@ -3723,7 +3929,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET3@2",
@@ -3741,7 +3948,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET3@3",
@@ -3759,7 +3967,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_SET3@4",
@@ -3777,7 +3986,8 @@
         "count": 8
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET3",
@@ -3795,7 +4005,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET3@1",
@@ -3813,7 +4024,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET3@2",
@@ -3831,7 +4043,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET3@3",
@@ -3849,7 +4062,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_SET3@4",
@@ -3867,7 +4081,8 @@
         "count": 8
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET3",
@@ -3885,7 +4100,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET3@1",
@@ -3903,7 +4119,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET3@2",
@@ -3921,7 +4138,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET3@3",
@@ -3939,7 +4157,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_SET3@4",
@@ -3957,7 +4176,8 @@
         "count": 8
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET3",
@@ -3975,7 +4195,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET3@1",
@@ -3993,7 +4214,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET3@2",
@@ -4011,7 +4233,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET3@3",
@@ -4029,7 +4252,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_SET3@4",
@@ -4047,7 +4271,8 @@
         "count": 8
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_KEEPER",
@@ -4071,7 +4296,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_KEEPER@1",
@@ -4095,7 +4321,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_KEEPER@2",
@@ -4119,7 +4346,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_KEEPER@3",
@@ -4143,7 +4371,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_KEEPER@4",
@@ -4167,7 +4396,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_KEEPER",
@@ -4191,7 +4421,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_KEEPER@1",
@@ -4215,7 +4446,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_KEEPER@2",
@@ -4239,7 +4471,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_KEEPER@3",
@@ -4263,7 +4496,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_KEEPER@4",
@@ -4287,7 +4521,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_KEEPER",
@@ -4311,7 +4546,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_KEEPER@1",
@@ -4335,7 +4571,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_KEEPER@2",
@@ -4359,7 +4596,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_KEEPER@3",
@@ -4383,7 +4621,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_KEEPER@4",
@@ -4407,7 +4646,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_KEEPER",
@@ -4431,7 +4671,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_KEEPER@1",
@@ -4455,7 +4696,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_KEEPER@2",
@@ -4479,7 +4721,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_KEEPER@3",
@@ -4503,7 +4746,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_KEEPER@4",
@@ -4527,7 +4771,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_KEEPER",
@@ -4551,7 +4796,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_KEEPER@1",
@@ -4575,7 +4821,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_KEEPER@2",
@@ -4599,7 +4846,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_KEEPER@3",
@@ -4623,7 +4871,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_KEEPER@4",
@@ -4647,7 +4896,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_KEEPER",
@@ -4671,7 +4921,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_KEEPER@1",
@@ -4695,7 +4946,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_KEEPER@2",
@@ -4719,7 +4971,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_KEEPER@3",
@@ -4743,7 +4996,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_KEEPER@4",
@@ -4767,7 +5021,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_KEEPER",
@@ -4791,7 +5046,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_KEEPER@1",
@@ -4815,7 +5071,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_KEEPER@2",
@@ -4839,7 +5096,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_KEEPER@3",
@@ -4863,7 +5121,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_KEEPER@4",
@@ -4887,7 +5146,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_KEEPER",
@@ -4911,7 +5171,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_KEEPER@1",
@@ -4935,7 +5196,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_KEEPER@2",
@@ -4959,7 +5221,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_KEEPER@3",
@@ -4983,7 +5246,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_KEEPER@4",
@@ -5007,7 +5271,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_KEEPER",
@@ -5031,7 +5296,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_KEEPER@1",
@@ -5055,7 +5321,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_KEEPER@2",
@@ -5079,7 +5346,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_KEEPER@3",
@@ -5103,7 +5371,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_KEEPER@4",
@@ -5127,7 +5396,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_KEEPER",
@@ -5151,7 +5421,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_KEEPER@1",
@@ -5175,7 +5446,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_KEEPER@2",
@@ -5199,7 +5471,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_KEEPER@3",
@@ -5223,7 +5496,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_KEEPER@4",
@@ -5247,7 +5521,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_KEEPER",
@@ -5271,7 +5546,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_KEEPER@1",
@@ -5295,7 +5571,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_KEEPER@2",
@@ -5319,7 +5596,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_KEEPER@3",
@@ -5343,7 +5621,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_KEEPER@4",
@@ -5367,7 +5646,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_KEEPER",
@@ -5391,7 +5671,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_KEEPER@1",
@@ -5415,7 +5696,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_KEEPER@2",
@@ -5439,7 +5721,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_KEEPER@3",
@@ -5463,7 +5746,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_KEEPER@4",
@@ -5487,7 +5771,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_KEEPER",
@@ -5511,7 +5796,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_KEEPER@1",
@@ -5535,7 +5821,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_KEEPER@2",
@@ -5559,7 +5846,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_KEEPER@3",
@@ -5583,7 +5871,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_KEEPER@4",
@@ -5607,7 +5896,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_KEEPER",
@@ -5631,7 +5921,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_KEEPER@1",
@@ -5655,7 +5946,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_KEEPER@2",
@@ -5679,7 +5971,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_KEEPER@3",
@@ -5703,7 +5996,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_KEEPER@4",
@@ -5727,7 +6021,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_KEEPER",
@@ -5751,7 +6046,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_KEEPER@1",
@@ -5775,7 +6071,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_KEEPER@2",
@@ -5799,7 +6096,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_KEEPER@3",
@@ -5823,7 +6121,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_KEEPER@4",
@@ -5847,7 +6146,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_HELL",
@@ -5871,7 +6171,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_HELL@1",
@@ -5895,7 +6196,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_HELL@2",
@@ -5919,7 +6221,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_HELL@3",
@@ -5943,7 +6246,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_HELL@4",
@@ -5967,7 +6271,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_HELL",
@@ -5991,7 +6296,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_HELL@1",
@@ -6015,7 +6321,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_HELL@2",
@@ -6039,7 +6346,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_HELL@3",
@@ -6063,7 +6371,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_HELL@4",
@@ -6087,7 +6396,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_HELL",
@@ -6111,7 +6421,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_HELL@1",
@@ -6135,7 +6446,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_HELL@2",
@@ -6159,7 +6471,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_HELL@3",
@@ -6183,7 +6496,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_HELL@4",
@@ -6207,7 +6521,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_HELL",
@@ -6231,7 +6546,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_HELL@1",
@@ -6255,7 +6571,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_HELL@2",
@@ -6279,7 +6596,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_HELL@3",
@@ -6303,7 +6621,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_HELL@4",
@@ -6327,7 +6646,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_HELL",
@@ -6351,7 +6671,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_HELL@1",
@@ -6375,7 +6696,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_HELL@2",
@@ -6399,7 +6721,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_HELL@3",
@@ -6423,7 +6746,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_HELL@4",
@@ -6447,7 +6771,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_HELL",
@@ -6471,7 +6796,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_HELL@1",
@@ -6495,7 +6821,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_HELL@2",
@@ -6519,7 +6846,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_HELL@3",
@@ -6543,7 +6871,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_HELL@4",
@@ -6567,7 +6896,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_HELL",
@@ -6591,7 +6921,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_HELL@1",
@@ -6615,7 +6946,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_HELL@2",
@@ -6639,7 +6971,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_HELL@3",
@@ -6663,7 +6996,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_HELL@4",
@@ -6687,7 +7021,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_HELL",
@@ -6711,7 +7046,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_HELL@1",
@@ -6735,7 +7071,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_HELL@2",
@@ -6759,7 +7096,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_HELL@3",
@@ -6783,7 +7121,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_HELL@4",
@@ -6807,7 +7146,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_HELL",
@@ -6831,7 +7171,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_HELL@1",
@@ -6855,7 +7196,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_HELL@2",
@@ -6879,7 +7221,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_HELL@3",
@@ -6903,7 +7246,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_HELL@4",
@@ -6927,7 +7271,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_HELL",
@@ -6951,7 +7296,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_HELL@1",
@@ -6975,7 +7321,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_HELL@2",
@@ -6999,7 +7346,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_HELL@3",
@@ -7023,7 +7371,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_HELL@4",
@@ -7047,7 +7396,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_HELL",
@@ -7071,7 +7421,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_HELL@1",
@@ -7095,7 +7446,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_HELL@2",
@@ -7119,7 +7471,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_HELL@3",
@@ -7143,7 +7496,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_HELL@4",
@@ -7167,7 +7521,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_HELL",
@@ -7191,7 +7546,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_HELL@1",
@@ -7215,7 +7571,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_HELL@2",
@@ -7239,7 +7596,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_HELL@3",
@@ -7263,7 +7621,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_HELL@4",
@@ -7287,7 +7646,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_HELL",
@@ -7311,7 +7671,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_HELL@1",
@@ -7335,7 +7696,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_HELL@2",
@@ -7359,7 +7721,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_HELL@3",
@@ -7383,7 +7746,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_HELL@4",
@@ -7407,7 +7771,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_HELL",
@@ -7431,7 +7796,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_HELL@1",
@@ -7455,7 +7821,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_HELL@2",
@@ -7479,7 +7846,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_HELL@3",
@@ -7503,7 +7871,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_HELL@4",
@@ -7527,7 +7896,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_HELL",
@@ -7551,7 +7921,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_HELL@1",
@@ -7575,7 +7946,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_HELL@2",
@@ -7599,7 +7971,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_HELL@3",
@@ -7623,7 +7996,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_HELL@4",
@@ -7647,7 +8021,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_MORGANA",
@@ -7671,7 +8046,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_MORGANA@1",
@@ -7695,7 +8071,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_MORGANA@2",
@@ -7719,7 +8096,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_MORGANA@3",
@@ -7743,7 +8121,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_MORGANA@4",
@@ -7767,7 +8146,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_MORGANA",
@@ -7791,7 +8171,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_MORGANA@1",
@@ -7815,7 +8196,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_MORGANA@2",
@@ -7839,7 +8221,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_MORGANA@3",
@@ -7863,7 +8246,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_MORGANA@4",
@@ -7887,7 +8271,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_MORGANA",
@@ -7911,7 +8296,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_MORGANA@1",
@@ -7935,7 +8321,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_MORGANA@2",
@@ -7959,7 +8346,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_MORGANA@3",
@@ -7983,7 +8371,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_MORGANA@4",
@@ -8007,7 +8396,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_MORGANA",
@@ -8031,7 +8421,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_MORGANA@1",
@@ -8055,7 +8446,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_MORGANA@2",
@@ -8079,7 +8471,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_MORGANA@3",
@@ -8103,7 +8496,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_MORGANA@4",
@@ -8127,7 +8521,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_MORGANA",
@@ -8151,7 +8546,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_MORGANA@1",
@@ -8175,7 +8571,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_MORGANA@2",
@@ -8199,7 +8596,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_MORGANA@3",
@@ -8223,7 +8621,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_MORGANA@4",
@@ -8247,7 +8646,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_MORGANA",
@@ -8271,7 +8671,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_MORGANA@1",
@@ -8295,7 +8696,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_MORGANA@2",
@@ -8319,7 +8721,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_MORGANA@3",
@@ -8343,7 +8746,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_MORGANA@4",
@@ -8367,7 +8771,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_MORGANA",
@@ -8391,7 +8796,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_MORGANA@1",
@@ -8415,7 +8821,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_MORGANA@2",
@@ -8439,7 +8846,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_MORGANA@3",
@@ -8463,7 +8871,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_MORGANA@4",
@@ -8487,7 +8896,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_MORGANA",
@@ -8511,7 +8921,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_MORGANA@1",
@@ -8535,7 +8946,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_MORGANA@2",
@@ -8559,7 +8971,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_MORGANA@3",
@@ -8583,7 +8996,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_MORGANA@4",
@@ -8607,7 +9021,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_MORGANA",
@@ -8631,7 +9046,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_MORGANA@1",
@@ -8655,7 +9071,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_MORGANA@2",
@@ -8679,7 +9096,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_MORGANA@3",
@@ -8703,7 +9121,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_MORGANA@4",
@@ -8727,7 +9146,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_MORGANA",
@@ -8751,7 +9171,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_MORGANA@1",
@@ -8775,7 +9196,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_MORGANA@2",
@@ -8799,7 +9221,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_MORGANA@3",
@@ -8823,7 +9246,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_MORGANA@4",
@@ -8847,7 +9271,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_MORGANA",
@@ -8871,7 +9296,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_MORGANA@1",
@@ -8895,7 +9321,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_MORGANA@2",
@@ -8919,7 +9346,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_MORGANA@3",
@@ -8943,7 +9371,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_MORGANA@4",
@@ -8967,7 +9396,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_MORGANA",
@@ -8991,7 +9421,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_MORGANA@1",
@@ -9015,7 +9446,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_MORGANA@2",
@@ -9039,7 +9471,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_MORGANA@3",
@@ -9063,7 +9496,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_MORGANA@4",
@@ -9087,7 +9521,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_MORGANA",
@@ -9111,7 +9546,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_MORGANA@1",
@@ -9135,7 +9571,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_MORGANA@2",
@@ -9159,7 +9596,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_MORGANA@3",
@@ -9183,7 +9621,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_MORGANA@4",
@@ -9207,7 +9646,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_MORGANA",
@@ -9231,7 +9671,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_MORGANA@1",
@@ -9255,7 +9696,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_MORGANA@2",
@@ -9279,7 +9721,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_MORGANA@3",
@@ -9303,7 +9746,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_MORGANA@4",
@@ -9327,7 +9771,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_MORGANA",
@@ -9351,7 +9796,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_MORGANA@1",
@@ -9375,7 +9821,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_MORGANA@2",
@@ -9399,7 +9846,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_MORGANA@3",
@@ -9423,7 +9871,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_MORGANA@4",
@@ -9447,7 +9896,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_FEY",
@@ -9477,7 +9927,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_FEY@1",
@@ -9507,7 +9958,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_FEY@2",
@@ -9537,7 +9989,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_FEY@3",
@@ -9567,7 +10020,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_FEY@4",
@@ -9597,7 +10051,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_FEY",
@@ -9627,7 +10082,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_FEY@1",
@@ -9657,7 +10113,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_FEY@2",
@@ -9687,7 +10144,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_FEY@3",
@@ -9717,7 +10175,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_FEY@4",
@@ -9747,7 +10206,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_FEY",
@@ -9777,7 +10237,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_FEY@1",
@@ -9807,7 +10268,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_FEY@2",
@@ -9837,7 +10299,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_FEY@3",
@@ -9867,7 +10330,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_FEY@4",
@@ -9897,7 +10361,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_FEY",
@@ -9927,7 +10392,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_FEY@1",
@@ -9957,7 +10423,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_FEY@2",
@@ -9987,7 +10454,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_FEY@3",
@@ -10017,7 +10485,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_FEY@4",
@@ -10047,7 +10516,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_FEY",
@@ -10077,7 +10547,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_FEY@1",
@@ -10107,7 +10578,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_FEY@2",
@@ -10137,7 +10609,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_FEY@3",
@@ -10167,7 +10640,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_FEY@4",
@@ -10197,7 +10671,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_FEY",
@@ -10227,7 +10702,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_FEY@1",
@@ -10257,7 +10733,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_FEY@2",
@@ -10287,7 +10764,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_FEY@3",
@@ -10317,7 +10795,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_FEY@4",
@@ -10347,7 +10826,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_FEY",
@@ -10377,7 +10857,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_FEY@1",
@@ -10407,7 +10888,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_FEY@2",
@@ -10437,7 +10919,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_FEY@3",
@@ -10467,7 +10950,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_FEY@4",
@@ -10497,7 +10981,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_FEY",
@@ -10527,7 +11012,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_FEY@1",
@@ -10557,7 +11043,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_FEY@2",
@@ -10587,7 +11074,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_FEY@3",
@@ -10617,7 +11105,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_FEY@4",
@@ -10647,7 +11136,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_FEY",
@@ -10677,7 +11167,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_FEY@1",
@@ -10707,7 +11198,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_FEY@2",
@@ -10737,7 +11229,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_FEY@3",
@@ -10767,7 +11260,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_FEY@4",
@@ -10797,7 +11291,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_FEY",
@@ -10827,7 +11322,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_FEY@1",
@@ -10857,7 +11353,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_FEY@2",
@@ -10887,7 +11384,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_FEY@3",
@@ -10917,7 +11415,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_FEY@4",
@@ -10947,7 +11446,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_FEY",
@@ -10977,7 +11477,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_FEY@1",
@@ -11007,7 +11508,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_FEY@2",
@@ -11037,7 +11539,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_FEY@3",
@@ -11067,7 +11570,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_FEY@4",
@@ -11097,7 +11601,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_FEY",
@@ -11127,7 +11632,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_FEY@1",
@@ -11157,7 +11663,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_FEY@2",
@@ -11187,7 +11694,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_FEY@3",
@@ -11217,7 +11725,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_FEY@4",
@@ -11247,7 +11756,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_FEY",
@@ -11277,7 +11787,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_FEY@1",
@@ -11307,7 +11818,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_FEY@2",
@@ -11337,7 +11849,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_FEY@3",
@@ -11367,7 +11880,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_FEY@4",
@@ -11397,7 +11911,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_FEY",
@@ -11427,7 +11942,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_FEY@1",
@@ -11457,7 +11973,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_FEY@2",
@@ -11487,7 +12004,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_FEY@3",
@@ -11517,7 +12035,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_FEY@4",
@@ -11547,7 +12066,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_FEY",
@@ -11577,7 +12097,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_FEY@1",
@@ -11607,7 +12128,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_FEY@2",
@@ -11637,7 +12159,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_FEY@3",
@@ -11667,7 +12190,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_FEY@4",
@@ -11697,7 +12221,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_AVALON",
@@ -11721,7 +12246,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_AVALON@1",
@@ -11745,7 +12271,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_AVALON@2",
@@ -11769,7 +12296,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_AVALON@3",
@@ -11793,7 +12321,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_HEAD_CLOTH_AVALON@4",
@@ -11817,7 +12346,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_AVALON",
@@ -11841,7 +12371,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_AVALON@1",
@@ -11865,7 +12396,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_AVALON@2",
@@ -11889,7 +12421,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_AVALON@3",
@@ -11913,7 +12446,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_HEAD_CLOTH_AVALON@4",
@@ -11937,7 +12471,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_AVALON",
@@ -11961,7 +12496,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_AVALON@1",
@@ -11985,7 +12521,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_AVALON@2",
@@ -12009,7 +12546,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_AVALON@3",
@@ -12033,7 +12571,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_HEAD_CLOTH_AVALON@4",
@@ -12057,7 +12596,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_AVALON",
@@ -12081,7 +12621,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_AVALON@1",
@@ -12105,7 +12646,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_AVALON@2",
@@ -12129,7 +12671,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_AVALON@3",
@@ -12153,7 +12696,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_HEAD_CLOTH_AVALON@4",
@@ -12177,7 +12721,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_AVALON",
@@ -12201,7 +12746,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_AVALON@1",
@@ -12225,7 +12771,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_AVALON@2",
@@ -12249,7 +12796,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_AVALON@3",
@@ -12273,7 +12821,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_HEAD_CLOTH_AVALON@4",
@@ -12297,7 +12846,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_AVALON",
@@ -12321,7 +12871,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_AVALON@1",
@@ -12345,7 +12896,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_AVALON@2",
@@ -12369,7 +12921,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_AVALON@3",
@@ -12393,7 +12946,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_ARMOR_CLOTH_AVALON@4",
@@ -12417,7 +12971,8 @@
         "count": 1
       }
     ],
-    "weight": 3.4
+    "weight": 3.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_AVALON",
@@ -12441,7 +12996,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_AVALON@1",
@@ -12465,7 +13021,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_AVALON@2",
@@ -12489,7 +13046,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_AVALON@3",
@@ -12513,7 +13071,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_ARMOR_CLOTH_AVALON@4",
@@ -12537,7 +13096,8 @@
         "count": 1
       }
     ],
-    "weight": 5.1
+    "weight": 5.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_AVALON",
@@ -12561,7 +13121,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_AVALON@1",
@@ -12585,7 +13146,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_AVALON@2",
@@ -12609,7 +13171,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_AVALON@3",
@@ -12633,7 +13196,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_ARMOR_CLOTH_AVALON@4",
@@ -12657,7 +13221,8 @@
         "count": 1
       }
     ],
-    "weight": 7.6
+    "weight": 7.6,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_AVALON",
@@ -12681,7 +13246,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_AVALON@1",
@@ -12705,7 +13271,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_AVALON@2",
@@ -12729,7 +13296,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_AVALON@3",
@@ -12753,7 +13321,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_ARMOR_CLOTH_AVALON@4",
@@ -12777,7 +13346,8 @@
         "count": 1
       }
     ],
-    "weight": 11.4
+    "weight": 11.4,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_AVALON",
@@ -12801,7 +13371,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_AVALON@1",
@@ -12825,7 +13396,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_AVALON@2",
@@ -12849,7 +13421,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_AVALON@3",
@@ -12873,7 +13446,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_ARMOR_CLOTH_AVALON@4",
@@ -12897,7 +13471,8 @@
         "count": 1
       }
     ],
-    "weight": 17.1
+    "weight": 17.1,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_AVALON",
@@ -12921,7 +13496,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_AVALON@1",
@@ -12945,7 +13521,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_AVALON@2",
@@ -12969,7 +13546,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_AVALON@3",
@@ -12993,7 +13571,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_SHOES_CLOTH_AVALON@4",
@@ -13017,7 +13596,8 @@
         "count": 1
       }
     ],
-    "weight": 1.7
+    "weight": 1.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_AVALON",
@@ -13041,7 +13621,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_AVALON@1",
@@ -13065,7 +13646,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_AVALON@2",
@@ -13089,7 +13671,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_AVALON@3",
@@ -13113,7 +13696,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_SHOES_CLOTH_AVALON@4",
@@ -13137,7 +13721,8 @@
         "count": 1
       }
     ],
-    "weight": 2.5
+    "weight": 2.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_AVALON",
@@ -13161,7 +13746,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_AVALON@1",
@@ -13185,7 +13771,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_AVALON@2",
@@ -13209,7 +13796,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_AVALON@3",
@@ -13233,7 +13821,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_SHOES_CLOTH_AVALON@4",
@@ -13257,7 +13846,8 @@
         "count": 1
       }
     ],
-    "weight": 3.8
+    "weight": 3.8,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_AVALON",
@@ -13281,7 +13871,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_AVALON@1",
@@ -13305,7 +13896,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_AVALON@2",
@@ -13329,7 +13921,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_AVALON@3",
@@ -13353,7 +13946,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_SHOES_CLOTH_AVALON@4",
@@ -13377,7 +13971,8 @@
         "count": 1
       }
     ],
-    "weight": 5.7
+    "weight": 5.7,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_AVALON",
@@ -13401,7 +13996,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_AVALON@1",
@@ -13425,7 +14021,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_AVALON@2",
@@ -13449,7 +14046,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_AVALON@3",
@@ -13473,7 +14071,8 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_SHOES_CLOTH_AVALON@4",
@@ -13497,6 +14096,7 @@
         "count": 1
       }
     ],
-    "weight": 8.5
+    "weight": 8.5,
+    "journalRequired": true
   }
 ]

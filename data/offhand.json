@@ -20,7 +20,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD@1",
@@ -43,7 +44,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD@2",
@@ -66,7 +68,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD@3",
@@ -89,7 +92,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD@4",
@@ -112,7 +116,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD",
@@ -135,7 +140,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD@1",
@@ -158,7 +164,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD@2",
@@ -181,7 +188,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD@3",
@@ -204,7 +212,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD@4",
@@ -227,7 +236,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD",
@@ -250,7 +260,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD@1",
@@ -273,7 +284,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD@2",
@@ -296,7 +308,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD@3",
@@ -319,7 +332,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD@4",
@@ -342,7 +356,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD",
@@ -365,7 +380,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD@1",
@@ -388,7 +404,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD@2",
@@ -411,7 +428,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD@3",
@@ -434,7 +452,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD@4",
@@ -457,7 +476,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD",
@@ -480,7 +500,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD@1",
@@ -503,7 +524,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD@2",
@@ -526,7 +548,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD@3",
@@ -549,7 +572,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD@4",
@@ -572,7 +596,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOWERSHIELD_UNDEAD",
@@ -601,7 +626,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOWERSHIELD_UNDEAD@1",
@@ -630,7 +656,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOWERSHIELD_UNDEAD@2",
@@ -659,7 +686,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOWERSHIELD_UNDEAD@3",
@@ -688,7 +716,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOWERSHIELD_UNDEAD@4",
@@ -717,7 +746,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOWERSHIELD_UNDEAD",
@@ -746,7 +776,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOWERSHIELD_UNDEAD@1",
@@ -775,7 +806,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOWERSHIELD_UNDEAD@2",
@@ -804,7 +836,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOWERSHIELD_UNDEAD@3",
@@ -833,7 +866,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOWERSHIELD_UNDEAD@4",
@@ -862,7 +896,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOWERSHIELD_UNDEAD",
@@ -891,7 +926,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOWERSHIELD_UNDEAD@1",
@@ -920,7 +956,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOWERSHIELD_UNDEAD@2",
@@ -949,7 +986,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOWERSHIELD_UNDEAD@3",
@@ -978,7 +1016,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOWERSHIELD_UNDEAD@4",
@@ -1007,7 +1046,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOWERSHIELD_UNDEAD",
@@ -1036,7 +1076,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOWERSHIELD_UNDEAD@1",
@@ -1065,7 +1106,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOWERSHIELD_UNDEAD@2",
@@ -1094,7 +1136,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOWERSHIELD_UNDEAD@3",
@@ -1123,7 +1166,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOWERSHIELD_UNDEAD@4",
@@ -1152,7 +1196,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOWERSHIELD_UNDEAD",
@@ -1181,7 +1226,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOWERSHIELD_UNDEAD@1",
@@ -1210,7 +1256,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOWERSHIELD_UNDEAD@2",
@@ -1239,7 +1286,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOWERSHIELD_UNDEAD@3",
@@ -1268,7 +1316,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOWERSHIELD_UNDEAD@4",
@@ -1297,7 +1346,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_HELL",
@@ -1326,7 +1376,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_HELL@1",
@@ -1355,7 +1406,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_HELL@2",
@@ -1384,7 +1436,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_HELL@3",
@@ -1413,7 +1466,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_HELL@4",
@@ -1442,7 +1496,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_HELL",
@@ -1471,7 +1526,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_HELL@1",
@@ -1500,7 +1556,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_HELL@2",
@@ -1529,7 +1586,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_HELL@3",
@@ -1558,7 +1616,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_HELL@4",
@@ -1587,7 +1646,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_HELL",
@@ -1616,7 +1676,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_HELL@1",
@@ -1645,7 +1706,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_HELL@2",
@@ -1674,7 +1736,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_HELL@3",
@@ -1703,7 +1766,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_HELL@4",
@@ -1732,7 +1796,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_HELL",
@@ -1761,7 +1826,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_HELL@1",
@@ -1790,7 +1856,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_HELL@2",
@@ -1819,7 +1886,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_HELL@3",
@@ -1848,7 +1916,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_HELL@4",
@@ -1877,7 +1946,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_HELL",
@@ -1906,7 +1976,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_HELL@1",
@@ -1935,7 +2006,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_HELL@2",
@@ -1964,7 +2036,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_HELL@3",
@@ -1993,7 +2066,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_HELL@4",
@@ -2022,7 +2096,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SPIKEDSHIELD_MORGANA",
@@ -2051,7 +2126,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SPIKEDSHIELD_MORGANA@1",
@@ -2080,7 +2156,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SPIKEDSHIELD_MORGANA@2",
@@ -2109,7 +2186,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SPIKEDSHIELD_MORGANA@3",
@@ -2138,7 +2216,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SPIKEDSHIELD_MORGANA@4",
@@ -2167,7 +2246,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SPIKEDSHIELD_MORGANA",
@@ -2196,7 +2276,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SPIKEDSHIELD_MORGANA@1",
@@ -2225,7 +2306,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SPIKEDSHIELD_MORGANA@2",
@@ -2254,7 +2336,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SPIKEDSHIELD_MORGANA@3",
@@ -2283,7 +2366,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SPIKEDSHIELD_MORGANA@4",
@@ -2312,7 +2396,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SPIKEDSHIELD_MORGANA",
@@ -2341,7 +2426,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SPIKEDSHIELD_MORGANA@1",
@@ -2370,7 +2456,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SPIKEDSHIELD_MORGANA@2",
@@ -2399,7 +2486,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SPIKEDSHIELD_MORGANA@3",
@@ -2428,7 +2516,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SPIKEDSHIELD_MORGANA@4",
@@ -2457,7 +2546,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SPIKEDSHIELD_MORGANA",
@@ -2486,7 +2576,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SPIKEDSHIELD_MORGANA@1",
@@ -2515,7 +2606,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SPIKEDSHIELD_MORGANA@2",
@@ -2544,7 +2636,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SPIKEDSHIELD_MORGANA@3",
@@ -2573,7 +2666,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SPIKEDSHIELD_MORGANA@4",
@@ -2602,7 +2696,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SPIKEDSHIELD_MORGANA",
@@ -2631,7 +2726,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SPIKEDSHIELD_MORGANA@1",
@@ -2660,7 +2756,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SPIKEDSHIELD_MORGANA@2",
@@ -2689,7 +2786,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SPIKEDSHIELD_MORGANA@3",
@@ -2718,7 +2816,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SPIKEDSHIELD_MORGANA@4",
@@ -2747,7 +2846,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_AVALON",
@@ -2776,7 +2876,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_AVALON@1",
@@ -2805,7 +2906,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_AVALON@2",
@@ -2834,7 +2936,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_AVALON@3",
@@ -2863,7 +2966,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_AVALON@4",
@@ -2892,7 +2996,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_AVALON",
@@ -2921,7 +3026,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_AVALON@1",
@@ -2950,7 +3056,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_AVALON@2",
@@ -2979,7 +3086,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_AVALON@3",
@@ -3008,7 +3116,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_AVALON@4",
@@ -3037,7 +3146,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_AVALON",
@@ -3066,7 +3176,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_AVALON@1",
@@ -3095,7 +3206,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_AVALON@2",
@@ -3124,7 +3236,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_AVALON@3",
@@ -3153,7 +3266,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_AVALON@4",
@@ -3182,7 +3296,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_AVALON",
@@ -3211,7 +3326,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_AVALON@1",
@@ -3240,7 +3356,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_AVALON@2",
@@ -3269,7 +3386,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_AVALON@3",
@@ -3298,7 +3416,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_AVALON@4",
@@ -3327,7 +3446,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_AVALON",
@@ -3356,7 +3476,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_AVALON@1",
@@ -3385,7 +3506,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_AVALON@2",
@@ -3414,7 +3536,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_AVALON@3",
@@ -3443,7 +3566,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_AVALON@4",
@@ -3472,7 +3596,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_CRYSTAL",
@@ -3501,7 +3626,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_CRYSTAL@1",
@@ -3530,7 +3656,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_CRYSTAL@2",
@@ -3559,7 +3686,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_CRYSTAL@3",
@@ -3588,7 +3716,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_SHIELD_CRYSTAL@4",
@@ -3617,7 +3746,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_CRYSTAL",
@@ -3646,7 +3776,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_CRYSTAL@1",
@@ -3675,7 +3806,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_CRYSTAL@2",
@@ -3704,7 +3836,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_CRYSTAL@3",
@@ -3733,7 +3866,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_SHIELD_CRYSTAL@4",
@@ -3762,7 +3896,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_CRYSTAL",
@@ -3791,7 +3926,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_CRYSTAL@1",
@@ -3820,7 +3956,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_CRYSTAL@2",
@@ -3849,7 +3986,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_CRYSTAL@3",
@@ -3878,7 +4016,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_SHIELD_CRYSTAL@4",
@@ -3907,7 +4046,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_CRYSTAL",
@@ -3936,7 +4076,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_CRYSTAL@1",
@@ -3965,7 +4106,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_CRYSTAL@2",
@@ -3994,7 +4136,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_CRYSTAL@3",
@@ -4023,7 +4166,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_SHIELD_CRYSTAL@4",
@@ -4052,7 +4196,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_CRYSTAL",
@@ -4081,7 +4226,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_CRYSTAL@1",
@@ -4110,7 +4256,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_CRYSTAL@2",
@@ -4139,7 +4286,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_CRYSTAL@3",
@@ -4168,7 +4316,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_SHIELD_CRYSTAL@4",
@@ -4197,7 +4346,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_BOOK",
@@ -4220,7 +4370,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_BOOK@1",
@@ -4243,7 +4394,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_BOOK@2",
@@ -4266,7 +4418,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_BOOK@3",
@@ -4289,7 +4442,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_BOOK@4",
@@ -4312,7 +4466,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_BOOK",
@@ -4335,7 +4490,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_BOOK@1",
@@ -4358,7 +4514,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_BOOK@2",
@@ -4381,7 +4538,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_BOOK@3",
@@ -4404,7 +4562,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_BOOK@4",
@@ -4427,7 +4586,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_BOOK",
@@ -4450,7 +4610,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_BOOK@1",
@@ -4473,7 +4634,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_BOOK@2",
@@ -4496,7 +4658,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_BOOK@3",
@@ -4519,7 +4682,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_BOOK@4",
@@ -4542,7 +4706,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_BOOK",
@@ -4565,7 +4730,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_BOOK@1",
@@ -4588,7 +4754,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_BOOK@2",
@@ -4611,7 +4778,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_BOOK@3",
@@ -4634,7 +4802,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_BOOK@4",
@@ -4657,7 +4826,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_BOOK",
@@ -4680,7 +4850,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_BOOK@1",
@@ -4703,7 +4874,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_BOOK@2",
@@ -4726,7 +4898,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_BOOK@3",
@@ -4749,7 +4922,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_BOOK@4",
@@ -4772,7 +4946,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_ORB_MORGANA",
@@ -4801,7 +4976,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_ORB_MORGANA@1",
@@ -4830,7 +5006,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_ORB_MORGANA@2",
@@ -4859,7 +5036,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_ORB_MORGANA@3",
@@ -4888,7 +5066,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_ORB_MORGANA@4",
@@ -4917,7 +5096,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_ORB_MORGANA",
@@ -4946,7 +5126,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_ORB_MORGANA@1",
@@ -4975,7 +5156,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_ORB_MORGANA@2",
@@ -5004,7 +5186,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_ORB_MORGANA@3",
@@ -5033,7 +5216,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_ORB_MORGANA@4",
@@ -5062,7 +5246,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_ORB_MORGANA",
@@ -5091,7 +5276,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_ORB_MORGANA@1",
@@ -5120,7 +5306,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_ORB_MORGANA@2",
@@ -5149,7 +5336,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_ORB_MORGANA@3",
@@ -5178,7 +5366,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_ORB_MORGANA@4",
@@ -5207,7 +5396,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_ORB_MORGANA",
@@ -5236,7 +5426,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_ORB_MORGANA@1",
@@ -5265,7 +5456,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_ORB_MORGANA@2",
@@ -5294,7 +5486,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_ORB_MORGANA@3",
@@ -5323,7 +5516,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_ORB_MORGANA@4",
@@ -5352,7 +5546,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_ORB_MORGANA",
@@ -5381,7 +5576,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_ORB_MORGANA@1",
@@ -5410,7 +5606,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_ORB_MORGANA@2",
@@ -5439,7 +5636,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_ORB_MORGANA@3",
@@ -5468,7 +5666,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_ORB_MORGANA@4",
@@ -5497,7 +5696,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_DEMONSKULL_HELL",
@@ -5526,7 +5726,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_DEMONSKULL_HELL@1",
@@ -5555,7 +5756,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_DEMONSKULL_HELL@2",
@@ -5584,7 +5786,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_DEMONSKULL_HELL@3",
@@ -5613,7 +5816,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_DEMONSKULL_HELL@4",
@@ -5642,7 +5846,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_DEMONSKULL_HELL",
@@ -5671,7 +5876,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_DEMONSKULL_HELL@1",
@@ -5700,7 +5906,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_DEMONSKULL_HELL@2",
@@ -5729,7 +5936,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_DEMONSKULL_HELL@3",
@@ -5758,7 +5966,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_DEMONSKULL_HELL@4",
@@ -5787,7 +5996,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_DEMONSKULL_HELL",
@@ -5816,7 +6026,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_DEMONSKULL_HELL@1",
@@ -5845,7 +6056,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_DEMONSKULL_HELL@2",
@@ -5874,7 +6086,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_DEMONSKULL_HELL@3",
@@ -5903,7 +6116,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_DEMONSKULL_HELL@4",
@@ -5932,7 +6146,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_DEMONSKULL_HELL",
@@ -5961,7 +6176,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_DEMONSKULL_HELL@1",
@@ -5990,7 +6206,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_DEMONSKULL_HELL@2",
@@ -6019,7 +6236,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_DEMONSKULL_HELL@3",
@@ -6048,7 +6266,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_DEMONSKULL_HELL@4",
@@ -6077,7 +6296,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_DEMONSKULL_HELL",
@@ -6106,7 +6326,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_DEMONSKULL_HELL@1",
@@ -6135,7 +6356,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_DEMONSKULL_HELL@2",
@@ -6164,7 +6386,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_DEMONSKULL_HELL@3",
@@ -6193,7 +6416,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_DEMONSKULL_HELL@4",
@@ -6222,7 +6446,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOTEM_KEEPER",
@@ -6251,7 +6476,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOTEM_KEEPER@1",
@@ -6280,7 +6506,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOTEM_KEEPER@2",
@@ -6309,7 +6536,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOTEM_KEEPER@3",
@@ -6338,7 +6566,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOTEM_KEEPER@4",
@@ -6367,7 +6596,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOTEM_KEEPER",
@@ -6396,7 +6626,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOTEM_KEEPER@1",
@@ -6425,7 +6656,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOTEM_KEEPER@2",
@@ -6454,7 +6686,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOTEM_KEEPER@3",
@@ -6483,7 +6716,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOTEM_KEEPER@4",
@@ -6512,7 +6746,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOTEM_KEEPER",
@@ -6541,7 +6776,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOTEM_KEEPER@1",
@@ -6570,7 +6806,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOTEM_KEEPER@2",
@@ -6599,7 +6836,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOTEM_KEEPER@3",
@@ -6628,7 +6866,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOTEM_KEEPER@4",
@@ -6657,7 +6896,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOTEM_KEEPER",
@@ -6686,7 +6926,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOTEM_KEEPER@1",
@@ -6715,7 +6956,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOTEM_KEEPER@2",
@@ -6744,7 +6986,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOTEM_KEEPER@3",
@@ -6773,7 +7016,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOTEM_KEEPER@4",
@@ -6802,7 +7046,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOTEM_KEEPER",
@@ -6831,7 +7076,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOTEM_KEEPER@1",
@@ -6860,7 +7106,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOTEM_KEEPER@2",
@@ -6889,7 +7136,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOTEM_KEEPER@3",
@@ -6918,7 +7166,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOTEM_KEEPER@4",
@@ -6947,7 +7196,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_CENSER_AVALON",
@@ -6976,7 +7226,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_CENSER_AVALON@1",
@@ -7005,7 +7256,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_CENSER_AVALON@2",
@@ -7034,7 +7286,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_CENSER_AVALON@3",
@@ -7063,7 +7316,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_CENSER_AVALON@4",
@@ -7092,7 +7346,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_CENSER_AVALON",
@@ -7121,7 +7376,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_CENSER_AVALON@1",
@@ -7150,7 +7406,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_CENSER_AVALON@2",
@@ -7179,7 +7436,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_CENSER_AVALON@3",
@@ -7208,7 +7466,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_CENSER_AVALON@4",
@@ -7237,7 +7496,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_CENSER_AVALON",
@@ -7266,7 +7526,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_CENSER_AVALON@1",
@@ -7295,7 +7556,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_CENSER_AVALON@2",
@@ -7324,7 +7586,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_CENSER_AVALON@3",
@@ -7353,7 +7616,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_CENSER_AVALON@4",
@@ -7382,7 +7646,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_CENSER_AVALON",
@@ -7411,7 +7676,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_CENSER_AVALON@1",
@@ -7440,7 +7706,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_CENSER_AVALON@2",
@@ -7469,7 +7736,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_CENSER_AVALON@3",
@@ -7498,7 +7766,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_CENSER_AVALON@4",
@@ -7527,7 +7796,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOME_CRYSTAL",
@@ -7556,7 +7826,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOME_CRYSTAL@1",
@@ -7585,7 +7856,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOME_CRYSTAL@2",
@@ -7614,7 +7886,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOME_CRYSTAL@3",
@@ -7643,7 +7916,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TOME_CRYSTAL@4",
@@ -7672,7 +7946,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOME_CRYSTAL",
@@ -7701,7 +7976,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOME_CRYSTAL@1",
@@ -7730,7 +8006,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOME_CRYSTAL@2",
@@ -7759,7 +8036,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOME_CRYSTAL@3",
@@ -7788,7 +8066,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TOME_CRYSTAL@4",
@@ -7817,7 +8096,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOME_CRYSTAL",
@@ -7846,7 +8126,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOME_CRYSTAL@1",
@@ -7875,7 +8156,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOME_CRYSTAL@2",
@@ -7904,7 +8186,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOME_CRYSTAL@3",
@@ -7933,7 +8216,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TOME_CRYSTAL@4",
@@ -7962,7 +8246,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOME_CRYSTAL",
@@ -7991,7 +8276,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOME_CRYSTAL@1",
@@ -8020,7 +8306,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOME_CRYSTAL@2",
@@ -8049,7 +8336,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOME_CRYSTAL@3",
@@ -8078,7 +8366,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TOME_CRYSTAL@4",
@@ -8107,7 +8396,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOME_CRYSTAL",
@@ -8136,7 +8426,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOME_CRYSTAL@1",
@@ -8165,7 +8456,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOME_CRYSTAL@2",
@@ -8194,7 +8486,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOME_CRYSTAL@3",
@@ -8223,7 +8516,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TOME_CRYSTAL@4",
@@ -8252,7 +8546,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TORCH",
@@ -8275,7 +8570,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TORCH@1",
@@ -8298,7 +8594,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TORCH@2",
@@ -8321,7 +8618,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TORCH@3",
@@ -8344,7 +8642,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TORCH@4",
@@ -8367,7 +8666,8 @@
         "weight": 0.5,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TORCH",
@@ -8390,7 +8690,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TORCH@1",
@@ -8413,7 +8714,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TORCH@2",
@@ -8436,7 +8738,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TORCH@3",
@@ -8459,7 +8762,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TORCH@4",
@@ -8482,7 +8786,8 @@
         "weight": 0.8,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TORCH",
@@ -8505,7 +8810,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TORCH@1",
@@ -8528,7 +8834,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TORCH@2",
@@ -8551,7 +8858,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TORCH@3",
@@ -8574,7 +8882,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TORCH@4",
@@ -8597,7 +8906,8 @@
         "weight": 1.1,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TORCH",
@@ -8620,7 +8930,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TORCH@1",
@@ -8643,7 +8954,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TORCH@2",
@@ -8666,7 +8978,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TORCH@3",
@@ -8689,7 +9002,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TORCH@4",
@@ -8712,7 +9026,8 @@
         "weight": 1.7,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TORCH",
@@ -8735,7 +9050,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TORCH@1",
@@ -8758,7 +9074,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TORCH@2",
@@ -8781,7 +9098,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TORCH@3",
@@ -8804,7 +9122,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TORCH@4",
@@ -8827,7 +9146,8 @@
         "weight": 2.6,
         "count": 4
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_HORN_KEEPER",
@@ -8856,7 +9176,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_HORN_KEEPER@1",
@@ -8885,7 +9206,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_HORN_KEEPER@2",
@@ -8914,7 +9236,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_HORN_KEEPER@3",
@@ -8943,7 +9266,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_HORN_KEEPER@4",
@@ -8972,7 +9296,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_HORN_KEEPER",
@@ -9001,7 +9326,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_HORN_KEEPER@1",
@@ -9030,7 +9356,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_HORN_KEEPER@2",
@@ -9059,7 +9386,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_HORN_KEEPER@3",
@@ -9088,7 +9416,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_HORN_KEEPER@4",
@@ -9117,7 +9446,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_HORN_KEEPER",
@@ -9146,7 +9476,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_HORN_KEEPER@1",
@@ -9175,7 +9506,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_HORN_KEEPER@2",
@@ -9204,7 +9536,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_HORN_KEEPER@3",
@@ -9233,7 +9566,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_HORN_KEEPER@4",
@@ -9262,7 +9596,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_HORN_KEEPER",
@@ -9291,7 +9626,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_HORN_KEEPER@1",
@@ -9320,7 +9656,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_HORN_KEEPER@2",
@@ -9349,7 +9686,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_HORN_KEEPER@3",
@@ -9378,7 +9716,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_HORN_KEEPER@4",
@@ -9407,7 +9746,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_HORN_KEEPER",
@@ -9436,7 +9776,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_HORN_KEEPER@1",
@@ -9465,7 +9806,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_HORN_KEEPER@2",
@@ -9494,7 +9836,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_HORN_KEEPER@3",
@@ -9523,7 +9866,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_HORN_KEEPER@4",
@@ -9552,7 +9896,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TALISMAN_AVALON",
@@ -9581,7 +9926,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TALISMAN_AVALON@1",
@@ -9610,7 +9956,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TALISMAN_AVALON@2",
@@ -9639,7 +9986,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TALISMAN_AVALON@3",
@@ -9668,7 +10016,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TALISMAN_AVALON@4",
@@ -9697,7 +10046,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TALISMAN_AVALON",
@@ -9726,7 +10076,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TALISMAN_AVALON@1",
@@ -9755,7 +10106,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TALISMAN_AVALON@2",
@@ -9784,7 +10136,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TALISMAN_AVALON@3",
@@ -9813,7 +10166,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TALISMAN_AVALON@4",
@@ -9842,7 +10196,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TALISMAN_AVALON",
@@ -9871,7 +10226,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TALISMAN_AVALON@1",
@@ -9900,7 +10256,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TALISMAN_AVALON@2",
@@ -9929,7 +10286,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TALISMAN_AVALON@3",
@@ -9958,7 +10316,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TALISMAN_AVALON@4",
@@ -9987,7 +10346,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TALISMAN_AVALON",
@@ -10016,7 +10376,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TALISMAN_AVALON@1",
@@ -10045,7 +10406,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TALISMAN_AVALON@2",
@@ -10074,7 +10436,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TALISMAN_AVALON@3",
@@ -10103,7 +10466,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TALISMAN_AVALON@4",
@@ -10132,7 +10496,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TALISMAN_AVALON",
@@ -10161,7 +10526,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TALISMAN_AVALON@1",
@@ -10190,7 +10556,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TALISMAN_AVALON@2",
@@ -10219,7 +10586,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TALISMAN_AVALON@3",
@@ -10248,7 +10616,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TALISMAN_AVALON@4",
@@ -10277,7 +10646,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_LAMP_UNDEAD",
@@ -10306,7 +10676,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_LAMP_UNDEAD@1",
@@ -10335,7 +10706,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_LAMP_UNDEAD@2",
@@ -10364,7 +10736,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_LAMP_UNDEAD@3",
@@ -10393,7 +10766,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_LAMP_UNDEAD@4",
@@ -10422,7 +10796,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_LAMP_UNDEAD",
@@ -10451,7 +10826,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_LAMP_UNDEAD@1",
@@ -10480,7 +10856,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_LAMP_UNDEAD@2",
@@ -10509,7 +10886,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_LAMP_UNDEAD@3",
@@ -10538,7 +10916,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_LAMP_UNDEAD@4",
@@ -10567,7 +10946,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_LAMP_UNDEAD",
@@ -10596,7 +10976,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_LAMP_UNDEAD@1",
@@ -10625,7 +11006,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_LAMP_UNDEAD@2",
@@ -10654,7 +11036,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_LAMP_UNDEAD@3",
@@ -10683,7 +11066,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_LAMP_UNDEAD@4",
@@ -10712,7 +11096,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_LAMP_UNDEAD",
@@ -10741,7 +11126,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_LAMP_UNDEAD@1",
@@ -10770,7 +11156,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_LAMP_UNDEAD@2",
@@ -10799,7 +11186,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_LAMP_UNDEAD@3",
@@ -10828,7 +11216,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_LAMP_UNDEAD@4",
@@ -10857,7 +11246,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_LAMP_UNDEAD",
@@ -10886,7 +11276,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_LAMP_UNDEAD@1",
@@ -10915,7 +11306,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_LAMP_UNDEAD@2",
@@ -10944,7 +11336,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_LAMP_UNDEAD@3",
@@ -10973,7 +11366,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_LAMP_UNDEAD@4",
@@ -11002,7 +11396,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_JESTERCANE_HELL",
@@ -11031,7 +11426,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_JESTERCANE_HELL@1",
@@ -11060,7 +11456,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_JESTERCANE_HELL@2",
@@ -11089,7 +11486,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_JESTERCANE_HELL@3",
@@ -11118,7 +11516,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_JESTERCANE_HELL@4",
@@ -11147,7 +11546,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_JESTERCANE_HELL",
@@ -11176,7 +11576,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_JESTERCANE_HELL@1",
@@ -11205,7 +11606,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_JESTERCANE_HELL@2",
@@ -11234,7 +11636,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_JESTERCANE_HELL@3",
@@ -11263,7 +11666,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_JESTERCANE_HELL@4",
@@ -11292,7 +11696,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_JESTERCANE_HELL",
@@ -11321,7 +11726,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_JESTERCANE_HELL@1",
@@ -11350,7 +11756,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_JESTERCANE_HELL@2",
@@ -11379,7 +11786,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_JESTERCANE_HELL@3",
@@ -11408,7 +11816,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_JESTERCANE_HELL@4",
@@ -11437,7 +11846,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_JESTERCANE_HELL",
@@ -11466,7 +11876,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_JESTERCANE_HELL@1",
@@ -11495,7 +11906,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_JESTERCANE_HELL@2",
@@ -11524,7 +11936,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_JESTERCANE_HELL@3",
@@ -11553,7 +11966,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_JESTERCANE_HELL@4",
@@ -11582,7 +11996,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_JESTERCANE_HELL",
@@ -11611,7 +12026,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_JESTERCANE_HELL@1",
@@ -11640,7 +12056,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_JESTERCANE_HELL@2",
@@ -11669,7 +12086,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_JESTERCANE_HELL@3",
@@ -11698,7 +12116,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_JESTERCANE_HELL@4",
@@ -11727,7 +12146,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TORCH_CRYSTAL",
@@ -11756,7 +12176,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TORCH_CRYSTAL@1",
@@ -11785,7 +12206,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TORCH_CRYSTAL@2",
@@ -11814,7 +12236,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TORCH_CRYSTAL@3",
@@ -11843,7 +12266,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T4_OFF_TORCH_CRYSTAL@4",
@@ -11872,7 +12296,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TORCH_CRYSTAL",
@@ -11901,7 +12326,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TORCH_CRYSTAL@1",
@@ -11930,7 +12356,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TORCH_CRYSTAL@2",
@@ -11959,7 +12386,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TORCH_CRYSTAL@3",
@@ -11988,7 +12416,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T5_OFF_TORCH_CRYSTAL@4",
@@ -12017,7 +12446,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TORCH_CRYSTAL",
@@ -12046,7 +12476,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TORCH_CRYSTAL@1",
@@ -12075,7 +12506,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TORCH_CRYSTAL@2",
@@ -12104,7 +12536,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TORCH_CRYSTAL@3",
@@ -12133,7 +12566,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T6_OFF_TORCH_CRYSTAL@4",
@@ -12162,7 +12596,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TORCH_CRYSTAL",
@@ -12191,7 +12626,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TORCH_CRYSTAL@1",
@@ -12220,7 +12656,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TORCH_CRYSTAL@2",
@@ -12249,7 +12686,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TORCH_CRYSTAL@3",
@@ -12278,7 +12716,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T7_OFF_TORCH_CRYSTAL@4",
@@ -12307,7 +12746,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TORCH_CRYSTAL",
@@ -12336,7 +12776,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TORCH_CRYSTAL@1",
@@ -12365,7 +12806,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TORCH_CRYSTAL@2",
@@ -12394,7 +12836,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TORCH_CRYSTAL@3",
@@ -12423,7 +12866,8 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   },
   {
     "uniqueName": "T8_OFF_TORCH_CRYSTAL@4",
@@ -12452,6 +12896,7 @@
         "weight": 2,
         "count": 1
       }
-    ]
+    ],
+    "journalRequired": true
   }
 ]
