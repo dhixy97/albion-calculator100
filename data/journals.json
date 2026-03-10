@@ -1,0 +1,128 @@
+[
+  {
+    "uniqueName": "T2_JOURNAL_WARRIOR_EMPTY",
+    "tier": 2,
+    "fame": 900,
+    "localizedNames": "Novice Blacksmith's Journal"
+  },
+  {
+    "uniqueName": "T3_JOURNAL_WARRIOR_EMPTY",
+    "tier": 3,
+    "fame": 1800,
+    "localizedNames": "Journeyman Blacksmith's Journal"
+  },
+  {
+    "uniqueName": "T4_JOURNAL_WARRIOR_EMPTY",
+    "tier": 4,
+    "fame": 3600,
+    "localizedNames": "Adept Blacksmith's Journal"
+  },
+  {
+    "uniqueName": "T5_JOURNAL_WARRIOR_EMPTY",
+    "tier": 5,
+    "fame": 7200,
+    "localizedNames": "Expert Blacksmith's Journal"
+  },
+  {
+    "uniqueName": "T6_JOURNAL_WARRIOR_EMPTY",
+    "tier": 6,
+    "fame": 14400,
+    "localizedNames": "Master Blacksmith's Journal"
+  },
+  {
+    "uniqueName": "T7_JOURNAL_WARRIOR_EMPTY",
+    "tier": 7,
+    "fame": 28380,
+    "localizedNames": "Grandmaster Blacksmith's Journal"
+  },
+  {
+    "uniqueName": "T8_JOURNAL_WARRIOR_EMPTY",
+    "tier": 8,
+    "fame": 58590,
+    "localizedNames": "Elder Blacksmith's Journal"
+  },
+  {
+    "uniqueName": "T2_JOURNAL_HUNTER_EMPTY",
+    "tier": 2,
+    "fame": 900,
+    "localizedNames": "Novice Gamekeeper's Journal"
+  },
+  {
+    "uniqueName": "T3_JOURNAL_HUNTER_EMPTY",
+    "tier": 3,
+    "fame": 1800,
+    "localizedNames": "Journeyman Gamekeeper's Journal"
+  },
+  {
+    "uniqueName": "T4_JOURNAL_HUNTER_EMPTY",
+    "tier": 4,
+    "fame": 3600,
+    "localizedNames": "Adept Gamekeeper's Journal"
+  },
+  {
+    "uniqueName": "T5_JOURNAL_HUNTER_EMPTY",
+    "tier": 5,
+    "fame": 7200,
+    "localizedNames": "Expert Gamekeeper's Journal"
+  },
+  {
+    "uniqueName": "T6_JOURNAL_HUNTER_EMPTY",
+    "tier": 6,
+    "fame": 14400,
+    "localizedNames": "Master Gamekeeper's Journal"
+  },
+  {
+    "uniqueName": "T7_JOURNAL_HUNTER_EMPTY",
+    "tier": 7,
+    "fame": 28380,
+    "localizedNames": "Grandmaster Gamekeeper's Journal"
+  },
+  {
+    "uniqueName": "T8_JOURNAL_HUNTER_EMPTY",
+    "tier": 8,
+    "fame": 58590,
+    "localizedNames": "Elder Gamekeeper's Journal"
+  },
+  {
+    "uniqueName": "T2_JOURNAL_MAGE_EMPTY",
+    "tier": 2,
+    "fame": 900,
+    "localizedNames": "Novice Imbuer's Journal"
+  },
+  {
+    "uniqueName": "T3_JOURNAL_MAGE_EMPTY",
+    "tier": 3,
+    "fame": 1800,
+    "localizedNames": "Journeyman Imbuer's Journal"
+  },
+  {
+    "uniqueName": "T4_JOURNAL_MAGE_EMPTY",
+    "tier": 4,
+    "fame": 3600,
+    "localizedNames": "Adept Imbuer's Journal"
+  },
+  {
+    "uniqueName": "T5_JOURNAL_MAGE_EMPTY",
+    "tier": 5,
+    "fame": 7200,
+    "localizedNames": "Expert Imbuer's Journal"
+  },
+  {
+    "uniqueName": "T6_JOURNAL_MAGE_EMPTY",
+    "tier": 6,
+    "fame": 14400,
+    "localizedNames": "Master Imbuer's Journal"
+  },
+  {
+    "uniqueName": "T7_JOURNAL_MAGE_EMPTY",
+    "tier": 7,
+    "fame": 28380,
+    "localizedNames": "Grandmaster Imbuer's Journal"
+  },
+  {
+    "uniqueName": "T8_JOURNAL_MAGE_EMPTY",
+    "tier": 8,
+    "fame": 58590,
+    "localizedNames": "Elder Imbuer's Journal"
+  }
+]
