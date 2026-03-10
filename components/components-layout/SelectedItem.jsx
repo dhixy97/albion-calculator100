@@ -20,31 +20,31 @@ export default function SelectedItem({ recipes }) {
   const [buyPriceMats, setBuyPriceMats] = useState(0);
   const [sellPriceItem, setSellPriceItem] = useState(0);
   const needMaterials = countNeedMaterials(recipes ?? { craftMaterial: [] });
-  
- useEffect(() => {
-  async function fetchBuyPrice() {
-    if (!recipes?.craftMaterial) return; // <- pastikan ada craftMaterial
 
-    const updatedMaterials = await Promise.all(
-      recipes.craftMaterial.map(async (mat) => {
-        const res = await fetch(
-          `https://east.albion-online-data.com/api/v2/stats/prices/${mat.uniqueName}.json?locations=${cityBuyMats}`
-        );
-        const data = await res.json();
-        return { ...mat, buyPrice: data[0]?.buy_price_max || 0 };
-      })
-    );
+  useEffect(() => {
+    async function fetchBuyPrice() {
+      if (!recipes?.craftMaterial) return; // <- pastikan ada craftMaterial
 
-    setRecipes((prev) =>
-      prev.map((r) =>
-        r.uniqueName === recipes.uniqueName
-          ? { ...r, craftMaterial: updatedMaterials }
-          : r
-      )
-    );
-  }
-  fetchBuyPrice();
-}, [recipes.uniqueName, cityBuyMats, setRecipes]);
+      const updatedMaterials = await Promise.all(
+        recipes.craftMaterial.map(async (mat) => {
+          const res = await fetch(
+            `https://east.albion-online-data.com/api/v2/stats/prices/${mat.uniqueName}.json?locations=${cityBuyMats}`,
+          );
+          const data = await res.json();
+          return { ...mat, buyPrice: data[0]?.buy_price_max || 0 };
+        }),
+      );
+
+      setRecipes((prev) =>
+        prev.map((r) =>
+          r.uniqueName === recipes.uniqueName
+            ? { ...r, craftMaterial: updatedMaterials }
+            : r,
+        ),
+      );
+    }
+    fetchBuyPrice();
+  }, [recipes.uniqueName, cityBuyMats, setRecipes]);
 
   useEffect(() => {
     async function fetchSellPrice() {
@@ -81,9 +81,21 @@ export default function SelectedItem({ recipes }) {
     buyTax,
   );
 
+  const tierBorderColor = {
+    4: "border-l-blue-500",
+    5: "border-l-red-500",
+    6: "border-l-orange-500",
+    7: "border-l-yellow-400",
+    8: "border-l-gray-200",
+  };
+
+  const borderColor = tierBorderColor[recipes.tier] || "border-l-gray-500";
+
   return (
     <div className="mt-2 w-full">
-      <div className="bg-neutral-800 border-l-4 border-l-amber-300 p-6 rounded-sm border-y-2 border-y-gray-600 mt-3">
+      <div
+        className={`bg-neutral-800 border-l-4 ${borderColor} p-6 rounded-sm border-y-2 border-y-gray-600 mt-3`}
+      >
         {/* HEADER */}
         <div className="flex flex-col gap-3">
           <div className="grid grid-cols-3 items-center">
@@ -225,7 +237,7 @@ export default function SelectedItem({ recipes }) {
             <span className="text-white text-sm">Required Materials</span>
             {needMaterials.map((r, i) => (
               <div
-                className="bg-neutral-900 border-l-4 border-l-amber-300 p-2 rounded-sm border-y-2 border-y-gray-600 mt-2"
+                className={`bg-neutral-900 border-l-4 ${tierBorderColor[r.tier] || "border-l-gray-500"} p-2 rounded-sm border-y-2 border-y-gray-600 mt-2`}
                 key={i}
               >
                 <div className="flex items-center gap-4 mt-2">

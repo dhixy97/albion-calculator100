@@ -25,7 +25,7 @@ export default function PriceMaterials({localReturnRate}) {
       sellCity,
       cityBuyMats,
     }
-
+    console.log("Recipe yang dikirim:", recipeData);
     addRecipe(recipeData)
     setSelectedItem(null);
   }
