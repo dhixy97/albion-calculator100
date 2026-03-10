@@ -1,0 +1,4232 @@
+[
+  {
+    "uniqueName": "T4_2H_BOW",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS",
+        "localizedNames": "Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW@1",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bow (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW@2",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bow (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW@3",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bow (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW@4",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bow (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T5_2H_BOW",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS",
+        "localizedNames": "Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW@1",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bow (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW@2",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bow (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW@3",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bow (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW@4",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bow (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T6_2H_BOW",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS",
+        "localizedNames": "Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW@1",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Bow (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW@2",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Bow (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW@3",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Bow (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW@4",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Bow (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T7_2H_BOW",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS",
+        "localizedNames": "Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW@1",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bow (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW@2",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bow (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW@3",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bow (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW@4",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bow (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T8_2H_BOW",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS",
+        "localizedNames": "Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW@1",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bow (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW@2",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bow (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW@3",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bow (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW@4",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bow (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T4_2H_WARBOW",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_WARBOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Warbow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS",
+        "localizedNames": "Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_WARBOW@1",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_WARBOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Warbow (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_WARBOW@2",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_WARBOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Warbow (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_WARBOW@3",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_WARBOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Warbow (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_WARBOW@4",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_WARBOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Warbow (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T5_2H_WARBOW",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_WARBOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Warbow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS",
+        "localizedNames": "Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_WARBOW@1",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_WARBOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Warbow (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_WARBOW@2",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_WARBOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Warbow (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_WARBOW@3",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_WARBOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Warbow (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_WARBOW@4",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_WARBOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Warbow (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T6_2H_WARBOW",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_WARBOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Warbow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS",
+        "localizedNames": "Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_WARBOW@1",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_WARBOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Warbow (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_WARBOW@2",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_WARBOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Warbow (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_WARBOW@3",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_WARBOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Warbow (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_WARBOW@4",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_WARBOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Warbow (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T7_2H_WARBOW",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_WARBOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Warbow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS",
+        "localizedNames": "Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_WARBOW@1",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_WARBOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Warbow (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_WARBOW@2",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_WARBOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Warbow (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_WARBOW@3",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_WARBOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Warbow (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_WARBOW@4",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_WARBOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Warbow (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T8_2H_WARBOW",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_WARBOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Warbow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS",
+        "localizedNames": "Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_WARBOW@1",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_WARBOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Warbow (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_WARBOW@2",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_WARBOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Warbow (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_WARBOW@3",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_WARBOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Warbow (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_WARBOW@4",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_WARBOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Warbow (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T4_2H_LONGBOW",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_LONGBOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Longbow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS",
+        "localizedNames": "Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_LONGBOW@1",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_LONGBOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Longbow (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_LONGBOW@2",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_LONGBOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Longbow (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_LONGBOW@3",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_LONGBOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Longbow (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_LONGBOW@4",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_LONGBOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Longbow (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T5_2H_LONGBOW",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_LONGBOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Longbow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS",
+        "localizedNames": "Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_LONGBOW@1",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_LONGBOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Longbow (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_LONGBOW@2",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_LONGBOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Longbow (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_LONGBOW@3",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_LONGBOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Longbow (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_LONGBOW@4",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_LONGBOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Longbow (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T6_2H_LONGBOW",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_LONGBOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Longbow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS",
+        "localizedNames": "Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_LONGBOW@1",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_LONGBOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Longbow (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_LONGBOW@2",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_LONGBOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Longbow (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_LONGBOW@3",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_LONGBOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Longbow (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_LONGBOW@4",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_LONGBOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Longbow (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T7_2H_LONGBOW",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_LONGBOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Longbow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS",
+        "localizedNames": "Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_LONGBOW@1",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_LONGBOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Longbow (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_LONGBOW@2",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_LONGBOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Longbow (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_LONGBOW@3",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_LONGBOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Longbow (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_LONGBOW@4",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_LONGBOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Longbow (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T8_2H_LONGBOW",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_LONGBOW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Longbow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS",
+        "localizedNames": "Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_LONGBOW@1",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_LONGBOW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Longbow (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_LONGBOW@2",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_LONGBOW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Longbow (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_LONGBOW@3",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_LONGBOW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Longbow (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_LONGBOW@4",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_LONGBOW",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Longbow (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T4_2H_LONGBOW_UNDEAD",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_LONGBOW_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Whispering Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS",
+        "localizedNames": "Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Adept's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_LONGBOW_UNDEAD@1",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_LONGBOW_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Whispering Bow (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Adept's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_LONGBOW_UNDEAD@2",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_LONGBOW_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Whispering Bow (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Adept's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_LONGBOW_UNDEAD@3",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_LONGBOW_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Whispering Bow (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Adept's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_LONGBOW_UNDEAD@4",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_LONGBOW_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Whispering Bow (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Adept's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T5_2H_LONGBOW_UNDEAD",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_LONGBOW_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Whispering Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS",
+        "localizedNames": "Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Expert's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_LONGBOW_UNDEAD@1",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_LONGBOW_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Whispering Bow (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Expert's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_LONGBOW_UNDEAD@2",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_LONGBOW_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Whispering Bow (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Expert's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_LONGBOW_UNDEAD@3",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_LONGBOW_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Whispering Bow (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Expert's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_LONGBOW_UNDEAD@4",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_LONGBOW_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Whispering Bow (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Expert's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T6_2H_LONGBOW_UNDEAD",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_LONGBOW_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Whispering Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS",
+        "localizedNames": "Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Master's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_LONGBOW_UNDEAD@1",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_LONGBOW_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Whispering Bow (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Master's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_LONGBOW_UNDEAD@2",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_LONGBOW_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Whispering Bow (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Master's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_LONGBOW_UNDEAD@3",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_LONGBOW_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Whispering Bow (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Master's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_LONGBOW_UNDEAD@4",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_LONGBOW_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Whispering Bow (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Master's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T7_2H_LONGBOW_UNDEAD",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_LONGBOW_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Whispering Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS",
+        "localizedNames": "Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_LONGBOW_UNDEAD@1",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_LONGBOW_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Whispering Bow (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_LONGBOW_UNDEAD@2",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_LONGBOW_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Whispering Bow (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_LONGBOW_UNDEAD@3",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_LONGBOW_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Whispering Bow (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_LONGBOW_UNDEAD@4",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_LONGBOW_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Whispering Bow (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T8_2H_LONGBOW_UNDEAD",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_LONGBOW_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Whispering Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS",
+        "localizedNames": "Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Elder's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_LONGBOW_UNDEAD@1",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_LONGBOW_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Whispering Bow (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Elder's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_LONGBOW_UNDEAD@2",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_LONGBOW_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Whispering Bow (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Elder's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_LONGBOW_UNDEAD@3",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_LONGBOW_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Whispering Bow (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Elder's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_LONGBOW_UNDEAD@4",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_LONGBOW_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Whispering Bow (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_LONGBOW_UNDEAD",
+        "localizedNames": "Elder's Ghastly Arrows",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T4_2H_BOW_HELL",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Wailing Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS",
+        "localizedNames": "Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Adept's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_HELL@1",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Wailing Bow (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Adept's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_HELL@2",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Wailing Bow (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Adept's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_HELL@3",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Wailing Bow (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Adept's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_HELL@4",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Wailing Bow (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Adept's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T5_2H_BOW_HELL",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Wailing Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS",
+        "localizedNames": "Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Expert's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_HELL@1",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Wailing Bow (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Expert's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_HELL@2",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Wailing Bow (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Expert's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_HELL@3",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Wailing Bow (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Expert's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_HELL@4",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Wailing Bow (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Expert's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T6_2H_BOW_HELL",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Wailing Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS",
+        "localizedNames": "Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Master's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_HELL@1",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Wailing Bow (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Master's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_HELL@2",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Wailing Bow (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Master's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_HELL@3",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Wailing Bow (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Master's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_HELL@4",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Wailing Bow (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Master's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T7_2H_BOW_HELL",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Wailing Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS",
+        "localizedNames": "Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Grandmaster's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_HELL@1",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Wailing Bow (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Grandmaster's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_HELL@2",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Wailing Bow (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Grandmaster's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_HELL@3",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Wailing Bow (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Grandmaster's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_HELL@4",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Wailing Bow (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Grandmaster's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T8_2H_BOW_HELL",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Wailing Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS",
+        "localizedNames": "Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Elder's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_HELL@1",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Wailing Bow (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Elder's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_HELL@2",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Wailing Bow (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Elder's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_HELL@3",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Wailing Bow (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Elder's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_HELL@4",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Wailing Bow (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_HELL",
+        "localizedNames": "Elder's Demonic Arrowheads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T4_2H_BOW_KEEPER",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bow of Badon",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS",
+        "localizedNames": "Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Adept's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_KEEPER@1",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bow of Badon (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Adept's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_KEEPER@2",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bow of Badon (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Adept's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_KEEPER@3",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bow of Badon (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Adept's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_KEEPER@4",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bow of Badon (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Adept's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T5_2H_BOW_KEEPER",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bow of Badon",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS",
+        "localizedNames": "Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Expert's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_KEEPER@1",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bow of Badon (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Expert's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_KEEPER@2",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bow of Badon (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Expert's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_KEEPER@3",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bow of Badon (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Expert's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_KEEPER@4",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bow of Badon (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Expert's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T6_2H_BOW_KEEPER",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Bow of Badon",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS",
+        "localizedNames": "Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Master's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_KEEPER@1",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Bow of Badon (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Master's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_KEEPER@2",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Bow of Badon (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Master's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_KEEPER@3",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Bow of Badon (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Master's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_KEEPER@4",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Bow of Badon (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Master's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T7_2H_BOW_KEEPER",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bow of Badon",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS",
+        "localizedNames": "Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Grandmaster's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_KEEPER@1",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bow of Badon (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Grandmaster's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_KEEPER@2",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bow of Badon (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Grandmaster's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_KEEPER@3",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bow of Badon (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Grandmaster's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_KEEPER@4",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bow of Badon (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Grandmaster's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T8_2H_BOW_KEEPER",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bow of Badon",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS",
+        "localizedNames": "Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Elder's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_KEEPER@1",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bow of Badon (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Elder's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_KEEPER@2",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bow of Badon (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Elder's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_KEEPER@3",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bow of Badon (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Elder's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_KEEPER@4",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bow of Badon (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_KEEPER",
+        "localizedNames": "Elder's Carved Bone",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T4_2H_BOW_AVALON",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Mistpiercer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS",
+        "localizedNames": "Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Adept's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_AVALON@1",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Mistpiercer (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Adept's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_AVALON@2",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Mistpiercer (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Adept's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_AVALON@3",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Mistpiercer (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Adept's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_AVALON@4",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Mistpiercer (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Adept's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T5_2H_BOW_AVALON",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Mistpiercer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS",
+        "localizedNames": "Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Expert's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_AVALON@1",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Mistpiercer (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Expert's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_AVALON@2",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Mistpiercer (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Expert's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_AVALON@3",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Mistpiercer (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Expert's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_AVALON@4",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Mistpiercer (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Expert's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T7_2H_BOW_AVALON",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Mistpiercer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS",
+        "localizedNames": "Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Grandmaster's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_AVALON@1",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Mistpiercer (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Grandmaster's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_AVALON@2",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Mistpiercer (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Grandmaster's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_AVALON@3",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Mistpiercer (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Grandmaster's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_AVALON@4",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Mistpiercer (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Grandmaster's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T8_2H_BOW_AVALON",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Mistpiercer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS",
+        "localizedNames": "Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Elder's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_AVALON@1",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Mistpiercer (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Elder's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_AVALON@2",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Mistpiercer (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Elder's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_AVALON@3",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Mistpiercer (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Elder's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_AVALON@4",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Mistpiercer (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_AVALON",
+        "localizedNames": "Elder's Immaculately Crafted Riser",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T4_2H_BOW_CRYSTAL",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Skystrider Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS",
+        "localizedNames": "Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Adept's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_CRYSTAL@1",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Skystrider Bow (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Adept's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_CRYSTAL@2",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Skystrider Bow (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Adept's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_CRYSTAL@3",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Skystrider Bow (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Adept's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T4_2H_BOW_CRYSTAL@4",
+    "tier": 4,
+    "categoryId": "bow",
+    "base": "T4_2H_BOW_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Skystrider Bow (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 32
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Adept's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 6.8
+  },
+  {
+    "uniqueName": "T5_2H_BOW_CRYSTAL",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Skystrider Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS",
+        "localizedNames": "Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Expert's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_CRYSTAL@1",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Skystrider Bow (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Expert's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_CRYSTAL@2",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Skystrider Bow (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Expert's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_CRYSTAL@3",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Skystrider Bow (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Expert's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T5_2H_BOW_CRYSTAL@4",
+    "tier": 5,
+    "categoryId": "bow",
+    "base": "T5_2H_BOW_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Skystrider Bow (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 32
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Expert's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 10.1
+  },
+  {
+    "uniqueName": "T6_2H_BOW_CRYSTAL",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Skystrider Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS",
+        "localizedNames": "Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Master's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_CRYSTAL@1",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Skystrider Bow (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Master's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_CRYSTAL@2",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Skystrider Bow (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Master's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_CRYSTAL@3",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Skystrider Bow (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Master's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T6_2H_BOW_CRYSTAL@4",
+    "tier": 6,
+    "categoryId": "bow",
+    "base": "T6_2H_BOW_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Skystrider Bow (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 32
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Master's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 15.2
+  },
+  {
+    "uniqueName": "T7_2H_BOW_CRYSTAL",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Skystrider Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS",
+        "localizedNames": "Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Grandmaster's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_CRYSTAL@1",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Skystrider Bow (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Grandmaster's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_CRYSTAL@2",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Skystrider Bow (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Grandmaster's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_CRYSTAL@3",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Skystrider Bow (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Grandmaster's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T7_2H_BOW_CRYSTAL@4",
+    "tier": 7,
+    "categoryId": "bow",
+    "base": "T7_2H_BOW_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Skystrider Bow (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 32
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Grandmaster's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 22.8
+  },
+  {
+    "uniqueName": "T8_2H_BOW_CRYSTAL",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Skystrider Bow",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS",
+        "localizedNames": "Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Elder's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_CRYSTAL@1",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Skystrider Bow (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Elder's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_CRYSTAL@2",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Skystrider Bow (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Elder's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_CRYSTAL@3",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Skystrider Bow (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Elder's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  },
+  {
+    "uniqueName": "T8_2H_BOW_CRYSTAL@4",
+    "tier": 8,
+    "categoryId": "bow",
+    "base": "T8_2H_BOW_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Skystrider Bow (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 32
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_BOW_CRYSTAL",
+        "localizedNames": "Elder's Windborne Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 34.2
+  }
+]
