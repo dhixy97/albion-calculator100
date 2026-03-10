@@ -7,7 +7,8 @@ import offhand from "@/data/offhand.json";
 import clothItems from "@/data/clothItems.json";
 import leatherItems from "@/data/leatherItems.json";
 import plateItems from "@/data/plateItems.json";
-import bow from "@/data/bow.json"
+import bow from "@/data/bow.json";
+import dagger from "@/data/dagger.json"
 import { useRecipes } from "@/context/RecipeContext";
 
 export default function InputItem({ localReturnRate, handleReturnRateChange }) {
@@ -39,7 +40,7 @@ export default function InputItem({ localReturnRate, handleReturnRateChange }) {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  const allItems = [...refined, ...offhand, ...clothItems, ...leatherItems, ...plateItems, ...bow];
+  const allItems = [...refined, ...offhand, ...clothItems, ...leatherItems, ...plateItems, ...bow, ...dagger];
 
   const filterItems = allItems.filter((item) =>
     item.localizedNames?.toLowerCase().includes(query.toLowerCase())

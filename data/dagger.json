@@ -1,0 +1,5552 @@
+[
+  {
+    "uniqueName": "T4_MAIN_DAGGER",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_DAGGER",
+    "enchantment": 0,
+    "itemValue": 384,
+    "localizedNames": "Adept's Dagger",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_DAGGER@1",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_DAGGER",
+    "enchantment": 1,
+    "itemValue": 768,
+    "localizedNames": "Adept's Dagger (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_DAGGER@2",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_DAGGER",
+    "enchantment": 2,
+    "itemValue": 1536,
+    "localizedNames": "Adept's Dagger (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_DAGGER@3",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_DAGGER",
+    "enchantment": 3,
+    "itemValue": 3072,
+    "localizedNames": "Adept's Dagger (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_DAGGER@4",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_DAGGER",
+    "enchantment": 4,
+    "itemValue": 6144,
+    "localizedNames": "Adept's Dagger (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_DAGGER",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_DAGGER",
+    "enchantment": 0,
+    "itemValue": 768,
+    "localizedNames": "Expert's Dagger",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_DAGGER@1",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_DAGGER",
+    "enchantment": 1,
+    "itemValue": 1536,
+    "localizedNames": "Expert's Dagger (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_DAGGER@2",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_DAGGER",
+    "enchantment": 2,
+    "itemValue": 3072,
+    "localizedNames": "Expert's Dagger (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_DAGGER@3",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_DAGGER",
+    "enchantment": 3,
+    "itemValue": 6144,
+    "localizedNames": "Expert's Dagger (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_DAGGER@4",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_DAGGER",
+    "enchantment": 4,
+    "itemValue": 12288,
+    "localizedNames": "Expert's Dagger (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_DAGGER",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_DAGGER",
+    "enchantment": 0,
+    "itemValue": 1536,
+    "localizedNames": "Master's Dagger",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_DAGGER@1",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_DAGGER",
+    "enchantment": 1,
+    "itemValue": 3072,
+    "localizedNames": "Master's Dagger (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_DAGGER@2",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_DAGGER",
+    "enchantment": 2,
+    "itemValue": 6144,
+    "localizedNames": "Master's Dagger (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_DAGGER@3",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_DAGGER",
+    "enchantment": 3,
+    "itemValue": 12288,
+    "localizedNames": "Master's Dagger (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_DAGGER@4",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_DAGGER",
+    "enchantment": 4,
+    "itemValue": 24576,
+    "localizedNames": "Master's Dagger (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_DAGGER",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_DAGGER",
+    "enchantment": 0,
+    "itemValue": 3072,
+    "localizedNames": "Grandmaster's Dagger",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_DAGGER@1",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_DAGGER",
+    "enchantment": 1,
+    "itemValue": 6144,
+    "localizedNames": "Grandmaster's Dagger (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_DAGGER@2",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_DAGGER",
+    "enchantment": 2,
+    "itemValue": 12288,
+    "localizedNames": "Grandmaster's Dagger (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_DAGGER@3",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_DAGGER",
+    "enchantment": 3,
+    "itemValue": 24576,
+    "localizedNames": "Grandmaster's Dagger (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_DAGGER@4",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_DAGGER",
+    "enchantment": 4,
+    "itemValue": 49152,
+    "localizedNames": "Grandmaster's Dagger (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_DAGGER",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_DAGGER",
+    "enchantment": 0,
+    "itemValue": 6144,
+    "localizedNames": "Elder's Dagger",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_DAGGER@1",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_DAGGER",
+    "enchantment": 1,
+    "itemValue": 12288,
+    "localizedNames": "Elder's Dagger (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_DAGGER@2",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_DAGGER",
+    "enchantment": 2,
+    "itemValue": 24576,
+    "localizedNames": "Elder's Dagger (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_DAGGER@3",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_DAGGER",
+    "enchantment": 3,
+    "itemValue": 49152,
+    "localizedNames": "Elder's Dagger (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_DAGGER@4",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_DAGGER",
+    "enchantment": 4,
+    "itemValue": 98304,
+    "localizedNames": "Elder's Dagger (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGERPAIR",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGERPAIR",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Dagger Pair",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGERPAIR@1",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGERPAIR",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Dagger Pair (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGERPAIR@2",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGERPAIR",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Dagger Pair (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGERPAIR@3",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGERPAIR",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Dagger Pair (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGERPAIR@4",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGERPAIR",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Dagger Pair (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGERPAIR",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGERPAIR",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Dagger Pair",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGERPAIR@1",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGERPAIR",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Dagger Pair (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGERPAIR@2",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGERPAIR",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Dagger Pair (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGERPAIR@3",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGERPAIR",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Dagger Pair (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGERPAIR@4",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGERPAIR",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Dagger Pair (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGERPAIR",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGERPAIR",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Dagger Pair",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGERPAIR@1",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGERPAIR",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Dagger Pair (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGERPAIR@2",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGERPAIR",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Dagger Pair (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGERPAIR@3",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGERPAIR",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Dagger Pair (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGERPAIR@4",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGERPAIR",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Dagger Pair (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGERPAIR",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGERPAIR",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Dagger Pair",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGERPAIR@1",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGERPAIR",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Dagger Pair (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGERPAIR@2",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGERPAIR",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Dagger Pair (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGERPAIR@3",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGERPAIR",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Dagger Pair (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGERPAIR@4",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGERPAIR",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Dagger Pair (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGERPAIR",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGERPAIR",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Dagger Pair",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGERPAIR@1",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGERPAIR",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Dagger Pair (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGERPAIR@2",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGERPAIR",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Dagger Pair (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGERPAIR@3",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGERPAIR",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Dagger Pair (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGERPAIR@4",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGERPAIR",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Dagger Pair (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_CLAWPAIR",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_CLAWPAIR",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Claws",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_CLAWPAIR@1",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_CLAWPAIR",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Claws (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_CLAWPAIR@2",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_CLAWPAIR",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Claws (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_CLAWPAIR@3",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_CLAWPAIR",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Claws (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_CLAWPAIR@4",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_CLAWPAIR",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Claws (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_CLAWPAIR",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_CLAWPAIR",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Claws",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_CLAWPAIR@1",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_CLAWPAIR",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Claws (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_CLAWPAIR@2",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_CLAWPAIR",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Claws (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_CLAWPAIR@3",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_CLAWPAIR",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Claws (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_CLAWPAIR@4",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_CLAWPAIR",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Claws (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_CLAWPAIR",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_CLAWPAIR",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Claws",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_CLAWPAIR@1",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_CLAWPAIR",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Claws (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_CLAWPAIR@2",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_CLAWPAIR",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Claws (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_CLAWPAIR@3",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_CLAWPAIR",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Claws (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_CLAWPAIR@4",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_CLAWPAIR",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Claws (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_CLAWPAIR",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_CLAWPAIR",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Claws",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_CLAWPAIR@1",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_CLAWPAIR",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Claws (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_CLAWPAIR@2",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_CLAWPAIR",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Claws (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_CLAWPAIR@3",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_CLAWPAIR",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Claws (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_CLAWPAIR@4",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_CLAWPAIR",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Claws (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_CLAWPAIR",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_CLAWPAIR",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Claws",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_CLAWPAIR@1",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_CLAWPAIR",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Claws (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_CLAWPAIR@2",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_CLAWPAIR",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Claws (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_CLAWPAIR@3",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_CLAWPAIR",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Claws (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_CLAWPAIR@4",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_CLAWPAIR",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Claws (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_RAPIER_MORGANA",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_RAPIER_MORGANA",
+    "enchantment": 0,
+    "itemValue": 480,
+    "localizedNames": "Adept's Bloodletter",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Adept's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_RAPIER_MORGANA@1",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_RAPIER_MORGANA",
+    "enchantment": 1,
+    "itemValue": 960,
+    "localizedNames": "Adept's Bloodletter (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Adept's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_RAPIER_MORGANA@2",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_RAPIER_MORGANA",
+    "enchantment": 2,
+    "itemValue": 1920,
+    "localizedNames": "Adept's Bloodletter (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Adept's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_RAPIER_MORGANA@3",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_RAPIER_MORGANA",
+    "enchantment": 3,
+    "itemValue": 3840,
+    "localizedNames": "Adept's Bloodletter (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Adept's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_RAPIER_MORGANA@4",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_RAPIER_MORGANA",
+    "enchantment": 4,
+    "itemValue": 7680,
+    "localizedNames": "Adept's Bloodletter (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Adept's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_RAPIER_MORGANA",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_RAPIER_MORGANA",
+    "enchantment": 0,
+    "itemValue": 960,
+    "localizedNames": "Expert's Bloodletter",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Expert's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_RAPIER_MORGANA@1",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_RAPIER_MORGANA",
+    "enchantment": 1,
+    "itemValue": 1920,
+    "localizedNames": "Expert's Bloodletter (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Expert's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_RAPIER_MORGANA@2",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_RAPIER_MORGANA",
+    "enchantment": 2,
+    "itemValue": 3840,
+    "localizedNames": "Expert's Bloodletter (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Expert's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_RAPIER_MORGANA@3",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_RAPIER_MORGANA",
+    "enchantment": 3,
+    "itemValue": 7680,
+    "localizedNames": "Expert's Bloodletter (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Expert's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_RAPIER_MORGANA@4",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_RAPIER_MORGANA",
+    "enchantment": 4,
+    "itemValue": 15360,
+    "localizedNames": "Expert's Bloodletter (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Expert's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_RAPIER_MORGANA",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_RAPIER_MORGANA",
+    "enchantment": 0,
+    "itemValue": 1920,
+    "localizedNames": "Master's Bloodletter",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Master's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_RAPIER_MORGANA@1",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_RAPIER_MORGANA",
+    "enchantment": 1,
+    "itemValue": 3840,
+    "localizedNames": "Master's Bloodletter (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Master's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_RAPIER_MORGANA@2",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_RAPIER_MORGANA",
+    "enchantment": 2,
+    "itemValue": 7680,
+    "localizedNames": "Master's Bloodletter (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Master's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_RAPIER_MORGANA@3",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_RAPIER_MORGANA",
+    "enchantment": 3,
+    "itemValue": 15360,
+    "localizedNames": "Master's Bloodletter (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Master's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_RAPIER_MORGANA@4",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_RAPIER_MORGANA",
+    "enchantment": 4,
+    "itemValue": 30720,
+    "localizedNames": "Master's Bloodletter (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Master's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_RAPIER_MORGANA",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_RAPIER_MORGANA",
+    "enchantment": 0,
+    "itemValue": 3840,
+    "localizedNames": "Grandmaster's Bloodletter",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Grandmaster's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_RAPIER_MORGANA@1",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_RAPIER_MORGANA",
+    "enchantment": 1,
+    "itemValue": 7680,
+    "localizedNames": "Grandmaster's Bloodletter (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Grandmaster's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_RAPIER_MORGANA@2",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_RAPIER_MORGANA",
+    "enchantment": 2,
+    "itemValue": 15360,
+    "localizedNames": "Grandmaster's Bloodletter (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Grandmaster's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_RAPIER_MORGANA@3",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_RAPIER_MORGANA",
+    "enchantment": 3,
+    "itemValue": 30720,
+    "localizedNames": "Grandmaster's Bloodletter (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Grandmaster's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_RAPIER_MORGANA@4",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_RAPIER_MORGANA",
+    "enchantment": 4,
+    "itemValue": 61440,
+    "localizedNames": "Grandmaster's Bloodletter (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Grandmaster's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_RAPIER_MORGANA",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_RAPIER_MORGANA",
+    "enchantment": 0,
+    "itemValue": 7680,
+    "localizedNames": "Elder's Bloodletter",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Elder's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_RAPIER_MORGANA@1",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_RAPIER_MORGANA",
+    "enchantment": 1,
+    "itemValue": 15360,
+    "localizedNames": "Elder's Bloodletter (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Elder's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_RAPIER_MORGANA@2",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_RAPIER_MORGANA",
+    "enchantment": 2,
+    "itemValue": 30720,
+    "localizedNames": "Elder's Bloodletter (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Elder's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_RAPIER_MORGANA@3",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_RAPIER_MORGANA",
+    "enchantment": 3,
+    "itemValue": 61440,
+    "localizedNames": "Elder's Bloodletter (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Elder's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_RAPIER_MORGANA@4",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_RAPIER_MORGANA",
+    "enchantment": 4,
+    "itemValue": 122880,
+    "localizedNames": "Elder's Bloodletter (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_RAPIER_MORGANA",
+        "localizedNames": "Elder's Hardened Debole",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_DAGGER_HELL",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_DAGGER_HELL",
+    "enchantment": 0,
+    "itemValue": 672,
+    "localizedNames": "Adept's Demonfang",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Adept's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_DAGGER_HELL@1",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_DAGGER_HELL",
+    "enchantment": 1,
+    "itemValue": 1344,
+    "localizedNames": "Adept's Demonfang (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Adept's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_DAGGER_HELL@2",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_DAGGER_HELL",
+    "enchantment": 2,
+    "itemValue": 2688,
+    "localizedNames": "Adept's Demonfang (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Adept's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_DAGGER_HELL@3",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_DAGGER_HELL",
+    "enchantment": 3,
+    "itemValue": 5376,
+    "localizedNames": "Adept's Demonfang (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Adept's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_DAGGER_HELL@4",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_MAIN_DAGGER_HELL",
+    "enchantment": 4,
+    "itemValue": 10752,
+    "localizedNames": "Adept's Demonfang (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Adept's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_DAGGER_HELL",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_DAGGER_HELL",
+    "enchantment": 0,
+    "itemValue": 1344,
+    "localizedNames": "Expert's Demonfang",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Expert's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_DAGGER_HELL@1",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_DAGGER_HELL",
+    "enchantment": 1,
+    "itemValue": 2688,
+    "localizedNames": "Expert's Demonfang (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Expert's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_DAGGER_HELL@2",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_DAGGER_HELL",
+    "enchantment": 2,
+    "itemValue": 5376,
+    "localizedNames": "Expert's Demonfang (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Expert's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_DAGGER_HELL@3",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_DAGGER_HELL",
+    "enchantment": 3,
+    "itemValue": 10752,
+    "localizedNames": "Expert's Demonfang (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Expert's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_DAGGER_HELL@4",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_MAIN_DAGGER_HELL",
+    "enchantment": 4,
+    "itemValue": 21504,
+    "localizedNames": "Expert's Demonfang (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Expert's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_DAGGER_HELL",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_DAGGER_HELL",
+    "enchantment": 0,
+    "itemValue": 2688,
+    "localizedNames": "Master's Demonfang",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Master's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_DAGGER_HELL@1",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_DAGGER_HELL",
+    "enchantment": 1,
+    "itemValue": 5376,
+    "localizedNames": "Master's Demonfang (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Master's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_DAGGER_HELL@2",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_DAGGER_HELL",
+    "enchantment": 2,
+    "itemValue": 10752,
+    "localizedNames": "Master's Demonfang (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Master's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_DAGGER_HELL@3",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_DAGGER_HELL",
+    "enchantment": 3,
+    "itemValue": 21504,
+    "localizedNames": "Master's Demonfang (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Master's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_DAGGER_HELL@4",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_MAIN_DAGGER_HELL",
+    "enchantment": 4,
+    "itemValue": 43008,
+    "localizedNames": "Master's Demonfang (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Master's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_DAGGER_HELL",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_DAGGER_HELL",
+    "enchantment": 0,
+    "itemValue": 5376,
+    "localizedNames": "Grandmaster's Demonfang",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Grandmaster's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_DAGGER_HELL@1",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_DAGGER_HELL",
+    "enchantment": 1,
+    "itemValue": 10752,
+    "localizedNames": "Grandmaster's Demonfang (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Grandmaster's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_DAGGER_HELL@2",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_DAGGER_HELL",
+    "enchantment": 2,
+    "itemValue": 21504,
+    "localizedNames": "Grandmaster's Demonfang (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Grandmaster's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_DAGGER_HELL@3",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_DAGGER_HELL",
+    "enchantment": 3,
+    "itemValue": 43008,
+    "localizedNames": "Grandmaster's Demonfang (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Grandmaster's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_DAGGER_HELL@4",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_MAIN_DAGGER_HELL",
+    "enchantment": 4,
+    "itemValue": 86016,
+    "localizedNames": "Grandmaster's Demonfang (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Grandmaster's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_DAGGER_HELL",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_DAGGER_HELL",
+    "enchantment": 0,
+    "itemValue": 10752,
+    "localizedNames": "Elder's Demonfang",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Elder's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_DAGGER_HELL@1",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_DAGGER_HELL",
+    "enchantment": 1,
+    "itemValue": 21504,
+    "localizedNames": "Elder's Demonfang (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Elder's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_DAGGER_HELL@2",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_DAGGER_HELL",
+    "enchantment": 2,
+    "itemValue": 43008,
+    "localizedNames": "Elder's Demonfang (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Elder's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_DAGGER_HELL@3",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_DAGGER_HELL",
+    "enchantment": 3,
+    "itemValue": 86016,
+    "localizedNames": "Elder's Demonfang (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Elder's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_DAGGER_HELL@4",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_MAIN_DAGGER_HELL",
+    "enchantment": 4,
+    "itemValue": 172032,
+    "localizedNames": "Elder's Demonfang (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_DAGGER_HELL",
+        "localizedNames": "Elder's Broken Demonic Fang",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DUALSICKLE_UNDEAD",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Deathgivers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Adept's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DUALSICKLE_UNDEAD@1",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Deathgivers (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Adept's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DUALSICKLE_UNDEAD@2",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Deathgivers (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Adept's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DUALSICKLE_UNDEAD@3",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Deathgivers (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Adept's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DUALSICKLE_UNDEAD@4",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Deathgivers (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Adept's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DUALSICKLE_UNDEAD",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Deathgivers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Expert's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DUALSICKLE_UNDEAD@1",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Deathgivers (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Expert's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DUALSICKLE_UNDEAD@2",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Deathgivers (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Expert's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DUALSICKLE_UNDEAD@3",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Deathgivers (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Expert's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DUALSICKLE_UNDEAD@4",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Deathgivers (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Expert's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DUALSICKLE_UNDEAD",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Deathgivers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Master's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DUALSICKLE_UNDEAD@1",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Deathgivers (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Master's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DUALSICKLE_UNDEAD@2",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Deathgivers (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Master's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DUALSICKLE_UNDEAD@3",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Deathgivers (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Master's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DUALSICKLE_UNDEAD@4",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Deathgivers (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Master's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DUALSICKLE_UNDEAD",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Deathgivers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DUALSICKLE_UNDEAD@1",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Deathgivers (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DUALSICKLE_UNDEAD@2",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Deathgivers (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DUALSICKLE_UNDEAD@3",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Deathgivers (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DUALSICKLE_UNDEAD@4",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Deathgivers (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DUALSICKLE_UNDEAD",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Deathgivers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Elder's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DUALSICKLE_UNDEAD@1",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Deathgivers (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Elder's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DUALSICKLE_UNDEAD@2",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Deathgivers (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Elder's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DUALSICKLE_UNDEAD@3",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Deathgivers (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Elder's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DUALSICKLE_UNDEAD@4",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DUALSICKLE_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Deathgivers (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DUALSICKLE_UNDEAD",
+        "localizedNames": "Elder's Ghastly Blades",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGER_KATAR_AVALON",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bridled Fury",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Adept's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGER_KATAR_AVALON@1",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bridled Fury (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Adept's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGER_KATAR_AVALON@2",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bridled Fury (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Adept's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGER_KATAR_AVALON@3",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bridled Fury (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Adept's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGER_KATAR_AVALON@4",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Bridled Fury (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Adept's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGER_KATAR_AVALON",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bridled Fury",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Expert's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGER_KATAR_AVALON@1",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bridled Fury (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Expert's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGER_KATAR_AVALON@2",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bridled Fury (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Expert's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGER_KATAR_AVALON@3",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bridled Fury (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Expert's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGER_KATAR_AVALON@4",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Bridled Fury (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Expert's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGER_KATAR_AVALON",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Bridled Fury",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Master's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGER_KATAR_AVALON@1",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Bridled Fury (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Master's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGER_KATAR_AVALON@2",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Bridled Fury (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Master's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGER_KATAR_AVALON@3",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Bridled Fury (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Master's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGER_KATAR_AVALON@4",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Bridled Fury (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Master's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGER_KATAR_AVALON",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bridled Fury",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Grandmaster's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGER_KATAR_AVALON@1",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bridled Fury (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Grandmaster's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGER_KATAR_AVALON@2",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bridled Fury (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Grandmaster's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGER_KATAR_AVALON@3",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bridled Fury (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Grandmaster's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGER_KATAR_AVALON@4",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Bridled Fury (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Grandmaster's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGER_KATAR_AVALON",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bridled Fury",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Elder's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGER_KATAR_AVALON@1",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bridled Fury (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Elder's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGER_KATAR_AVALON@2",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bridled Fury (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Elder's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGER_KATAR_AVALON@3",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bridled Fury (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Elder's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGER_KATAR_AVALON@4",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGER_KATAR_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Bridled Fury (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "localizedNames": "Elder's Bloodstained Antiquities",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGERPAIR_CRYSTAL",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Twin Slayers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Adept's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGERPAIR_CRYSTAL@1",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Twin Slayers (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Adept's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGERPAIR_CRYSTAL@2",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Twin Slayers (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Adept's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGERPAIR_CRYSTAL@3",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Twin Slayers (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Adept's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DAGGERPAIR_CRYSTAL@4",
+    "tier": 4,
+    "categoryId": "dagger",
+    "base": "T4_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Twin Slayers (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Adept's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGERPAIR_CRYSTAL",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Twin Slayers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Expert's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGERPAIR_CRYSTAL@1",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Twin Slayers (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Expert's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGERPAIR_CRYSTAL@2",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Twin Slayers (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Expert's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGERPAIR_CRYSTAL@3",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Twin Slayers (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Expert's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DAGGERPAIR_CRYSTAL@4",
+    "tier": 5,
+    "categoryId": "dagger",
+    "base": "T5_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Twin Slayers (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Expert's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGERPAIR_CRYSTAL",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Twin Slayers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Master's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGERPAIR_CRYSTAL@1",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Twin Slayers (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Master's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGERPAIR_CRYSTAL@2",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Twin Slayers (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Master's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGERPAIR_CRYSTAL@3",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Twin Slayers (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Master's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DAGGERPAIR_CRYSTAL@4",
+    "tier": 6,
+    "categoryId": "dagger",
+    "base": "T6_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Twin Slayers (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Master's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGERPAIR_CRYSTAL",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Twin Slayers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Grandmaster's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGERPAIR_CRYSTAL@1",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Twin Slayers (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Grandmaster's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGERPAIR_CRYSTAL@2",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Twin Slayers (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Grandmaster's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGERPAIR_CRYSTAL@3",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Twin Slayers (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Grandmaster's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DAGGERPAIR_CRYSTAL@4",
+    "tier": 7,
+    "categoryId": "dagger",
+    "base": "T7_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Twin Slayers (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Grandmaster's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGERPAIR_CRYSTAL",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Twin Slayers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Elder's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGERPAIR_CRYSTAL@1",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Twin Slayers (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Elder's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGERPAIR_CRYSTAL@2",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Twin Slayers (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Elder's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGERPAIR_CRYSTAL@3",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Twin Slayers (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Elder's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DAGGERPAIR_CRYSTAL@4",
+    "tier": 8,
+    "categoryId": "dagger",
+    "base": "T8_2H_DAGGERPAIR_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Twin Slayers (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DAGGERPAIR_CRYSTAL",
+        "localizedNames": "Elder's Death-Touched Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  }
+]
