@@ -1,0 +1,5207 @@
+[
+  {
+    "uniqueName": "T4_2H_QUARTERSTAFF",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_QUARTERSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Quarterstaff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_QUARTERSTAFF@1",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_QUARTERSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Quarterstaff (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_QUARTERSTAFF@2",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_QUARTERSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Quarterstaff (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_QUARTERSTAFF@3",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_QUARTERSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Quarterstaff (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_QUARTERSTAFF@4",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_QUARTERSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Quarterstaff (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_QUARTERSTAFF",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_QUARTERSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Quarterstaff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_QUARTERSTAFF@1",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_QUARTERSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Quarterstaff (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_QUARTERSTAFF@2",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_QUARTERSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Quarterstaff (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_QUARTERSTAFF@3",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_QUARTERSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Quarterstaff (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_QUARTERSTAFF@4",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_QUARTERSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Quarterstaff (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_QUARTERSTAFF",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_QUARTERSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Quarterstaff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_QUARTERSTAFF@1",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_QUARTERSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Quarterstaff (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_QUARTERSTAFF@2",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_QUARTERSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Quarterstaff (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_QUARTERSTAFF@3",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_QUARTERSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Quarterstaff (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_QUARTERSTAFF@4",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_QUARTERSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Quarterstaff (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_QUARTERSTAFF",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_QUARTERSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Quarterstaff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_QUARTERSTAFF@1",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_QUARTERSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Quarterstaff (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_QUARTERSTAFF@2",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_QUARTERSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Quarterstaff (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_QUARTERSTAFF@3",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_QUARTERSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Quarterstaff (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_QUARTERSTAFF@4",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_QUARTERSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Quarterstaff (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_QUARTERSTAFF",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_QUARTERSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Quarterstaff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_QUARTERSTAFF@1",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_QUARTERSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Quarterstaff (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_QUARTERSTAFF@2",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_QUARTERSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Quarterstaff (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_QUARTERSTAFF@3",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_QUARTERSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Quarterstaff (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_QUARTERSTAFF@4",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_QUARTERSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Quarterstaff (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_IRONCLADEDSTAFF",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_IRONCLADEDSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Iron-clad Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_IRONCLADEDSTAFF@1",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_IRONCLADEDSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Iron-clad Staff (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_IRONCLADEDSTAFF@2",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_IRONCLADEDSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Iron-clad Staff (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_IRONCLADEDSTAFF@3",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_IRONCLADEDSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Iron-clad Staff (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_IRONCLADEDSTAFF@4",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_IRONCLADEDSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Iron-clad Staff (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_IRONCLADEDSTAFF",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_IRONCLADEDSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Iron-clad Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_IRONCLADEDSTAFF@1",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_IRONCLADEDSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Iron-clad Staff (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_IRONCLADEDSTAFF@2",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_IRONCLADEDSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Iron-clad Staff (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_IRONCLADEDSTAFF@3",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_IRONCLADEDSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Iron-clad Staff (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_IRONCLADEDSTAFF@4",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_IRONCLADEDSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Iron-clad Staff (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_IRONCLADEDSTAFF",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_IRONCLADEDSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Iron-clad Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_IRONCLADEDSTAFF@1",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_IRONCLADEDSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Iron-clad Staff (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_IRONCLADEDSTAFF@2",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_IRONCLADEDSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Iron-clad Staff (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_IRONCLADEDSTAFF@3",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_IRONCLADEDSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Iron-clad Staff (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_IRONCLADEDSTAFF@4",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_IRONCLADEDSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Iron-clad Staff (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_IRONCLADEDSTAFF",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_IRONCLADEDSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Iron-clad Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_IRONCLADEDSTAFF@1",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_IRONCLADEDSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Iron-clad Staff (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_IRONCLADEDSTAFF@2",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_IRONCLADEDSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Iron-clad Staff (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_IRONCLADEDSTAFF@3",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_IRONCLADEDSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Iron-clad Staff (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_IRONCLADEDSTAFF@4",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_IRONCLADEDSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Iron-clad Staff (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_IRONCLADEDSTAFF",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_IRONCLADEDSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Iron-clad Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_IRONCLADEDSTAFF@1",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_IRONCLADEDSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Iron-clad Staff (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_IRONCLADEDSTAFF@2",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_IRONCLADEDSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Iron-clad Staff (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_IRONCLADEDSTAFF@3",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_IRONCLADEDSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Iron-clad Staff (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_IRONCLADEDSTAFF@4",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_IRONCLADEDSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Iron-clad Staff (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_DOUBLEBLADEDSTAFF",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Double Bladed Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_DOUBLEBLADEDSTAFF@1",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Double Bladed Staff (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_DOUBLEBLADEDSTAFF@2",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Double Bladed Staff (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_DOUBLEBLADEDSTAFF@3",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Double Bladed Staff (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_DOUBLEBLADEDSTAFF@4",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Double Bladed Staff (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_DOUBLEBLADEDSTAFF",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Double Bladed Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_DOUBLEBLADEDSTAFF@1",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Double Bladed Staff (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_DOUBLEBLADEDSTAFF@2",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Double Bladed Staff (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_DOUBLEBLADEDSTAFF@3",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Double Bladed Staff (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_DOUBLEBLADEDSTAFF@4",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Double Bladed Staff (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_DOUBLEBLADEDSTAFF",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Double Bladed Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_DOUBLEBLADEDSTAFF@1",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Double Bladed Staff (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_DOUBLEBLADEDSTAFF@2",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Double Bladed Staff (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_DOUBLEBLADEDSTAFF@3",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Double Bladed Staff (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_DOUBLEBLADEDSTAFF@4",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Double Bladed Staff (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_DOUBLEBLADEDSTAFF",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Double Bladed Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_DOUBLEBLADEDSTAFF@1",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Double Bladed Staff (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_DOUBLEBLADEDSTAFF@2",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Double Bladed Staff (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_DOUBLEBLADEDSTAFF@3",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Double Bladed Staff (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_DOUBLEBLADEDSTAFF@4",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Double Bladed Staff (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_DOUBLEBLADEDSTAFF",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Double Bladed Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_DOUBLEBLADEDSTAFF@1",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Double Bladed Staff (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_DOUBLEBLADEDSTAFF@2",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Double Bladed Staff (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_DOUBLEBLADEDSTAFF@3",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Double Bladed Staff (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_DOUBLEBLADEDSTAFF@4",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_DOUBLEBLADEDSTAFF",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Double Bladed Staff (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_COMBATSTAFF_MORGANA",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Black Monk Stave",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Adept's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_COMBATSTAFF_MORGANA@1",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Black Monk Stave (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Adept's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_COMBATSTAFF_MORGANA@2",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Black Monk Stave (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Adept's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_COMBATSTAFF_MORGANA@3",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Black Monk Stave (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Adept's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_COMBATSTAFF_MORGANA@4",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Black Monk Stave (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Adept's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_COMBATSTAFF_MORGANA",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Black Monk Stave",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Expert's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_COMBATSTAFF_MORGANA@1",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Black Monk Stave (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Expert's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_COMBATSTAFF_MORGANA@2",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Black Monk Stave (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Expert's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_COMBATSTAFF_MORGANA@3",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Black Monk Stave (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Expert's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_COMBATSTAFF_MORGANA@4",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Black Monk Stave (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Expert's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_COMBATSTAFF_MORGANA",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Black Monk Stave",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Master's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_COMBATSTAFF_MORGANA@1",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Black Monk Stave (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Master's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_COMBATSTAFF_MORGANA@2",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Black Monk Stave (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Master's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_COMBATSTAFF_MORGANA@3",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Black Monk Stave (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Master's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_COMBATSTAFF_MORGANA@4",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Black Monk Stave (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Master's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_COMBATSTAFF_MORGANA",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Black Monk Stave",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Grandmaster's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_COMBATSTAFF_MORGANA@1",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Black Monk Stave (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Grandmaster's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_COMBATSTAFF_MORGANA@2",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Black Monk Stave (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Grandmaster's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_COMBATSTAFF_MORGANA@3",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Black Monk Stave (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Grandmaster's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_COMBATSTAFF_MORGANA@4",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Black Monk Stave (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Grandmaster's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_COMBATSTAFF_MORGANA",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Black Monk Stave",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Elder's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_COMBATSTAFF_MORGANA@1",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Black Monk Stave (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Elder's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_COMBATSTAFF_MORGANA@2",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Black Monk Stave (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Elder's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_COMBATSTAFF_MORGANA@3",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Black Monk Stave (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Elder's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_COMBATSTAFF_MORGANA@4",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_COMBATSTAFF_MORGANA",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Black Monk Stave (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "localizedNames": "Elder's Reinforced Morgana Pole",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_TWINSCYTHE_HELL",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_TWINSCYTHE_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Soulscythe",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Adept's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_TWINSCYTHE_HELL@1",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_TWINSCYTHE_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Soulscythe (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Adept's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_TWINSCYTHE_HELL@2",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_TWINSCYTHE_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Soulscythe (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Adept's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_TWINSCYTHE_HELL@3",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_TWINSCYTHE_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Soulscythe (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Adept's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_TWINSCYTHE_HELL@4",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_TWINSCYTHE_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Soulscythe (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Adept's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_TWINSCYTHE_HELL",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_TWINSCYTHE_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Soulscythe",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Expert's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_TWINSCYTHE_HELL@1",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_TWINSCYTHE_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Soulscythe (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Expert's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_TWINSCYTHE_HELL@2",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_TWINSCYTHE_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Soulscythe (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Expert's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_TWINSCYTHE_HELL@3",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_TWINSCYTHE_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Soulscythe (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Expert's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_TWINSCYTHE_HELL@4",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_TWINSCYTHE_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Soulscythe (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Expert's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_TWINSCYTHE_HELL",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_TWINSCYTHE_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Soulscythe",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Master's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_TWINSCYTHE_HELL@1",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_TWINSCYTHE_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Soulscythe (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Master's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_TWINSCYTHE_HELL@2",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_TWINSCYTHE_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Soulscythe (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Master's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_TWINSCYTHE_HELL@3",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_TWINSCYTHE_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Soulscythe (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Master's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_TWINSCYTHE_HELL@4",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_TWINSCYTHE_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Soulscythe (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Master's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_TWINSCYTHE_HELL",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_TWINSCYTHE_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Soulscythe",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Grandmaster's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_TWINSCYTHE_HELL@1",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_TWINSCYTHE_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Soulscythe (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Grandmaster's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_TWINSCYTHE_HELL@2",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_TWINSCYTHE_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Soulscythe (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Grandmaster's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_TWINSCYTHE_HELL@3",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_TWINSCYTHE_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Soulscythe (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Grandmaster's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_TWINSCYTHE_HELL@4",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_TWINSCYTHE_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Soulscythe (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Grandmaster's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_TWINSCYTHE_HELL",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_TWINSCYTHE_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Soulscythe",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Elder's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_TWINSCYTHE_HELL@1",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_TWINSCYTHE_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Soulscythe (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Elder's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_TWINSCYTHE_HELL@2",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_TWINSCYTHE_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Soulscythe (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Elder's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_TWINSCYTHE_HELL@3",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_TWINSCYTHE_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Soulscythe (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Elder's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_TWINSCYTHE_HELL@4",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_TWINSCYTHE_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Soulscythe (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "localizedNames": "Elder's Hellish Sicklehead Pair",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_ROCKSTAFF_KEEPER",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Staff of Balance",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Adept's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_ROCKSTAFF_KEEPER@1",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Staff of Balance (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Adept's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_ROCKSTAFF_KEEPER@2",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Staff of Balance (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Adept's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_ROCKSTAFF_KEEPER@3",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Staff of Balance (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Adept's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_ROCKSTAFF_KEEPER@4",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Staff of Balance (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Adept's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_ROCKSTAFF_KEEPER",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Staff of Balance",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Expert's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_ROCKSTAFF_KEEPER@1",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Staff of Balance (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Expert's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_ROCKSTAFF_KEEPER@2",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Staff of Balance (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Expert's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_ROCKSTAFF_KEEPER@3",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Staff of Balance (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Expert's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_ROCKSTAFF_KEEPER@4",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Staff of Balance (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Expert's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_ROCKSTAFF_KEEPER",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Staff of Balance",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Master's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_ROCKSTAFF_KEEPER@1",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Staff of Balance (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Master's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_ROCKSTAFF_KEEPER@2",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Staff of Balance (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Master's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_ROCKSTAFF_KEEPER@3",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Staff of Balance (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Master's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_ROCKSTAFF_KEEPER@4",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Staff of Balance (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Master's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_ROCKSTAFF_KEEPER",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Staff of Balance",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Grandmaster's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_ROCKSTAFF_KEEPER@1",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Staff of Balance (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Grandmaster's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_ROCKSTAFF_KEEPER@2",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Staff of Balance (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Grandmaster's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_ROCKSTAFF_KEEPER@3",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Staff of Balance (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Grandmaster's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_ROCKSTAFF_KEEPER@4",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Staff of Balance (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Grandmaster's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_ROCKSTAFF_KEEPER",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Staff of Balance",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Elder's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_ROCKSTAFF_KEEPER@1",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Staff of Balance (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Elder's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_ROCKSTAFF_KEEPER@2",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Staff of Balance (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Elder's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_ROCKSTAFF_KEEPER@3",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Staff of Balance (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Elder's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_ROCKSTAFF_KEEPER@4",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_ROCKSTAFF_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Staff of Balance (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_ROCKSTAFF_KEEPER",
+        "localizedNames": "Elder's Preserved Rocks",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_QUARTERSTAFF_AVALON",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Grailseeker",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Expert's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_QUARTERSTAFF_AVALON@1",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Grailseeker (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Expert's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_QUARTERSTAFF_AVALON@2",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Grailseeker (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Expert's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_QUARTERSTAFF_AVALON@3",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Grailseeker (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Expert's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_QUARTERSTAFF_AVALON@4",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Grailseeker (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Expert's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_QUARTERSTAFF_AVALON",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Grailseeker",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Master's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_QUARTERSTAFF_AVALON@1",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Grailseeker (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Master's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_QUARTERSTAFF_AVALON@2",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Grailseeker (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Master's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_QUARTERSTAFF_AVALON@3",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Grailseeker (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Master's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_QUARTERSTAFF_AVALON@4",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Grailseeker (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Master's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_QUARTERSTAFF_AVALON",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Grailseeker",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Grandmaster's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_QUARTERSTAFF_AVALON@1",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Grailseeker (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Grandmaster's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_QUARTERSTAFF_AVALON@2",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Grailseeker (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Grandmaster's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_QUARTERSTAFF_AVALON@3",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Grailseeker (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Grandmaster's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_QUARTERSTAFF_AVALON@4",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Grailseeker (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Grandmaster's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_QUARTERSTAFF_AVALON",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Grailseeker",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Elder's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_QUARTERSTAFF_AVALON@1",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Grailseeker (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Elder's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_QUARTERSTAFF_AVALON@2",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Grailseeker (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Elder's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_QUARTERSTAFF_AVALON@3",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Grailseeker (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Elder's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_QUARTERSTAFF_AVALON@4",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_QUARTERSTAFF_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Grailseeker (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_QUARTERSTAFF_AVALON",
+        "localizedNames": "Elder's Timeworn Walking Staff",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Phantom Twinblade",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR",
+        "localizedNames": "Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Adept's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL@1",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Phantom Twinblade (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Adept's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL@2",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Phantom Twinblade (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Adept's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL@3",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Phantom Twinblade (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Adept's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL@4",
+    "tier": 4,
+    "categoryId": "quarterstaff",
+    "base": "T4_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Phantom Twinblade (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Adept's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Phantom Twinblade",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR",
+        "localizedNames": "Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Expert's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL@1",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Phantom Twinblade (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Expert's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL@2",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Phantom Twinblade (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Expert's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL@3",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Phantom Twinblade (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Expert's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL@4",
+    "tier": 5,
+    "categoryId": "quarterstaff",
+    "base": "T5_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Phantom Twinblade (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Expert's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Phantom Twinblade",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR",
+        "localizedNames": "Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Master's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL@1",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Phantom Twinblade (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Master's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL@2",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Phantom Twinblade (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Master's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL@3",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Phantom Twinblade (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Master's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL@4",
+    "tier": 6,
+    "categoryId": "quarterstaff",
+    "base": "T6_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Phantom Twinblade (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Master's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Phantom Twinblade",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR",
+        "localizedNames": "Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Grandmaster's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL@1",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Phantom Twinblade (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Grandmaster's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL@2",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Phantom Twinblade (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Grandmaster's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL@3",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Phantom Twinblade (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Grandmaster's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL@4",
+    "tier": 7,
+    "categoryId": "quarterstaff",
+    "base": "T7_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Phantom Twinblade (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Grandmaster's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Phantom Twinblade",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR",
+        "localizedNames": "Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Elder's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL@1",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Phantom Twinblade (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Elder's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL@2",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Phantom Twinblade (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Elder's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL@3",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Phantom Twinblade (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Elder's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL@4",
+    "tier": 8,
+    "categoryId": "quarterstaff",
+    "base": "T8_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Phantom Twinblade (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL",
+        "localizedNames": "Elder's Mirage Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ]
+  }
+]

@@ -209,12 +209,12 @@ export default function SelectedItem({ recipes }) {
                 />
               </div>
 
-              <div className="flex flex-col">
+              {/* <div className="flex flex-col">
                 <label className="text-white text-sm">Weight</label>
                 <span className="text-white text-sm">
                   {Math.round(recipes.weight * recipes.quantity) || 0}kg
                 </span>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
