@@ -1,0 +1,182 @@
+[
+  {
+    "uniqueName": "T1_CARROT",
+    "tier": 1,
+    "localizedNames": "Carrots",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T2_BEAN",
+    "tier": 2,
+    "localizedNames": "Beans",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T3_WHEAT",
+    "tier": 3,
+    "localizedNames": "Sheaf of Wheat",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T4_TURNIP",
+    "tier": 4,
+    "localizedNames": "Turnips",
+    "weight": "0.6"
+  },
+  {
+    "uniqueName": "T4_CABBAGE",
+    "tier": 5,
+    "localizedNames": "Cabbage",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T6_POTATO",
+    "tier": 6,
+    "localizedNames": "Potatoes",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T7_CORN",
+    "tier": 7,
+    "localizedNames": "Bundle of Corn",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T8_PUMPKIN",
+    "tier": 8,
+    "localizedNames": "Pumpkin",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T1_FISHCHOPS",
+    "tier": 1,
+    "localizedNames": "Chopped Fish",
+    "weight": 0.1
+  },
+  {
+    "uniqueName": "T1_FISHSAUCE_LEVEL1",
+    "tier": 1,
+    "localizedNames": "Basic Fish Sauce",
+    "weight": 1
+  },
+  {
+    "uniqueName": "T1_FISHSAUCE_LEVEL2",
+    "tier": 1,
+    "localizedNames": "Fancy Fish Sauce",
+    "weight": 1.5
+  },
+  {
+    "uniqueName": "T1_FISHSAUCE_LEVEL3",
+    "tier": 1,
+    "localizedNames": "Special Fish Sauce",
+    "weight": 2
+  },
+  {
+    "uniqueName": "T3_MEAT",
+    "tier": 3,
+    "localizedNames": "Raw Chicken",
+    "weight": 0.7
+  },
+  {
+    "uniqueName": "T4_MEAT",
+    "tier": 4,
+    "localizedNames": "Raw Goat",
+    "weight": 0.7
+  },
+  {
+    "uniqueName": "T5_MEAT",
+    "tier": 5,
+    "localizedNames": "Raw Goose",
+    "weight": 0.7
+  },
+  {
+    "uniqueName": "T6_MEAT",
+    "tier": 6,
+    "localizedNames": "Raw Mutton",
+    "weight": 0.7
+  },
+  {
+    "uniqueName": "T7_MEAT",
+    "tier": 7,
+    "localizedNames": "Raw Pork",
+    "weight": 0.7
+  },
+  {
+    "uniqueName": "T8_MEAT",
+    "tier": 8,
+    "localizedNames": "Raw Beef",
+    "weight": 0.7
+  },
+  {
+    "uniqueName": "T2_AGARIC",
+    "tier": 2,
+    "localizedName": "Arcane Agaric",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T3_COMFREY",
+    "tier": 3,
+    "localizedName": "Brightleaf Comfrey",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T4_BURDOCK",
+    "tier": 4,
+    "localizedName": "Crenellated Burdock",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T5_TEASEL",
+    "tier": 5,
+    "localizedName": "Dragon Teasel",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T6_FOXGLOVE",
+    "tier": 6,
+    "localizedName": "Elusive Foxglove",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T7_MULLEIN",
+    "tier": 7,
+    "localizedName": "Firetouched Mullein",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T8_YARROW",
+    "tier": 8,
+    "localizedName": "Ghoul Yarrow",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T3_EGG",
+    "tier": 3,
+    "localizedName": "Hen Eggs",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T4_MILK",
+    "tier": 4,
+    "localizedName": "Goat's Milk",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T5_EGG",
+    "tier": 5,
+    "localizedName": "Goose Eggs",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T6_MILK",
+    "tier": 6,
+    "localizedName": "Sheep's Milk",
+    "weight": 0.6
+  },
+  {
+    "uniqueName": "T8_MILK",
+    "tier": 8,
+    "localizedName": "Cow's Milk",
+    "weight": 0.6
+  }
+]

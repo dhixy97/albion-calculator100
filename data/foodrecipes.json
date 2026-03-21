@@ -1,0 +1,185 @@
+[
+  {
+    "uniqueName": "T7_MEAL_OMELETTE",
+    "tier": 7,
+    "categoryId": "meal",
+    "base": "T7_MEAL_OMELETTE",
+    "enchantment": 0,
+    "itemValue": 504,
+    "localizedNames": "Pork Omelette",
+    "craftMaterial": [
+      { "uniqueName": "T7_CORN", "localizedNames": "Corn", "weight": 1, "count": 36 },
+      { "uniqueName": "T7_MEAT", "localizedNames": "Raw Pork", "weight": 1, "count": 72 },
+      { "uniqueName": "T5_EGG", "localizedNames": "Goose Eggs", "weight": 1, "count": 18 }
+    ]
+  },
+  {
+    "uniqueName": "T7_MEAL_OMELETTE@1",
+    "tier": 7,
+    "categoryId": "meal",
+    "base": "T7_MEAL_OMELETTE",
+    "enchantment": 1,
+    "itemValue": 504,
+    "localizedNames": "Pork Omelette",
+    "craftMaterial": [
+      { "uniqueName": "T7_CORN", "localizedNames": "Corn", "weight": 1, "count": 36 },
+      { "uniqueName": "T7_MEAT", "localizedNames": "Raw Pork", "weight": 1, "count": 72 },
+      { "uniqueName": "T5_EGG", "localizedNames": "Goose Eggs", "weight": 1, "count": 18 },
+      { "uniqueName": "T1_FISHSAUCE_LEVEL1", "localizedNames": "Basic Fish Sauce", "weight": 1, "count": 1 }
+    ]
+  },
+  {
+    "uniqueName": "T7_MEAL_OMELETTE@2",
+    "tier": 7,
+    "categoryId": "meal",
+    "base": "T7_MEAL_OMELETTE",
+    "enchantment": 2,
+    "itemValue": 504,
+    "localizedNames": "Pork Omelette",
+    "craftMaterial": [
+      { "uniqueName": "T7_CORN", "localizedNames": "Corn", "weight": 1, "count": 36 },
+      { "uniqueName": "T7_MEAT", "localizedNames": "Raw Pork", "weight": 1, "count": 72 },
+      { "uniqueName": "T5_EGG", "localizedNames": "Goose Eggs", "weight": 1, "count": 18 },
+      { "uniqueName": "T1_FISHSAUCE_LEVEL2", "localizedNames": "Fancy Fish Sauce", "weight": 1, "count": 1 }
+    ]
+  },
+  {
+    "uniqueName": "T7_MEAL_OMELETTE@3",
+    "tier": 7,
+    "categoryId": "meal",
+    "base": "T7_MEAL_OMELETTE",
+    "enchantment": 3,
+    "itemValue": 504,
+    "localizedNames": "Pork Omelette",
+    "craftMaterial": [
+      { "uniqueName": "T7_CORN", "localizedNames": "Corn", "weight": 1, "count": 36 },
+      { "uniqueName": "T7_MEAT", "localizedNames": "Raw Pork", "weight": 1, "count": 72 },
+      { "uniqueName": "T7_GOOSE_EGGS", "localizedNames": "Goose Eggs", "weight": 1, "count": 18 },
+      { "uniqueName": "T1_FISHSAUCE_LEVEL3", "localizedNames": "Special Fish Sauce", "weight": 1, "count": 1 }
+    ]
+  },
+
+  {
+    "uniqueName": "T8_MEAL_STEW",
+    "tier": 8,
+    "categoryId": "meal",
+    "base": "T8_MEAL_STEW",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Beef Stew",
+    "craftMaterial": [
+      { "uniqueName": "T8_PUMPKIN", "localizedNames": "Pumpkin", "weight": 1, "count": 36 },
+      { "uniqueName": "T4_BREAD", "localizedNames": "Bread", "weight": 1, "count": 36 },
+      { "uniqueName": "T8_MEAT", "localizedNames": "Raw Beef", "weight": 1, "count": 72 }
+    ]
+  },
+  {
+    "uniqueName": "T8_MEAL_STEW@1",
+    "tier": 8,
+    "categoryId": "meal",
+    "base": "T8_MEAL_STEW",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Beef Stew",
+    "craftMaterial": [
+      { "uniqueName": "T8_PUMPKIN", "localizedNames": "Pumpkin", "weight": 1, "count": 36 },
+      { "uniqueName": "T4_BREAD", "localizedNames": "Bread", "weight": 1, "count": 36 },
+      { "uniqueName": "T8_MEAT", "localizedNames": "Raw Beef", "weight": 1, "count": 72 },
+      { "uniqueName": "T1_FISHSAUCE_LEVEL1", "localizedNames": "Basic Fish Sauce", "weight": 1, "count": 1 }
+    ]
+  },
+  {
+    "uniqueName": "T8_MEAL_STEW@2",
+    "tier": 8,
+    "categoryId": "meal",
+    "base": "T8_MEAL_STEW",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Beef Stew",
+    "craftMaterial": [
+      { "uniqueName": "T8_PUMPKIN", "localizedNames": "Pumpkin", "weight": 1, "count": 36 },
+      { "uniqueName": "T4_BREAD", "localizedNames": "Bread", "weight": 1, "count": 36 },
+      { "uniqueName": "T8_MEAT", "localizedNames": "Raw Beef", "weight": 1, "count": 72 },
+      { "uniqueName": "T1_FISHSAUCE_LEVEL2", "localizedNames": "Fancy Fish Sauce", "weight": 1, "count": 1 }
+    ]
+  },
+  {
+    "uniqueName": "T8_MEAL_STEW@3",
+    "tier": 8,
+    "categoryId": "meal",
+    "base": "T8_MEAL_STEW",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Beef Stew",
+    "craftMaterial": [
+      { "uniqueName": "T8_PUMPKIN", "localizedNames": "Pumpkin", "weight": 1, "count": 36 },
+      { "uniqueName": "T8_BREAD", "localizedNames": "Bread", "weight": 1, "count": 36 },
+      { "uniqueName": "T8_MEAT", "localizedNames": "Raw Beef", "weight": 1, "count": 72 },
+      { "uniqueName": "T1_FISHSAUCE_LEVEL3", "localizedNames": "Special Fish Sauce", "weight": 1, "count": 1 }
+    ]
+  },
+
+  {
+    "uniqueName": "T8_MEAL_STEW_FISH",
+    "tier": 8,
+    "categoryId": "meal",
+    "base": "T8_MEAL_STEW_FISH",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Deadwater Eel Stew",
+    "craftMaterial": [
+      { "uniqueName": "T7_FISH_FRESHWATER_FOREST_RARE", "localizedNames": "Deadwater Eel", "weight": 1, "count": 1 },
+      { "uniqueName": "T8_PUMPKIN", "localizedNames": "Pumpkin", "weight": 1, "count": 6 },
+      { "uniqueName": "T8_YARROW", "localizedNames": "Ghoul Yarrow", "weight": 1, "count": 6 },
+      { "uniqueName": "T8_MILK", "localizedNames": "Cow's Milk", "weight": 1, "count": 6 }
+    ]
+  },
+  {
+    "uniqueName": "T8_MEAL_STEW_FISH@1",
+    "tier": 8,
+    "categoryId": "meal",
+    "base": "T8_MEAL_STEW_FISH",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Deadwater Eel Stew",
+    "craftMaterial": [
+      { "uniqueName": "T7_FISH_FRESHWATER_FOREST_RARE", "localizedNames": "Deadwater Eel", "weight": 1, "count": 1 },
+      { "uniqueName": "T8_PUMPKIN", "localizedNames": "Pumpkin", "weight": 1, "count": 6 },
+      { "uniqueName": "T8_YARROW", "localizedNames": "Ghoul Yarrow", "weight": 1, "count": 6 },
+      { "uniqueName": "T8_MILK", "localizedNames": "Cow's Milk", "weight": 1, "count": 6 },
+      { "uniqueName": "T1_FISHSAUCE_LEVEL1", "localizedNames": "Basic Fish Sauce", "weight": 1, "count": 1 }
+    ]
+  },
+  {
+    "uniqueName": "T8_MEAL_STEW_FISH@2",
+    "tier": 8,
+    "categoryId": "meal",
+    "base": "T8_MEAL_STEW_FISH",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Deadwater Eel Stew",
+    "craftMaterial": [
+      { "uniqueName": "T7_FISH_FRESHWATER_FOREST_RARE", "localizedNames": "Deadwater Eel", "weight": 1, "count": 1 },
+      { "uniqueName": "T8_PUMPKIN", "localizedNames": "Pumpkin", "weight": 1, "count": 6 },
+      { "uniqueName": "T8_YARROW", "localizedNames": "Ghoul Yarrow", "weight": 1, "count": 6 },
+      { "uniqueName": "T8_MILK", "localizedNames": "Cow's Milk", "weight": 1, "count": 6 },
+      { "uniqueName": "T1_FISHSAUCE_LEVEL2", "localizedNames": "Fancy Fish Sauce", "weight": 1, "count": 1 }
+    ]
+  },
+  {
+    "uniqueName": "T8_MEAL_STEW_FISH@3",
+    "tier": 8,
+    "categoryId": "meal",
+    "base": "T8_MEAL_STEW_FISH",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Deadwater Eel Stew",
+    "craftMaterial": [
+      { "uniqueName": "T7_FISH_FRESHWATER_FOREST_RARE", "localizedNames": "Deadwater Eel", "weight": 1, "count": 1 },
+      { "uniqueName": "T8_PUMPKIN", "localizedNames": "Pumpkin", "weight": 1, "count": 6 },
+      { "uniqueName": "T8_YARROW", "localizedNames": "Ghoul Yarrow", "weight": 1, "count": 6 },
+      { "uniqueName": "T8_MILK", "localizedNames": "Cow's Milk", "weight": 1, "count": 6 },
+      { "uniqueName": "T1_FISHSAUCE_LEVEL3", "localizedNames": "Special Fish Sauce", "weight": 1, "count": 1 }
+    ]
+  }
+]

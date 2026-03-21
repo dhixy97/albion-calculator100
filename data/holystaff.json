@@ -1,0 +1,5552 @@
+[
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF",
+    "enchantment": 0,
+    "itemValue": 384,
+    "localizedNames": "Adept's Holy Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF@1",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF",
+    "enchantment": 1,
+    "itemValue": 768,
+    "localizedNames": "Adept's Holy Staff (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF@2",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF",
+    "enchantment": 2,
+    "itemValue": 1536,
+    "localizedNames": "Adept's Holy Staff (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF@3",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF",
+    "enchantment": 3,
+    "itemValue": 3072,
+    "localizedNames": "Adept's Holy Staff (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF@4",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF",
+    "enchantment": 4,
+    "itemValue": 6144,
+    "localizedNames": "Adept's Holy Staff (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF",
+    "enchantment": 0,
+    "itemValue": 768,
+    "localizedNames": "Expert's Holy Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF@1",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF",
+    "enchantment": 1,
+    "itemValue": 1536,
+    "localizedNames": "Expert's Holy Staff (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF@2",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF",
+    "enchantment": 2,
+    "itemValue": 3072,
+    "localizedNames": "Expert's Holy Staff (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF@3",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF",
+    "enchantment": 3,
+    "itemValue": 6144,
+    "localizedNames": "Expert's Holy Staff (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF@4",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF",
+    "enchantment": 4,
+    "itemValue": 12288,
+    "localizedNames": "Expert's Holy Staff (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF",
+    "enchantment": 0,
+    "itemValue": 1536,
+    "localizedNames": "Master's Holy Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF@1",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF",
+    "enchantment": 1,
+    "itemValue": 3072,
+    "localizedNames": "Master's Holy Staff (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF@2",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF",
+    "enchantment": 2,
+    "itemValue": 6144,
+    "localizedNames": "Master's Holy Staff (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF@3",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF",
+    "enchantment": 3,
+    "itemValue": 12288,
+    "localizedNames": "Master's Holy Staff (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF@4",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF",
+    "enchantment": 4,
+    "itemValue": 24576,
+    "localizedNames": "Master's Holy Staff (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF",
+    "enchantment": 0,
+    "itemValue": 3072,
+    "localizedNames": "Grandmaster's Holy Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF@1",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF",
+    "enchantment": 1,
+    "itemValue": 6144,
+    "localizedNames": "Grandmaster's Holy Staff (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF@2",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF",
+    "enchantment": 2,
+    "itemValue": 12288,
+    "localizedNames": "Grandmaster's Holy Staff (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF@3",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF",
+    "enchantment": 3,
+    "itemValue": 24576,
+    "localizedNames": "Grandmaster's Holy Staff (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF@4",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF",
+    "enchantment": 4,
+    "itemValue": 49152,
+    "localizedNames": "Grandmaster's Holy Staff (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF",
+    "enchantment": 0,
+    "itemValue": 6144,
+    "localizedNames": "Elder's Holy Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF@1",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF",
+    "enchantment": 1,
+    "itemValue": 12288,
+    "localizedNames": "Elder's Holy Staff (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF@2",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF",
+    "enchantment": 2,
+    "itemValue": 24576,
+    "localizedNames": "Elder's Holy Staff (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF@3",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF",
+    "enchantment": 3,
+    "itemValue": 49152,
+    "localizedNames": "Elder's Holy Staff (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF@4",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF",
+    "enchantment": 4,
+    "itemValue": 98304,
+    "localizedNames": "Elder's Holy Staff (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF",
+    "enchantment": 0,
+    "itemValue": 512,
+    "localizedNames": "Adept's Great Holy Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF@1",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF",
+    "enchantment": 1,
+    "itemValue": 1024,
+    "localizedNames": "Adept's Great Holy Staff (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF@2",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF",
+    "enchantment": 2,
+    "itemValue": 2048,
+    "localizedNames": "Adept's Great Holy Staff (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF@3",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF",
+    "enchantment": 3,
+    "itemValue": 4096,
+    "localizedNames": "Adept's Great Holy Staff (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF@4",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF",
+    "enchantment": 4,
+    "itemValue": 8192,
+    "localizedNames": "Adept's Great Holy Staff (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF",
+    "enchantment": 0,
+    "itemValue": 1024,
+    "localizedNames": "Expert's Great Holy Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF@1",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF",
+    "enchantment": 1,
+    "itemValue": 2048,
+    "localizedNames": "Expert's Great Holy Staff (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF@2",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF",
+    "enchantment": 2,
+    "itemValue": 4096,
+    "localizedNames": "Expert's Great Holy Staff (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF@3",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF",
+    "enchantment": 3,
+    "itemValue": 8192,
+    "localizedNames": "Expert's Great Holy Staff (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF@4",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF",
+    "enchantment": 4,
+    "itemValue": 16384,
+    "localizedNames": "Expert's Great Holy Staff (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF",
+    "enchantment": 0,
+    "itemValue": 2048,
+    "localizedNames": "Master's Great Holy Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF@1",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF",
+    "enchantment": 1,
+    "itemValue": 4096,
+    "localizedNames": "Master's Great Holy Staff (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF@2",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF",
+    "enchantment": 2,
+    "itemValue": 8192,
+    "localizedNames": "Master's Great Holy Staff (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF@3",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF",
+    "enchantment": 3,
+    "itemValue": 16384,
+    "localizedNames": "Master's Great Holy Staff (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF@4",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF",
+    "enchantment": 4,
+    "itemValue": 32768,
+    "localizedNames": "Master's Great Holy Staff (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF",
+    "enchantment": 0,
+    "itemValue": 4096,
+    "localizedNames": "Grandmaster's Great Holy Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF@1",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF",
+    "enchantment": 1,
+    "itemValue": 8192,
+    "localizedNames": "Grandmaster's Great Holy Staff (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF@2",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF",
+    "enchantment": 2,
+    "itemValue": 16384,
+    "localizedNames": "Grandmaster's Great Holy Staff (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF@3",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF",
+    "enchantment": 3,
+    "itemValue": 32768,
+    "localizedNames": "Grandmaster's Great Holy Staff (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF@4",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF",
+    "enchantment": 4,
+    "itemValue": 65536,
+    "localizedNames": "Grandmaster's Great Holy Staff (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF",
+    "enchantment": 0,
+    "itemValue": 8192,
+    "localizedNames": "Elder's Great Holy Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF@1",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF",
+    "enchantment": 1,
+    "itemValue": 16384,
+    "localizedNames": "Elder's Great Holy Staff (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF@2",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF",
+    "enchantment": 2,
+    "itemValue": 32768,
+    "localizedNames": "Elder's Great Holy Staff (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF@3",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF",
+    "enchantment": 3,
+    "itemValue": 65536,
+    "localizedNames": "Elder's Great Holy Staff (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF@4",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF",
+    "enchantment": 4,
+    "itemValue": 131072,
+    "localizedNames": "Elder's Great Holy Staff (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T4_2H_DIVINESTAFF",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_DIVINESTAFF",
+    "enchantment": 0,
+    "itemValue": 512,
+    "localizedNames": "Adept's Divine Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_DIVINESTAFF@1",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_DIVINESTAFF",
+    "enchantment": 1,
+    "itemValue": 1024,
+    "localizedNames": "Adept's Divine Staff (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_DIVINESTAFF@2",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_DIVINESTAFF",
+    "enchantment": 2,
+    "itemValue": 2048,
+    "localizedNames": "Adept's Divine Staff (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_DIVINESTAFF@3",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_DIVINESTAFF",
+    "enchantment": 3,
+    "itemValue": 4096,
+    "localizedNames": "Adept's Divine Staff (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_DIVINESTAFF@4",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_DIVINESTAFF",
+    "enchantment": 4,
+    "itemValue": 8192,
+    "localizedNames": "Adept's Divine Staff (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T5_2H_DIVINESTAFF",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_DIVINESTAFF",
+    "enchantment": 0,
+    "itemValue": 1024,
+    "localizedNames": "Expert's Divine Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_DIVINESTAFF@1",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_DIVINESTAFF",
+    "enchantment": 1,
+    "itemValue": 2048,
+    "localizedNames": "Expert's Divine Staff (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_DIVINESTAFF@2",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_DIVINESTAFF",
+    "enchantment": 2,
+    "itemValue": 4096,
+    "localizedNames": "Expert's Divine Staff (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_DIVINESTAFF@3",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_DIVINESTAFF",
+    "enchantment": 3,
+    "itemValue": 8192,
+    "localizedNames": "Expert's Divine Staff (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_DIVINESTAFF@4",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_DIVINESTAFF",
+    "enchantment": 4,
+    "itemValue": 16384,
+    "localizedNames": "Expert's Divine Staff (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T6_2H_DIVINESTAFF",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_DIVINESTAFF",
+    "enchantment": 0,
+    "itemValue": 2048,
+    "localizedNames": "Master's Divine Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_DIVINESTAFF@1",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_DIVINESTAFF",
+    "enchantment": 1,
+    "itemValue": 4096,
+    "localizedNames": "Master's Divine Staff (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_DIVINESTAFF@2",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_DIVINESTAFF",
+    "enchantment": 2,
+    "itemValue": 8192,
+    "localizedNames": "Master's Divine Staff (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_DIVINESTAFF@3",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_DIVINESTAFF",
+    "enchantment": 3,
+    "itemValue": 16384,
+    "localizedNames": "Master's Divine Staff (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_DIVINESTAFF@4",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_DIVINESTAFF",
+    "enchantment": 4,
+    "itemValue": 32768,
+    "localizedNames": "Master's Divine Staff (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T7_2H_DIVINESTAFF",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_DIVINESTAFF",
+    "enchantment": 0,
+    "itemValue": 4096,
+    "localizedNames": "Grandmaster's Divine Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_DIVINESTAFF@1",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_DIVINESTAFF",
+    "enchantment": 1,
+    "itemValue": 8192,
+    "localizedNames": "Grandmaster's Divine Staff (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_DIVINESTAFF@2",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_DIVINESTAFF",
+    "enchantment": 2,
+    "itemValue": 16384,
+    "localizedNames": "Grandmaster's Divine Staff (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_DIVINESTAFF@3",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_DIVINESTAFF",
+    "enchantment": 3,
+    "itemValue": 32768,
+    "localizedNames": "Grandmaster's Divine Staff (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_DIVINESTAFF@4",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_DIVINESTAFF",
+    "enchantment": 4,
+    "itemValue": 65536,
+    "localizedNames": "Grandmaster's Divine Staff (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T8_2H_DIVINESTAFF",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_DIVINESTAFF",
+    "enchantment": 0,
+    "itemValue": 8192,
+    "localizedNames": "Elder's Divine Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_DIVINESTAFF@1",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_DIVINESTAFF",
+    "enchantment": 1,
+    "itemValue": 16384,
+    "localizedNames": "Elder's Divine Staff (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_DIVINESTAFF@2",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_DIVINESTAFF",
+    "enchantment": 2,
+    "itemValue": 32768,
+    "localizedNames": "Elder's Divine Staff (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_DIVINESTAFF@3",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_DIVINESTAFF",
+    "enchantment": 3,
+    "itemValue": 65536,
+    "localizedNames": "Elder's Divine Staff (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_DIVINESTAFF@4",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_DIVINESTAFF",
+    "enchantment": 4,
+    "itemValue": 131072,
+    "localizedNames": "Elder's Divine Staff (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF_MORGANA",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 0,
+    "itemValue": 480,
+    "localizedNames": "Adept's Lifetouch Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Adept's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF_MORGANA@1",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 1,
+    "itemValue": 960,
+    "localizedNames": "Adept's Lifetouch Staff (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Adept's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF_MORGANA@2",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 2,
+    "itemValue": 1920,
+    "localizedNames": "Adept's Lifetouch Staff (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Adept's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF_MORGANA@3",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 3,
+    "itemValue": 3840,
+    "localizedNames": "Adept's Lifetouch Staff (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Adept's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF_MORGANA@4",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 4,
+    "itemValue": 7680,
+    "localizedNames": "Adept's Lifetouch Staff (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Adept's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF_MORGANA",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 0,
+    "itemValue": 960,
+    "localizedNames": "Expert's Lifetouch Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Expert's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF_MORGANA@1",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 1,
+    "itemValue": 1920,
+    "localizedNames": "Expert's Lifetouch Staff (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Expert's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF_MORGANA@2",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 2,
+    "itemValue": 3840,
+    "localizedNames": "Expert's Lifetouch Staff (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Expert's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF_MORGANA@3",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 3,
+    "itemValue": 7680,
+    "localizedNames": "Expert's Lifetouch Staff (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Expert's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF_MORGANA@4",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 4,
+    "itemValue": 15360,
+    "localizedNames": "Expert's Lifetouch Staff (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Expert's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF_MORGANA",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 0,
+    "itemValue": 1920,
+    "localizedNames": "Master's Lifetouch Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Master's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF_MORGANA@1",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 1,
+    "itemValue": 3840,
+    "localizedNames": "Master's Lifetouch Staff (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Master's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF_MORGANA@2",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 2,
+    "itemValue": 7680,
+    "localizedNames": "Master's Lifetouch Staff (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Master's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF_MORGANA@3",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 3,
+    "itemValue": 15360,
+    "localizedNames": "Master's Lifetouch Staff (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Master's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF_MORGANA@4",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 4,
+    "itemValue": 30720,
+    "localizedNames": "Master's Lifetouch Staff (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Master's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF_MORGANA",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 0,
+    "itemValue": 3840,
+    "localizedNames": "Grandmaster's Lifetouch Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Grandmaster's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF_MORGANA@1",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 1,
+    "itemValue": 7680,
+    "localizedNames": "Grandmaster's Lifetouch Staff (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Grandmaster's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF_MORGANA@2",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 2,
+    "itemValue": 15360,
+    "localizedNames": "Grandmaster's Lifetouch Staff (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Grandmaster's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF_MORGANA@3",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 3,
+    "itemValue": 30720,
+    "localizedNames": "Grandmaster's Lifetouch Staff (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Grandmaster's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF_MORGANA@4",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 4,
+    "itemValue": 61440,
+    "localizedNames": "Grandmaster's Lifetouch Staff (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Grandmaster's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF_MORGANA",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 0,
+    "itemValue": 7680,
+    "localizedNames": "Elder's Lifetouch Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Elder's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF_MORGANA@1",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 1,
+    "itemValue": 15360,
+    "localizedNames": "Elder's Lifetouch Staff (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Elder's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF_MORGANA@2",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 2,
+    "itemValue": 30720,
+    "localizedNames": "Elder's Lifetouch Staff (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Elder's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF_MORGANA@3",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 3,
+    "itemValue": 61440,
+    "localizedNames": "Elder's Lifetouch Staff (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Elder's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF_MORGANA@4",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF_MORGANA",
+    "enchantment": 4,
+    "itemValue": 122880,
+    "localizedNames": "Elder's Lifetouch Staff (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "localizedNames": "Elder's Possessed Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_HELL",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_HELL",
+    "enchantment": 0,
+    "itemValue": 896,
+    "localizedNames": "Adept's Fallen Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Adept's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_HELL@1",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_HELL",
+    "enchantment": 1,
+    "itemValue": 1792,
+    "localizedNames": "Adept's Fallen Staff (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Adept's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_HELL@2",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_HELL",
+    "enchantment": 2,
+    "itemValue": 3584,
+    "localizedNames": "Adept's Fallen Staff (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Adept's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_HELL@3",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_HELL",
+    "enchantment": 3,
+    "itemValue": 7168,
+    "localizedNames": "Adept's Fallen Staff (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Adept's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_HELL@4",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_HELL",
+    "enchantment": 4,
+    "itemValue": 14336,
+    "localizedNames": "Adept's Fallen Staff (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Adept's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_HELL",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_HELL",
+    "enchantment": 0,
+    "itemValue": 1792,
+    "localizedNames": "Expert's Fallen Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Expert's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_HELL@1",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_HELL",
+    "enchantment": 1,
+    "itemValue": 3584,
+    "localizedNames": "Expert's Fallen Staff (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Expert's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_HELL@2",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_HELL",
+    "enchantment": 2,
+    "itemValue": 7168,
+    "localizedNames": "Expert's Fallen Staff (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Expert's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_HELL@3",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_HELL",
+    "enchantment": 3,
+    "itemValue": 14336,
+    "localizedNames": "Expert's Fallen Staff (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Expert's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_HELL@4",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_HELL",
+    "enchantment": 4,
+    "itemValue": 28672,
+    "localizedNames": "Expert's Fallen Staff (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Expert's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_HELL",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_HELL",
+    "enchantment": 0,
+    "itemValue": 3584,
+    "localizedNames": "Master's Fallen Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Master's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_HELL@1",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_HELL",
+    "enchantment": 1,
+    "itemValue": 7168,
+    "localizedNames": "Master's Fallen Staff (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Master's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_HELL@2",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_HELL",
+    "enchantment": 2,
+    "itemValue": 14336,
+    "localizedNames": "Master's Fallen Staff (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Master's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_HELL@3",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_HELL",
+    "enchantment": 3,
+    "itemValue": 28672,
+    "localizedNames": "Master's Fallen Staff (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Master's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_HELL@4",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_HELL",
+    "enchantment": 4,
+    "itemValue": 57344,
+    "localizedNames": "Master's Fallen Staff (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Master's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_HELL",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_HELL",
+    "enchantment": 0,
+    "itemValue": 7168,
+    "localizedNames": "Grandmaster's Fallen Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Grandmaster's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_HELL@1",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_HELL",
+    "enchantment": 1,
+    "itemValue": 14336,
+    "localizedNames": "Grandmaster's Fallen Staff (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Grandmaster's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_HELL@2",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_HELL",
+    "enchantment": 2,
+    "itemValue": 28672,
+    "localizedNames": "Grandmaster's Fallen Staff (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Grandmaster's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_HELL@3",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_HELL",
+    "enchantment": 3,
+    "itemValue": 57344,
+    "localizedNames": "Grandmaster's Fallen Staff (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Grandmaster's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_HELL@4",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_HELL",
+    "enchantment": 4,
+    "itemValue": 114688,
+    "localizedNames": "Grandmaster's Fallen Staff (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Grandmaster's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_HELL",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_HELL",
+    "enchantment": 0,
+    "itemValue": 14336,
+    "localizedNames": "Elder's Fallen Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Elder's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_HELL@1",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_HELL",
+    "enchantment": 1,
+    "itemValue": 28672,
+    "localizedNames": "Elder's Fallen Staff (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Elder's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_HELL@2",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_HELL",
+    "enchantment": 2,
+    "itemValue": 57344,
+    "localizedNames": "Elder's Fallen Staff (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Elder's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_HELL@3",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_HELL",
+    "enchantment": 3,
+    "itemValue": 114688,
+    "localizedNames": "Elder's Fallen Staff (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Elder's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_HELL@4",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_HELL",
+    "enchantment": 4,
+    "itemValue": 229376,
+    "localizedNames": "Elder's Fallen Staff (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "localizedNames": "Elder's Infernal Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_UNDEAD",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 1408,
+    "localizedNames": "Adept's Redemption Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Adept's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_UNDEAD@1",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 2816,
+    "localizedNames": "Adept's Redemption Staff (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Adept's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_UNDEAD@2",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 5632,
+    "localizedNames": "Adept's Redemption Staff (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Adept's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_UNDEAD@3",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 11264,
+    "localizedNames": "Adept's Redemption Staff (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Adept's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_UNDEAD@4",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 22528,
+    "localizedNames": "Adept's Redemption Staff (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Adept's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_UNDEAD",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 2816,
+    "localizedNames": "Expert's Redemption Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Expert's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_UNDEAD@1",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 5632,
+    "localizedNames": "Expert's Redemption Staff (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Expert's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_UNDEAD@2",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 11264,
+    "localizedNames": "Expert's Redemption Staff (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Expert's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_UNDEAD@3",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 22528,
+    "localizedNames": "Expert's Redemption Staff (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Expert's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_UNDEAD@4",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 45056,
+    "localizedNames": "Expert's Redemption Staff (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Expert's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_UNDEAD",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 5632,
+    "localizedNames": "Master's Redemption Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Master's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_UNDEAD@1",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 11264,
+    "localizedNames": "Master's Redemption Staff (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Master's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_UNDEAD@2",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 22528,
+    "localizedNames": "Master's Redemption Staff (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Master's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_UNDEAD@3",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 45056,
+    "localizedNames": "Master's Redemption Staff (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Master's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_UNDEAD@4",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 90112,
+    "localizedNames": "Master's Redemption Staff (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Master's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_UNDEAD",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 11264,
+    "localizedNames": "Grandmaster's Redemption Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_UNDEAD@1",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 22528,
+    "localizedNames": "Grandmaster's Redemption Staff (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_UNDEAD@2",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 45056,
+    "localizedNames": "Grandmaster's Redemption Staff (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_UNDEAD@3",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 90112,
+    "localizedNames": "Grandmaster's Redemption Staff (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_UNDEAD@4",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 180224,
+    "localizedNames": "Grandmaster's Redemption Staff (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Grandmaster's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_UNDEAD",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 22528,
+    "localizedNames": "Elder's Redemption Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Elder's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_UNDEAD@1",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 45056,
+    "localizedNames": "Elder's Redemption Staff (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Elder's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_UNDEAD@2",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 90112,
+    "localizedNames": "Elder's Redemption Staff (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Elder's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_UNDEAD@3",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 180224,
+    "localizedNames": "Elder's Redemption Staff (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Elder's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_UNDEAD@4",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 360448,
+    "localizedNames": "Elder's Redemption Staff (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "localizedNames": "Elder's Ghastly Scroll",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF_AVALON",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 0,
+    "itemValue": 1824,
+    "localizedNames": "Adept's Hallowfall",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Adept's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF_AVALON@1",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 1,
+    "itemValue": 3648,
+    "localizedNames": "Adept's Hallowfall (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Adept's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF_AVALON@2",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 2,
+    "itemValue": 7296,
+    "localizedNames": "Adept's Hallowfall (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Adept's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF_AVALON@3",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 3,
+    "itemValue": 14592,
+    "localizedNames": "Adept's Hallowfall (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Adept's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_MAIN_HOLYSTAFF_AVALON@4",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 4,
+    "itemValue": 29184,
+    "localizedNames": "Adept's Hallowfall (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 16
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 8
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Adept's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF_AVALON",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 0,
+    "itemValue": 3648,
+    "localizedNames": "Expert's Hallowfall",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Expert's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF_AVALON@1",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 1,
+    "itemValue": 7296,
+    "localizedNames": "Expert's Hallowfall (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Expert's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF_AVALON@2",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 2,
+    "itemValue": 14592,
+    "localizedNames": "Expert's Hallowfall (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Expert's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF_AVALON@3",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 3,
+    "itemValue": 29184,
+    "localizedNames": "Expert's Hallowfall (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Expert's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_MAIN_HOLYSTAFF_AVALON@4",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 4,
+    "itemValue": 58368,
+    "localizedNames": "Expert's Hallowfall (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 16
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 8
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Expert's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF_AVALON",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 0,
+    "itemValue": 7296,
+    "localizedNames": "Master's Hallowfall",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Master's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF_AVALON@1",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 1,
+    "itemValue": 14592,
+    "localizedNames": "Master's Hallowfall (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Master's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF_AVALON@2",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 2,
+    "itemValue": 29184,
+    "localizedNames": "Master's Hallowfall (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Master's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF_AVALON@3",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 3,
+    "itemValue": 58368,
+    "localizedNames": "Master's Hallowfall (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Master's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_MAIN_HOLYSTAFF_AVALON@4",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 4,
+    "itemValue": 116736,
+    "localizedNames": "Master's Hallowfall (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 16
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 8
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Master's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF_AVALON",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 0,
+    "itemValue": 14592,
+    "localizedNames": "Grandmaster's Hallowfall",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Grandmaster's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF_AVALON@1",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 1,
+    "itemValue": 29184,
+    "localizedNames": "Grandmaster's Hallowfall (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Grandmaster's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF_AVALON@2",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 2,
+    "itemValue": 58368,
+    "localizedNames": "Grandmaster's Hallowfall (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Grandmaster's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF_AVALON@3",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 3,
+    "itemValue": 116736,
+    "localizedNames": "Grandmaster's Hallowfall (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Grandmaster's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_MAIN_HOLYSTAFF_AVALON@4",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 4,
+    "itemValue": 233472,
+    "localizedNames": "Grandmaster's Hallowfall (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 16
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 8
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Grandmaster's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF_AVALON",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 0,
+    "itemValue": 29184,
+    "localizedNames": "Elder's Hallowfall",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Elder's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF_AVALON@1",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 1,
+    "itemValue": 58368,
+    "localizedNames": "Elder's Hallowfall (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Elder's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF_AVALON@2",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 2,
+    "itemValue": 116736,
+    "localizedNames": "Elder's Hallowfall (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Elder's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF_AVALON@3",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 3,
+    "itemValue": 233472,
+    "localizedNames": "Elder's Hallowfall (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Elder's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_MAIN_HOLYSTAFF_AVALON@4",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_MAIN_HOLYSTAFF_AVALON",
+    "enchantment": 4,
+    "itemValue": 466944,
+    "localizedNames": "Elder's Hallowfall (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 16
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 8
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_MAIN_HOLYSTAFF_AVALON",
+        "localizedNames": "Elder's Messianic Curio",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_CRYSTAL",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 2432,
+    "localizedNames": "Adept's Exalted Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Adept's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_CRYSTAL@1",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 4864,
+    "localizedNames": "Adept's Exalted Staff (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Adept's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_CRYSTAL@2",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 9728,
+    "localizedNames": "Adept's Exalted Staff (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL2",
+        "localizedNames": "Rare Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Adept's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_CRYSTAL@3",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 19456,
+    "localizedNames": "Adept's Exalted Staff (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Adept's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T4_2H_HOLYSTAFF_CRYSTAL@4",
+    "tier": 4,
+    "categoryId": "holystaff",
+    "base": "T4_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 38912,
+    "localizedNames": "Adept's Exalted Staff (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Pine Planks",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Adept's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 3.4
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_CRYSTAL",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 4864,
+    "localizedNames": "Expert's Exalted Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Expert's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_CRYSTAL@1",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 9728,
+    "localizedNames": "Expert's Exalted Staff (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Expert's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_CRYSTAL@2",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 19456,
+    "localizedNames": "Expert's Exalted Staff (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL2",
+        "localizedNames": "Rare Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Expert's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_CRYSTAL@3",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 38912,
+    "localizedNames": "Expert's Exalted Staff (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Expert's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T5_2H_HOLYSTAFF_CRYSTAL@4",
+    "tier": 5,
+    "categoryId": "holystaff",
+    "base": "T5_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 77824,
+    "localizedNames": "Expert's Exalted Staff (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Cedar Planks",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Expert's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_CRYSTAL",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 9728,
+    "localizedNames": "Master's Exalted Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Master's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_CRYSTAL@1",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 19456,
+    "localizedNames": "Master's Exalted Staff (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Master's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_CRYSTAL@2",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 38912,
+    "localizedNames": "Master's Exalted Staff (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL2",
+        "localizedNames": "Rare Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Master's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_CRYSTAL@3",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 77824,
+    "localizedNames": "Master's Exalted Staff (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Master's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T6_2H_HOLYSTAFF_CRYSTAL@4",
+    "tier": 6,
+    "categoryId": "holystaff",
+    "base": "T6_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 155648,
+    "localizedNames": "Master's Exalted Staff (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Bloodoak Planks",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Master's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 7.6
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_CRYSTAL",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 19456,
+    "localizedNames": "Grandmaster's Exalted Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Grandmaster's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_CRYSTAL@1",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 38912,
+    "localizedNames": "Grandmaster's Exalted Staff (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Grandmaster's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_CRYSTAL@2",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 77824,
+    "localizedNames": "Grandmaster's Exalted Staff (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL2",
+        "localizedNames": "Rare Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Grandmaster's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_CRYSTAL@3",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 155648,
+    "localizedNames": "Grandmaster's Exalted Staff (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Grandmaster's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T7_2H_HOLYSTAFF_CRYSTAL@4",
+    "tier": 7,
+    "categoryId": "holystaff",
+    "base": "T7_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 311296,
+    "localizedNames": "Grandmaster's Exalted Staff (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Ashenbark Planks",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Grandmaster's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 11.4
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_CRYSTAL",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 38912,
+    "localizedNames": "Elder's Exalted Staff",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Elder's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_CRYSTAL@1",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 77824,
+    "localizedNames": "Elder's Exalted Staff (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL1",
+        "localizedNames": "Uncommon Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Elder's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_CRYSTAL@2",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 155648,
+    "localizedNames": "Elder's Exalted Staff (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL2",
+        "localizedNames": "Rare Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Elder's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_CRYSTAL@3",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 311296,
+    "localizedNames": "Elder's Exalted Staff (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL3",
+        "localizedNames": "Exceptional Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Elder's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  },
+  {
+    "uniqueName": "T8_2H_HOLYSTAFF_CRYSTAL@4",
+    "tier": 8,
+    "categoryId": "holystaff",
+    "base": "T8_2H_HOLYSTAFF_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 622592,
+    "localizedNames": "Elder's Exalted Staff (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_PLANKS_LEVEL4",
+        "localizedNames": "Pristine Whitewood Planks",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HOLYSTAFF_CRYSTAL",
+        "localizedNames": "Elder's Exalted Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 17.1
+  }
+]
