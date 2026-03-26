@@ -1,0 +1,5402 @@
+[
+  {
+    "uniqueName": "T4_MAIN_HAMMER",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_MAIN_HAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_HAMMER@1",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_MAIN_HAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Hammer (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_HAMMER@2",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_MAIN_HAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Hammer (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_HAMMER@3",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_MAIN_HAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Hammer (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_MAIN_HAMMER@4",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_MAIN_HAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Hammer (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_HAMMER",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_MAIN_HAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_HAMMER@1",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_MAIN_HAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Hammer (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_HAMMER@2",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_MAIN_HAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Hammer (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_HAMMER@3",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_MAIN_HAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Hammer (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_MAIN_HAMMER@4",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_MAIN_HAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Hammer (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_HAMMER",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_MAIN_HAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_HAMMER@1",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_MAIN_HAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Hammer (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_HAMMER@2",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_MAIN_HAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Hammer (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_HAMMER@3",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_MAIN_HAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Hammer (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_MAIN_HAMMER@4",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_MAIN_HAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Hammer (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_HAMMER",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_MAIN_HAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_HAMMER@1",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_MAIN_HAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Hammer (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_HAMMER@2",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_MAIN_HAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Hammer (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_HAMMER@3",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_MAIN_HAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Hammer (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_MAIN_HAMMER@4",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_MAIN_HAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Hammer (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_HAMMER",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_MAIN_HAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_HAMMER@1",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_MAIN_HAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Hammer (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_HAMMER@2",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_MAIN_HAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Hammer (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_HAMMER@3",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_MAIN_HAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Hammer (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_MAIN_HAMMER@4",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_MAIN_HAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Hammer (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 24
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_POLEHAMMER",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_POLEHAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Polehammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_POLEHAMMER@1",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_POLEHAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Polehammer (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_POLEHAMMER@2",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_POLEHAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Polehammer (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_POLEHAMMER@3",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_POLEHAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Polehammer (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_POLEHAMMER@4",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_POLEHAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Polehammer (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_POLEHAMMER",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_POLEHAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Polehammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_POLEHAMMER@1",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_POLEHAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Polehammer (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_POLEHAMMER@2",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_POLEHAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Polehammer (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_POLEHAMMER@3",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_POLEHAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Polehammer (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_POLEHAMMER@4",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_POLEHAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Polehammer (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_POLEHAMMER",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_POLEHAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Polehammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_POLEHAMMER@1",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_POLEHAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Polehammer (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_POLEHAMMER@2",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_POLEHAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Polehammer (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_POLEHAMMER@3",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_POLEHAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Polehammer (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_POLEHAMMER@4",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_POLEHAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Polehammer (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_POLEHAMMER",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_POLEHAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Polehammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_POLEHAMMER@1",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_POLEHAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Polehammer (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_POLEHAMMER@2",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_POLEHAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Polehammer (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_POLEHAMMER@3",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_POLEHAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Polehammer (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_POLEHAMMER@4",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_POLEHAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Polehammer (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_POLEHAMMER",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_POLEHAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Polehammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_POLEHAMMER@1",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_POLEHAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Polehammer (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_POLEHAMMER@2",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_POLEHAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Polehammer (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_POLEHAMMER@3",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_POLEHAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Polehammer (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_POLEHAMMER@4",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_POLEHAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Polehammer (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Great Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER@1",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Great Hammer (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER@2",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Great Hammer (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER@3",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Great Hammer (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER@4",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Great Hammer (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Great Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER@1",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Great Hammer (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER@2",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Great Hammer (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER@3",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Great Hammer (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER@4",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Great Hammer (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Great Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER@1",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Great Hammer (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER@2",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Great Hammer (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER@3",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Great Hammer (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER@4",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Great Hammer (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Great Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER@1",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Great Hammer (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER@2",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Great Hammer (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER@3",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Great Hammer (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER@4",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Great Hammer (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Great Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER@1",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Great Hammer (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER@2",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Great Hammer (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER@3",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Great Hammer (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER@4",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Great Hammer (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_UNDEAD",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Tombhammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Adept's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_UNDEAD@1",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Tombhammer (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Adept's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_UNDEAD@2",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Tombhammer (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Adept's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_UNDEAD@3",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Tombhammer (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Adept's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_UNDEAD@4",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Tombhammer (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Adept's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_UNDEAD",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Tombhammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Expert's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_UNDEAD@1",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Tombhammer (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Expert's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_UNDEAD@2",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Tombhammer (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Expert's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_UNDEAD@3",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Tombhammer (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Expert's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_UNDEAD@4",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Tombhammer (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Expert's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_UNDEAD",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Tombhammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Master's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_UNDEAD@1",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Tombhammer (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Master's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_UNDEAD@2",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Tombhammer (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Master's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_UNDEAD@3",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Tombhammer (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Master's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_UNDEAD@4",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Tombhammer (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Master's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_UNDEAD",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Tombhammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Grandmaster's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_UNDEAD@1",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Tombhammer (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Grandmaster's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_UNDEAD@2",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Tombhammer (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Grandmaster's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_UNDEAD@3",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Tombhammer (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Grandmaster's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_UNDEAD@4",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Tombhammer (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Grandmaster's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_UNDEAD",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_UNDEAD",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Tombhammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Elder's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_UNDEAD@1",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_UNDEAD",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Tombhammer (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Elder's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_UNDEAD@2",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_UNDEAD",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Tombhammer (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Elder's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_UNDEAD@3",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_UNDEAD",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Tombhammer (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Elder's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_UNDEAD@4",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_UNDEAD",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Tombhammer (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_UNDEAD",
+        "localizedNames": "Elder's Ancient Hammer Head",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DUALHAMMER_HELL",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_DUALHAMMER_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Forge Hammers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Adept's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DUALHAMMER_HELL@1",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_DUALHAMMER_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Forge Hammers (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Adept's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DUALHAMMER_HELL@2",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_DUALHAMMER_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Forge Hammers (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Adept's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DUALHAMMER_HELL@3",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_DUALHAMMER_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Forge Hammers (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Adept's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_DUALHAMMER_HELL@4",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_DUALHAMMER_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Forge Hammers (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Adept's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DUALHAMMER_HELL",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_DUALHAMMER_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Forge Hammers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Expert's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DUALHAMMER_HELL@1",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_DUALHAMMER_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Forge Hammers (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Expert's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DUALHAMMER_HELL@2",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_DUALHAMMER_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Forge Hammers (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Expert's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DUALHAMMER_HELL@3",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_DUALHAMMER_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Forge Hammers (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Expert's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_DUALHAMMER_HELL@4",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_DUALHAMMER_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Forge Hammers (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Expert's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DUALHAMMER_HELL",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_DUALHAMMER_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Forge Hammers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Master's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DUALHAMMER_HELL@1",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_DUALHAMMER_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Forge Hammers (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Master's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DUALHAMMER_HELL@2",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_DUALHAMMER_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Forge Hammers (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Master's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DUALHAMMER_HELL@3",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_DUALHAMMER_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Forge Hammers (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Master's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_DUALHAMMER_HELL@4",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_DUALHAMMER_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Forge Hammers (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Master's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DUALHAMMER_HELL",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_DUALHAMMER_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Forge Hammers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Grandmaster's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DUALHAMMER_HELL@1",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_DUALHAMMER_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Forge Hammers (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Grandmaster's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DUALHAMMER_HELL@2",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_DUALHAMMER_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Forge Hammers (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Grandmaster's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DUALHAMMER_HELL@3",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_DUALHAMMER_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Forge Hammers (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Grandmaster's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_DUALHAMMER_HELL@4",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_DUALHAMMER_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Forge Hammers (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Grandmaster's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DUALHAMMER_HELL",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_DUALHAMMER_HELL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Forge Hammers",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Elder's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DUALHAMMER_HELL@1",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_DUALHAMMER_HELL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Forge Hammers (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Elder's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DUALHAMMER_HELL@2",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_DUALHAMMER_HELL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Forge Hammers (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Elder's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DUALHAMMER_HELL@3",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_DUALHAMMER_HELL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Forge Hammers (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Elder's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_DUALHAMMER_HELL@4",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_DUALHAMMER_HELL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Forge Hammers (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_DUALHAMMER_HELL",
+        "localizedNames": "Elder's Hellish Hammer Heads",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_RAM_KEEPER",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_RAM_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Grovekeeper",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Adept's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_RAM_KEEPER@1",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_RAM_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Grovekeeper (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Adept's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_RAM_KEEPER@2",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_RAM_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Grovekeeper (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Adept's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_RAM_KEEPER@3",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_RAM_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Grovekeeper (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Adept's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_RAM_KEEPER@4",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_RAM_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Grovekeeper (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Adept's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_RAM_KEEPER",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_RAM_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Grovekeeper",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Expert's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_RAM_KEEPER@1",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_RAM_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Grovekeeper (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Expert's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_RAM_KEEPER@2",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_RAM_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Grovekeeper (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Expert's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_RAM_KEEPER@3",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_RAM_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Grovekeeper (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Expert's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_RAM_KEEPER@4",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_RAM_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Grovekeeper (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Expert's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_RAM_KEEPER",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_RAM_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Grovekeeper",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Master's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_RAM_KEEPER@1",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_RAM_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Grovekeeper (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Master's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_RAM_KEEPER@2",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_RAM_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Grovekeeper (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Master's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_RAM_KEEPER@3",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_RAM_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Grovekeeper (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Master's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_RAM_KEEPER@4",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_RAM_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Grovekeeper (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Master's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_RAM_KEEPER",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_RAM_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Grovekeeper",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Grandmaster's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_RAM_KEEPER@1",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_RAM_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Grovekeeper (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Grandmaster's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_RAM_KEEPER@2",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_RAM_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Grovekeeper (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Grandmaster's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_RAM_KEEPER@3",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_RAM_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Grovekeeper (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Grandmaster's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_RAM_KEEPER@4",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_RAM_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Grovekeeper (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Grandmaster's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_RAM_KEEPER",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_RAM_KEEPER",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Grovekeeper",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Elder's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_RAM_KEEPER@1",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_RAM_KEEPER",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Grovekeeper (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Elder's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_RAM_KEEPER@2",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_RAM_KEEPER",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Grovekeeper (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Elder's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_RAM_KEEPER@3",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_RAM_KEEPER",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Grovekeeper (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Elder's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_RAM_KEEPER@4",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_RAM_KEEPER",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Grovekeeper (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_RAM_KEEPER",
+        "localizedNames": "Elder's Engraved Log",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_AVALON",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Hand of Justice",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Adept's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_AVALON@1",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Hand of Justice (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Adept's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_AVALON@2",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Hand of Justice (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Adept's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_AVALON@3",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Hand of Justice (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Adept's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_AVALON@4",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Hand of Justice (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Adept's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_AVALON",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Hand of Justice",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Expert's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_AVALON@1",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Hand of Justice (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Expert's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_AVALON@2",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Hand of Justice (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Expert's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_AVALON@3",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Hand of Justice (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Expert's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_AVALON@4",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Hand of Justice (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Expert's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_AVALON",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Hand of Justice",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Master's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_AVALON@1",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Hand of Justice (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Master's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_AVALON@2",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Hand of Justice (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Master's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_AVALON@3",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Hand of Justice (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Master's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_AVALON@4",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Hand of Justice (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Master's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_AVALON",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Hand of Justice",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Grandmaster's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_AVALON@1",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Hand of Justice (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Grandmaster's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_AVALON@2",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Hand of Justice (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Grandmaster's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_AVALON@3",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Hand of Justice (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Grandmaster's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_AVALON@4",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Hand of Justice (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Grandmaster's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_AVALON",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_AVALON",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Hand of Justice",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Elder's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_AVALON@1",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_AVALON",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Hand of Justice (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Elder's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_AVALON@2",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_AVALON",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Hand of Justice (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Elder's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_AVALON@3",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_AVALON",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Hand of Justice (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Elder's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_AVALON@4",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_AVALON",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Hand of Justice (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_AVALON",
+        "localizedNames": "Elder's Massive Metallic Hand",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_CRYSTAL",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Adept's Truebolt Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Adept's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_CRYSTAL@1",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Adept's Truebolt Hammer (T4.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Adept's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_CRYSTAL@2",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Adept's Truebolt Hammer (T4.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL2",
+        "localizedNames": "Rare Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Adept's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_CRYSTAL@3",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Adept's Truebolt Hammer (T4.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Adept's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T4_2H_HAMMER_CRYSTAL@4",
+    "tier": 4,
+    "categoryId": "hammer",
+    "base": "T4_2H_HAMMER_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Adept's Truebolt Hammer (T4.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Steel Bar",
+        "weight": 0.5,
+        "count": 20
+      },
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "weight": 0.5,
+        "count": 12
+      },
+      {
+        "uniqueName": "T4_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Adept's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_CRYSTAL",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Expert's Truebolt Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Expert's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_CRYSTAL@1",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Expert's Truebolt Hammer (T5.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Expert's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_CRYSTAL@2",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Expert's Truebolt Hammer (T5.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL2",
+        "localizedNames": "Rare Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Expert's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_CRYSTAL@3",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Expert's Truebolt Hammer (T5.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Expert's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T5_2H_HAMMER_CRYSTAL@4",
+    "tier": 5,
+    "categoryId": "hammer",
+    "base": "T5_2H_HAMMER_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Expert's Truebolt Hammer (T5.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Titanium Steel Bar",
+        "weight": 0.8,
+        "count": 20
+      },
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "weight": 0.8,
+        "count": 12
+      },
+      {
+        "uniqueName": "T5_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Expert's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_CRYSTAL",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Master's Truebolt Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Master's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_CRYSTAL@1",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Master's Truebolt Hammer (T6.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Master's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_CRYSTAL@2",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Master's Truebolt Hammer (T6.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL2",
+        "localizedNames": "Rare Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Master's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_CRYSTAL@3",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Master's Truebolt Hammer (T6.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Master's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T6_2H_HAMMER_CRYSTAL@4",
+    "tier": 6,
+    "categoryId": "hammer",
+    "base": "T6_2H_HAMMER_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Master's Truebolt Hammer (T6.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Runite Steel Bar",
+        "weight": 1.1,
+        "count": 20
+      },
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "weight": 1.1,
+        "count": 12
+      },
+      {
+        "uniqueName": "T6_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Master's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_CRYSTAL",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Truebolt Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Grandmaster's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_CRYSTAL@1",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Truebolt Hammer (T7.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Grandmaster's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_CRYSTAL@2",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Truebolt Hammer (T7.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL2",
+        "localizedNames": "Rare Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Grandmaster's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_CRYSTAL@3",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Truebolt Hammer (T7.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Grandmaster's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T7_2H_HAMMER_CRYSTAL@4",
+    "tier": 7,
+    "categoryId": "hammer",
+    "base": "T7_2H_HAMMER_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Grandmaster's Truebolt Hammer (T7.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Meteorite Steel Bar",
+        "weight": 1.7,
+        "count": 20
+      },
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "weight": 1.7,
+        "count": 12
+      },
+      {
+        "uniqueName": "T7_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Grandmaster's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_CRYSTAL",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_CRYSTAL",
+    "enchantment": 0,
+    "itemValue": 0,
+    "localizedNames": "Elder's Truebolt Hammer",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Elder's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_CRYSTAL@1",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_CRYSTAL",
+    "enchantment": 1,
+    "itemValue": 0,
+    "localizedNames": "Elder's Truebolt Hammer (T8.1)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL1",
+        "localizedNames": "Uncommon Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Elder's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_CRYSTAL@2",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_CRYSTAL",
+    "enchantment": 2,
+    "itemValue": 0,
+    "localizedNames": "Elder's Truebolt Hammer (T8.2)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL2",
+        "localizedNames": "Rare Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Elder's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_CRYSTAL@3",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_CRYSTAL",
+    "enchantment": 3,
+    "itemValue": 0,
+    "localizedNames": "Elder's Truebolt Hammer (T8.3)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL3",
+        "localizedNames": "Exceptional Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Elder's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  },
+  {
+    "uniqueName": "T8_2H_HAMMER_CRYSTAL@4",
+    "tier": 8,
+    "categoryId": "hammer",
+    "base": "T8_2H_HAMMER_CRYSTAL",
+    "enchantment": 4,
+    "itemValue": 0,
+    "localizedNames": "Elder's Truebolt Hammer (T8.4)",
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_METALBAR_LEVEL4",
+        "localizedNames": "Pristine Adamantium Steel Bar",
+        "weight": 2.6,
+        "count": 20
+      },
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "weight": 2.6,
+        "count": 12
+      },
+      {
+        "uniqueName": "T8_ARTEFACT_2H_HAMMER_CRYSTAL",
+        "localizedNames": "Elder's Crackling Crystal",
+        "weight": 2,
+        "count": 1
+      }
+    ],
+    "weight": 0
+  }
+]

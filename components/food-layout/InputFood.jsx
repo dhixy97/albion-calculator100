@@ -1,34 +1,40 @@
 "use client";
-
-import { useState, useEffect, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 import ImageIcon from "../icon/ImageIcon";
-import refined from "@/data/refined.json";
-import offhand from "@/data/offhand.json";
-import clothItems from "@/data/clothItems.json";
-import leatherItems from "@/data/leatherItems.json";
-import plateItems from "@/data/plateItems.json";
-import bow from "@/data/bow.json";
-import dagger from "@/data/dagger.json";
-import quarterstaff from "@/data/quarterstaff.json"
-import holystaff from "@/data/holystaff.json"
-import hammer from "@/data/hammer.json"
-import { useRecipes } from "@/context/RecipeContext";
+import foodrecipes from "@/data/foodrecipes.json";
+import { UseFoodrecipes } from "@/context/FoodContext";
 
-export default function InputItem({ localReturnRate, handleReturnRateChange }) {
+export default function InputFood() {
   const [isOpen, setIsOpen] = useState(false);
   const [query, setQuery] = useState("");
   const [visibleCount, setVisibleCount] = useState(10);
 
   const {
+    selectFood,
+    setSelectFood,
     premium,
     setPremium,
     sellTax,
     setSellTax,
     buyTax,
     setBuyTax,
-    selectedItem,
-    setSelectedItem,
-  } = useRecipes();
+    addFoodRecipes,
+    returnRate,
+    clearAll
+  } = UseFoodrecipes();
+
+  const handleAddRecipesFood = () => {
+    if(!selectFood) return;
+    const datarecipes = {
+        ...selectFood,
+        returnRate,
+        quantity: 1,
+    }
+
+    console.log(datarecipes)
+    addFoodRecipes(datarecipes)
+    setSelectFood(null)
+  }
 
   const dropdownRef = useRef(null);
 
@@ -43,39 +49,36 @@ export default function InputItem({ localReturnRate, handleReturnRateChange }) {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  const allItems = [...refined, ...offhand, ...clothItems, ...leatherItems, ...plateItems, ...bow, ...dagger, ...quarterstaff, ...holystaff, ...hammer];
-
-  const filterItems = allItems.filter((item) =>
-    item.localizedNames?.toLowerCase().includes(query.toLowerCase())
+  const allitems = [...foodrecipes];
+  const foodFilter = allitems.filter((item) =>
+    item.localizedNames?.toLowerCase().includes(query.toLowerCase()),
   );
 
-  const visibleItems = filterItems.slice(0, visibleCount);
+  const visibleItems = foodFilter.slice(0, visibleCount);
 
   return (
-    <div className="bg-neutral-900 border border-neutral-800 rounded-xl p-6 relative">
+    <div className="bg-neutral-900 rounded-xl p-6 relative">
       <div className="flex gap-5 items-center">
-        {/* Recipe */}
+        {/* Recipes */}
         <div className="flex flex-col gap-2 relative w-80">
           <label className="text-sm text-neutral-300">Recipe</label>
-
           <div className="flex items-center gap-3">
-            {selectedItem ? (
+            {selectFood ? (
               <img
-                src={`https://render.albiononline.com/v1/item/${selectedItem.uniqueName}.png`}
-                alt={selectedItem.uniqueName}
+                src={`https://render.albiononline.com/v1/item/${selectFood.uniqueName}.png`}
+                alt={selectFood.uniqueName}
                 className="w-15 h-15"
               />
             ) : (
               <ImageIcon />
             )}
-
             <input
-              value={selectedItem ? selectedItem.localizedNames : query}
+              value={selectFood ? selectFood.localizedNames : query}
               onChange={(e) => {
                 const value = e.target.value;
 
                 setQuery(value);
-                setSelectedItem(null);
+                setSelectFood(null);
                 setVisibleCount(10); // reset pagination
 
                 if (value.trim().length > 0) {
@@ -85,12 +88,11 @@ export default function InputItem({ localReturnRate, handleReturnRateChange }) {
                 }
               }}
               type="text"
-              placeholder="Select recipes......"
               className="bg-slate-700 text-gray-200 px-3 h-10 rounded-md text-sm outline-none w-full"
+              placeholder="Select Food Recipe....."
             />
           </div>
-
-          {/* Dropdown */}
+          {/* List item */}
           {isOpen && query.trim().length > 0 && (
             <div
               ref={dropdownRef}
@@ -101,7 +103,7 @@ export default function InputItem({ localReturnRate, handleReturnRateChange }) {
                   key={items.uniqueName}
                   onClick={() => {
                     setIsOpen(false);
-                    setSelectedItem(items);
+                    setSelectFood(items);
                     setQuery("");
                   }}
                   className="px-4 py-2 hover:bg-slate-700 cursor-pointer flex items-center gap-3"
@@ -116,7 +118,7 @@ export default function InputItem({ localReturnRate, handleReturnRateChange }) {
               ))}
 
               {/* tombol more */}
-              {visibleCount < filterItems.length && (
+              {visibleCount < foodFilter.length && (
                 <div
                   onClick={() => setVisibleCount((prev) => prev + 10)}
                   className="px-4 py-2 text-blue-400 hover:bg-slate-700 cursor-pointer text-center"
@@ -125,7 +127,7 @@ export default function InputItem({ localReturnRate, handleReturnRateChange }) {
                 </div>
               )}
 
-              {filterItems.length === 0 && (
+              {foodFilter.length === 0 && (
                 <div className="px-4 py-2 text-sm text-gray-400">
                   Item tidak ditemukan
                 </div>
@@ -133,22 +135,25 @@ export default function InputItem({ localReturnRate, handleReturnRateChange }) {
             </div>
           )}
         </div>
-
-        {/* Return Rate */}
-        <div className="flex flex-col gap-2">
-          <label className="text-sm text-neutral-300">Return Rate</label>
-
-          <input
-            type="number"
-            value={localReturnRate}
-            onChange={handleReturnRateChange}
-            className="bg-slate-700 text-gray-200 px-3 h-10 rounded-md text-sm outline-none"
-          />
-        </div>
-
         <Toggle label="Premium" enabled={premium} setEnabled={setPremium} />
         <Toggle label="Sell order" enabled={sellTax} setEnabled={setSellTax} />
         <Toggle label="Buy order" enabled={buyTax} setEnabled={setBuyTax} />
+      </div>
+      <div className="mt-2 border-t">
+        <div className="mt-2 flex gap-5">
+          <button
+            className="bg-blue-600 px-4 py-2 rounded-md hover:bg-blue-700 transition cursor-pointer"
+            onClick={handleAddRecipesFood}
+          >
+            Add Recipes
+          </button>
+          <button
+            className="bg-red-600 px-4 py-2 rounded-md hover:bg-red-900 transition cursor-pointer"
+            onClick={() => clearAll()}
+          >
+            Clear All
+          </button>
+        </div>
       </div>
     </div>
   );
