@@ -1,7 +1,7 @@
 export function countNeedMaterials(recipe) {
   const { quantity = 1, returnRate = 0, craftMaterial = [] } = recipe || {};
 
-  const noReturnKeywords = ["ARTEFACT", "CAPE", "FACTION", "TOKEN", "CAPEITEM"];
+  const noReturnKeywords = ["ARTEFACT", "CAPE", "FACTION", "TOKEN", "CAPEITEM", "SKILLBOOK"];
 
   return craftMaterial.map((m) => {
     // 🔥 cek apakah material tidak kena return rate
