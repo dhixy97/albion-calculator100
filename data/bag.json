@@ -1,0 +1,1202 @@
+[
+  {
+    "uniqueName": "T4_BAG",
+    "tier": 4,
+    "enchantment": 0,
+    "localizedNames": "Adept's Bag",
+    "itemValue": 128,
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_CLOTH",
+        "localizedNames": "Fine Cloth",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_LEATHER",
+        "localizedNames": "Worked Leather",
+        "count": 8,
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_BAG@1",
+    "tier": 4,
+    "enchantment": 1,
+    "localizedNames": "Adept's Bag (T4.1)",
+    "itemValue": 256,
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "count": 8,
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_BAG@2",
+    "tier": 4,
+    "enchantment": 2,
+    "localizedNames": "Adept's Bag (T4.2)",
+    "itemValue": 512,
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_CLOTH_LEVEL2",
+        "localizedNames": "Rare Fine Cloth",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL2",
+        "localizedNames": "Rare Worked Leather",
+        "count": 8,
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_BAG@3",
+    "tier": 4,
+    "enchantment": 3,
+    "localizedNames": "Adept's Bag (T4.3)",
+    "itemValue": 1024,
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Fine Cloth",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Worked Leather",
+        "count": 8,
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_BAG@4",
+    "tier": 4,
+    "enchantment": 4,
+    "localizedNames": "Adept's Bag (T4.4)",
+    "itemValue": 2048,
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Fine Cloth",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Worked Leather",
+        "count": 8,
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_BAG",
+    "tier": 5,
+    "enchantment": 0,
+    "localizedNames": "Expert's Bag",
+    "itemValue": 256,
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_CLOTH",
+        "localizedNames": "Ornate Cloth",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T5_LEATHER",
+        "localizedNames": "Cured Leather",
+        "count": 8,
+        "weight": 0.8
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_BAG@1",
+    "tier": 5,
+    "enchantment": 1,
+    "localizedNames": "Expert's Bag (T5.1)",
+    "itemValue": 512,
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "count": 8,
+        "weight": 0.8
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_BAG@2",
+    "tier": 5,
+    "enchantment": 2,
+    "localizedNames": "Expert's Bag (T5.2)",
+    "itemValue": 1024,
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_CLOTH_LEVEL2",
+        "localizedNames": "Rare Ornate Cloth",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL2",
+        "localizedNames": "Rare Cured Leather",
+        "count": 8,
+        "weight": 0.8
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_BAG@3",
+    "tier": 5,
+    "enchantment": 3,
+    "localizedNames": "Expert's Bag (T5.3)",
+    "itemValue": 2048,
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Ornate Cloth",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Cured Leather",
+        "count": 8,
+        "weight": 0.8
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_BAG@4",
+    "tier": 5,
+    "enchantment": 4,
+    "localizedNames": "Expert's Bag (T5.4)",
+    "itemValue": 4096,
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Ornate Cloth",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Cured Leather",
+        "count": 8,
+        "weight": 0.8
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_BAG",
+    "tier": 6,
+    "enchantment": 0,
+    "localizedNames": "Master's Bag",
+    "itemValue": 512,
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_CLOTH",
+        "localizedNames": "Lavish Cloth",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T6_LEATHER",
+        "localizedNames": "Hardened Leather",
+        "count": 8,
+        "weight": 1.1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_BAG@1",
+    "tier": 6,
+    "enchantment": 1,
+    "localizedNames": "Master's Bag (T6.1)",
+    "itemValue": 1024,
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "count": 8,
+        "weight": 1.1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_BAG@2",
+    "tier": 6,
+    "enchantment": 2,
+    "localizedNames": "Master's Bag (T6.2)",
+    "itemValue": 2048,
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_CLOTH_LEVEL2",
+        "localizedNames": "Rare Lavish Cloth",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL2",
+        "localizedNames": "Rare Hardened Leather",
+        "count": 8,
+        "weight": 1.1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_BAG@3",
+    "tier": 6,
+    "enchantment": 3,
+    "localizedNames": "Master's Bag (T6.3)",
+    "itemValue": 4096,
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Lavish Cloth",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Hardened Leather",
+        "count": 8,
+        "weight": 1.1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_BAG@4",
+    "tier": 6,
+    "enchantment": 4,
+    "localizedNames": "Master's Bag (T6.4)",
+    "itemValue": 8192,
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Lavish Cloth",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Hardened Leather",
+        "count": 8,
+        "weight": 1.1
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_BAG",
+    "tier": 7,
+    "enchantment": 0,
+    "localizedNames": "Grandmaster's Bag",
+    "itemValue": 1024,
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_CLOTH",
+        "localizedNames": "Opulent Cloth",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T7_LEATHER",
+        "localizedNames": "Reinforced Leather",
+        "count": 8,
+        "weight": 1.7
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_BAG@1",
+    "tier": 7,
+    "enchantment": 1,
+    "localizedNames": "Grandmaster's Bag (T7.1)",
+    "itemValue": 2048,
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "count": 8,
+        "weight": 1.7
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_BAG@2",
+    "tier": 7,
+    "enchantment": 2,
+    "localizedNames": "Grandmaster's Bag (T7.2)",
+    "itemValue": 4096,
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_CLOTH_LEVEL2",
+        "localizedNames": "Rare Opulent Cloth",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL2",
+        "localizedNames": "Rare Reinforced Leather",
+        "count": 8,
+        "weight": 1.7
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_BAG@3",
+    "tier": 7,
+    "enchantment": 3,
+    "localizedNames": "Grandmaster's Bag (T7.3)",
+    "itemValue": 8192,
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Opulent Cloth",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Reinforced Leather",
+        "count": 8,
+        "weight": 1.7
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_BAG@4",
+    "tier": 7,
+    "enchantment": 4,
+    "localizedNames": "Grandmaster's Bag (T7.4)",
+    "itemValue": 16384,
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Opulent Cloth",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Reinforced Leather",
+        "count": 8,
+        "weight": 1.7
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_BAG",
+    "tier": 8,
+    "enchantment": 0,
+    "localizedNames": "Elder's Bag",
+    "itemValue": 2048,
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_CLOTH",
+        "localizedNames": "Baroque Cloth",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T8_LEATHER",
+        "localizedNames": "Fortified Leather",
+        "count": 8,
+        "weight": 2.6
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_BAG@1",
+    "tier": 8,
+    "enchantment": 1,
+    "localizedNames": "Elder's Bag (T8.1)",
+    "itemValue": 4096,
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "count": 8,
+        "weight": 2.6
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_BAG@2",
+    "tier": 8,
+    "enchantment": 2,
+    "localizedNames": "Elder's Bag (T8.2)",
+    "itemValue": 8192,
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_CLOTH_LEVEL2",
+        "localizedNames": "Rare Baroque Cloth",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL2",
+        "localizedNames": "Rare Fortified Leather",
+        "count": 8,
+        "weight": 2.6
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_BAG@3",
+    "tier": 8,
+    "enchantment": 3,
+    "localizedNames": "Elder's Bag (T8.3)",
+    "itemValue": 16384,
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_CLOTH_LEVEL3",
+        "localizedNames": "Exceptional Baroque Cloth",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL3",
+        "localizedNames": "Exceptional Fortified Leather",
+        "count": 8,
+        "weight": 2.6
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_BAG@4",
+    "tier": 8,
+    "enchantment": 4,
+    "localizedNames": "Elder's Bag (T8.4)",
+    "itemValue": 32768,
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_CLOTH_LEVEL4",
+        "localizedNames": "Pristine Baroque Cloth",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL4",
+        "localizedNames": "Pristine Fortified Leather",
+        "count": 8,
+        "weight": 2.6
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_BAG_INSIGHT",
+    "tier": 4,
+    "enchantment": 0,
+    "localizedNames": "Adept's Satchel of Insight",
+    "itemValue": 128,
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_BAG_INSIGHT@1",
+    "tier": 4,
+    "enchantment": 1,
+    "localizedNames": "Adept's Satchel of Insight (T4.1)",
+    "itemValue": 256,
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_BAG_INSIGHT@2",
+    "tier": 4,
+    "enchantment": 2,
+    "localizedNames": "Adept's Satchel of Insight (T4.2)",
+    "itemValue": 512,
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_BAG_INSIGHT@3",
+    "tier": 4,
+    "enchantment": 3,
+    "localizedNames": "Adept's Satchel of Insight (T4.3)",
+    "itemValue": 1024,
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T4_BAG_INSIGHT@4",
+    "tier": 4,
+    "enchantment": 4,
+    "localizedNames": "Adept's Satchel of Insight (T4.4)",
+    "itemValue": 2048,
+    "craftMaterial": [
+      {
+        "uniqueName": "T4_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Fine Cloth",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Worked Leather",
+        "count": 8,
+        "weight": 0.5
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_BAG_INSIGHT",
+    "tier": 5,
+    "enchantment": 0,
+    "localizedNames": "Expert's Satchel of Insight",
+    "itemValue": 256,
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_BAG_INSIGHT@1",
+    "tier": 5,
+    "enchantment": 1,
+    "localizedNames": "Expert's Satchel of Insight (T5.1)",
+    "itemValue": 512,
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_BAG_INSIGHT@2",
+    "tier": 5,
+    "enchantment": 2,
+    "localizedNames": "Expert's Satchel of Insight (T5.2)",
+    "itemValue": 1024,
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_BAG_INSIGHT@3",
+    "tier": 5,
+    "enchantment": 3,
+    "localizedNames": "Expert's Satchel of Insight (T5.3)",
+    "itemValue": 2048,
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T5_BAG_INSIGHT@4",
+    "tier": 5,
+    "enchantment": 4,
+    "localizedNames": "Expert's Satchel of Insight (T5.4)",
+    "itemValue": 4096,
+    "craftMaterial": [
+      {
+        "uniqueName": "T5_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Ornate Cloth",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T5_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Cured Leather",
+        "count": 8,
+        "weight": 0.8
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_BAG_INSIGHT",
+    "tier": 6,
+    "enchantment": 0,
+    "localizedNames": "Master's Satchel of Insight",
+    "itemValue": 512,
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_BAG_INSIGHT@1",
+    "tier": 6,
+    "enchantment": 1,
+    "localizedNames": "Master's Satchel of Insight (T6.1)",
+    "itemValue": 1024,
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_BAG_INSIGHT@2",
+    "tier": 6,
+    "enchantment": 2,
+    "localizedNames": "Master's Satchel of Insight (T6.2)",
+    "itemValue": 2048,
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_BAG_INSIGHT@3",
+    "tier": 6,
+    "enchantment": 3,
+    "localizedNames": "Master's Satchel of Insight (T6.3)",
+    "itemValue": 4096,
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T6_BAG_INSIGHT@4",
+    "tier": 6,
+    "enchantment": 4,
+    "localizedNames": "Master's Satchel of Insight (T6.4)",
+    "itemValue": 8192,
+    "craftMaterial": [
+      {
+        "uniqueName": "T6_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Lavish Cloth",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T6_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Hardened Leather",
+        "count": 8,
+        "weight": 1.1
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_BAG_INSIGHT",
+    "tier": 7,
+    "enchantment": 0,
+    "localizedNames": "Grandmaster's Satchel of Insight",
+    "itemValue": 1024,
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_BAG_INSIGHT@1",
+    "tier": 7,
+    "enchantment": 1,
+    "localizedNames": "Grandmaster's Satchel of Insight (T7.1)",
+    "itemValue": 2048,
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_BAG_INSIGHT@2",
+    "tier": 7,
+    "enchantment": 2,
+    "localizedNames": "Grandmaster's Satchel of Insight (T7.2)",
+    "itemValue": 4096,
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_BAG_INSIGHT@3",
+    "tier": 7,
+    "enchantment": 3,
+    "localizedNames": "Grandmaster's Satchel of Insight (T7.3)",
+    "itemValue": 8192,
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T7_BAG_INSIGHT@4",
+    "tier": 7,
+    "enchantment": 4,
+    "localizedNames": "Grandmaster's Satchel of Insight (T7.4)",
+    "itemValue": 16384,
+    "craftMaterial": [
+      {
+        "uniqueName": "T7_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Opulent Cloth",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T7_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Reinforced Leather",
+        "count": 8,
+        "weight": 1.7
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_BAG_INSIGHT",
+    "tier": 8,
+    "enchantment": 0,
+    "localizedNames": "Elder's Satchel of Insight",
+    "itemValue": 2048,
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_BAG_INSIGHT@1",
+    "tier": 8,
+    "enchantment": 1,
+    "localizedNames": "Elder's Satchel of Insight (T8.1)",
+    "itemValue": 4096,
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_BAG_INSIGHT@2",
+    "tier": 8,
+    "enchantment": 2,
+    "localizedNames": "Elder's Satchel of Insight (T8.2)",
+    "itemValue": 8192,
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_BAG_INSIGHT@3",
+    "tier": 8,
+    "enchantment": 3,
+    "localizedNames": "Elder's Satchel of Insight (T8.3)",
+    "itemValue": 16384,
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "uniqueName": "T8_BAG_INSIGHT@4",
+    "tier": 8,
+    "enchantment": 4,
+    "localizedNames": "Elder's Satchel of Insight (T8.4)",
+    "itemValue": 32768,
+    "craftMaterial": [
+      {
+        "uniqueName": "T8_CLOTH_LEVEL1",
+        "localizedNames": "Uncommon Baroque Cloth",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T8_LEATHER_LEVEL1",
+        "localizedNames": "Uncommon Fortified Leather",
+        "count": 8,
+        "weight": 2.6
+      },
+      {
+        "uniqueName": "T4_SKILLBOOK_STANDARD",
+        "localizedNames": "Adept's Tome of Insight",
+        "count": 1,
+        "weight": 0
+      }
+    ]
+  }
+]
