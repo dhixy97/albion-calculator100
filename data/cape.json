@@ -3135,151 +3135,6 @@
     ]
   },
   {
-    "uniqueName": "T7_CAPEITEM_FW_MARTLOCK",
-    "tier": 7,
-    "enchantment": 0,
-    "itemValue": 1280,
-    "localizedNames": "Grandmaster's FW_MARTLOCK Cape",
-    "craftMaterial": [
-      {
-        "uniqueName": "T7_CAPE",
-        "localizedNames": "Grandmaster's Cape",
-        "weight": 0,
-        "count": 1,
-        "itemValue": 1024
-      },
-      {
-        "uniqueName": "T7_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Grandmaster's FW_MARTLOCK Cape Crest",
-        "weight": 0,
-        "count": 1,
-        "itemValue": 1280
-      },
-      {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
-        "localizedNames": "Rockheart",
-        "weight": 0,
-        "count": 5
-      }
-    ]
-  },
-  {
-    "uniqueName": "T7_CAPEITEM_FW_MARTLOCK@1",
-    "tier": 7,
-    "enchantment": 1,
-    "itemValue": 2304,
-    "localizedNames": "Grandmaster's FW_MARTLOCK Cape (T7.1)",
-    "craftMaterial": [
-      {
-        "uniqueName": "T7_CAPE@1",
-        "localizedNames": "Grandmaster's Cape (T7.1)",
-        "weight": 0,
-        "count": 1,
-        "itemValue": 2048
-      },
-      {
-        "uniqueName": "T7_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Grandmaster's FW_MARTLOCK Cape Crest",
-        "weight": 0,
-        "count": 1,
-        "itemValue": 2304
-      },
-      {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
-        "localizedNames": "Rockheart",
-        "weight": 0,
-        "count": 5
-      }
-    ]
-  },
-  {
-    "uniqueName": "T7_CAPEITEM_FW_MARTLOCK@2",
-    "tier": 7,
-    "enchantment": 2,
-    "itemValue": 4352,
-    "localizedNames": "Grandmaster's FW_MARTLOCK Cape (T7.2)",
-    "craftMaterial": [
-      {
-        "uniqueName": "T7_CAPE@2",
-        "localizedNames": "Grandmaster's Cape (T7.2)",
-        "weight": 0,
-        "count": 1,
-        "itemValue": 4096
-      },
-      {
-        "uniqueName": "T7_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Grandmaster's FW_MARTLOCK Cape Crest",
-        "weight": 0,
-        "count": 1,
-        "itemValue": 4352
-      },
-      {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
-        "localizedNames": "Rockheart",
-        "weight": 0,
-        "count": 5
-      }
-    ]
-  },
-  {
-    "uniqueName": "T7_CAPEITEM_FW_MARTLOCK@3",
-    "tier": 7,
-    "enchantment": 3,
-    "itemValue": 8448,
-    "localizedNames": "Grandmaster's FW_MARTLOCK Cape (T7.3)",
-    "craftMaterial": [
-      {
-        "uniqueName": "T7_CAPE@3",
-        "localizedNames": "Grandmaster's Cape (T7.3)",
-        "weight": 0,
-        "count": 1,
-        "itemValue": 8192
-      },
-      {
-        "uniqueName": "T7_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Grandmaster's FW_MARTLOCK Cape Crest",
-        "weight": 0,
-        "count": 1,
-        "itemValue": 8448
-      },
-      {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
-        "localizedNames": "Rockheart",
-        "weight": 0,
-        "count": 5
-      }
-    ]
-  },
-  {
-    "uniqueName": "T7_CAPEITEM_FW_MARTLOCK@4",
-    "tier": 7,
-    "enchantment": 4,
-    "itemValue": 16640,
-    "localizedNames": "Grandmaster's FW_MARTLOCK Cape (T7.4)",
-    "craftMaterial": [
-      {
-        "uniqueName": "T7_CAPE@4",
-        "localizedNames": "Grandmaster's Cape (T7.4)",
-        "weight": 0,
-        "count": 1,
-        "itemValue": 16384
-      },
-      {
-        "uniqueName": "T7_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Grandmaster's FW_MARTLOCK Cape Crest",
-        "weight": 0,
-        "count": 1,
-        "itemValue": 16640
-      },
-      {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
-        "localizedNames": "Rockheart",
-        "weight": 0,
-        "count": 5
-      }
-    ]
-  },
-  {
     "uniqueName": "T8_CAPEITEM_FW_MARTLOCK",
     "tier": 8,
     "enchantment": 0,
@@ -7796,8 +7651,8 @@
         "itemValue": 160
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
       }
@@ -7825,8 +7680,8 @@
         "itemValue": 288
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
       }
@@ -7854,8 +7709,8 @@
         "itemValue": 544
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
       }
@@ -7883,8 +7738,8 @@
         "itemValue": 1056
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
       }
@@ -7912,8 +7767,8 @@
         "itemValue": 2080
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
       }
@@ -7941,8 +7796,8 @@
         "itemValue": 320
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
       }
@@ -7970,8 +7825,8 @@
         "itemValue": 576
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
       }
@@ -7999,8 +7854,8 @@
         "itemValue": 1088
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
       }
@@ -8028,8 +7883,8 @@
         "itemValue": 2112
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
       }
@@ -8057,8 +7912,8 @@
         "itemValue": 4160
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
       }
@@ -8086,8 +7941,8 @@
         "itemValue": 640
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 3
       }
@@ -8115,8 +7970,8 @@
         "itemValue": 1152
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 3
       }
@@ -8144,8 +7999,8 @@
         "itemValue": 2176
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 3
       }
@@ -8173,8 +8028,8 @@
         "itemValue": 4224
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 3
       }
@@ -8202,8 +8057,8 @@
         "itemValue": 8320
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 3
       }
@@ -8231,8 +8086,8 @@
         "itemValue": 1280
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 5
       }
@@ -8260,8 +8115,8 @@
         "itemValue": 2304
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 5
       }
@@ -8289,8 +8144,8 @@
         "itemValue": 4352
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 5
       }
@@ -8318,8 +8173,8 @@
         "itemValue": 8448
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 5
       }
@@ -8347,8 +8202,8 @@
         "itemValue": 16640
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 5
       }
@@ -8376,8 +8231,8 @@
         "itemValue": 2560
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 10
       }
@@ -8405,8 +8260,8 @@
         "itemValue": 4608
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 10
       }
@@ -8434,8 +8289,8 @@
         "itemValue": 8704
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 10
       }
@@ -8463,8 +8318,8 @@
         "itemValue": 16896
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 10
       }
@@ -8492,8 +8347,8 @@
         "itemValue": 33280
       },
       {
-        "uniqueName": "T1_FACTION_SNOW_TOKEN_1",
-        "localizedNames": "Mountainheart",
+        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "localizedNames": "Rockheart",
         "weight": 0,
         "count": 10
       }
@@ -8521,7 +8376,7 @@
         "itemValue": 160
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
@@ -8550,7 +8405,7 @@
         "itemValue": 288
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
@@ -8579,7 +8434,7 @@
         "itemValue": 544
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
@@ -8608,7 +8463,7 @@
         "itemValue": 1056
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
@@ -8637,7 +8492,7 @@
         "itemValue": 2080
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
@@ -8666,7 +8521,7 @@
         "itemValue": 320
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
@@ -8695,7 +8550,7 @@
         "itemValue": 576
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
@@ -8724,7 +8579,7 @@
         "itemValue": 1088
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
@@ -8753,7 +8608,7 @@
         "itemValue": 2112
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
@@ -8782,7 +8637,7 @@
         "itemValue": 4160
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 1
@@ -8811,7 +8666,7 @@
         "itemValue": 640
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 3
@@ -8840,7 +8695,7 @@
         "itemValue": 1152
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 3
@@ -8869,7 +8724,7 @@
         "itemValue": 2176
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 3
@@ -8898,7 +8753,7 @@
         "itemValue": 4224
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 3
@@ -8927,7 +8782,7 @@
         "itemValue": 8320
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 3
@@ -8956,7 +8811,7 @@
         "itemValue": 1280
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 5
@@ -8985,7 +8840,7 @@
         "itemValue": 2304
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 5
@@ -9014,7 +8869,7 @@
         "itemValue": 4352
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 5
@@ -9043,7 +8898,7 @@
         "itemValue": 8448
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 5
@@ -9072,7 +8927,7 @@
         "itemValue": 16640
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 5
@@ -9101,7 +8956,7 @@
         "itemValue": 2560
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 10
@@ -9130,7 +8985,7 @@
         "itemValue": 4608
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 10
@@ -9159,7 +9014,7 @@
         "itemValue": 8704
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 10
@@ -9188,7 +9043,7 @@
         "itemValue": 16896
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 10
@@ -9217,7 +9072,7 @@
         "itemValue": 33280
       },
       {
-        "uniqueName": "T1_FACTION_MOUNTAIN_TOKEN_1",
+        "uniqueName": "T1_FACTION_HIGHLAND_TOKEN_1",
         "localizedNames": "Rockheart",
         "weight": 0,
         "count": 10
