@@ -5,6 +5,7 @@ import { useState, useEffect } from "react";
 import { useRecipes } from "@/context/RecipeContext";
 import { countNeedMaterials } from "@/helper/countNeedMaterials";
 import { calculateProfit } from "@/helper/calculateProfit";
+import { calculateTotalMaterialCost } from "@/helper/calculateMaterialCost";
 
 export default function SelectedItem({ recipes }) {
   const [open, setOpen] = useState(true);
@@ -20,6 +21,13 @@ export default function SelectedItem({ recipes }) {
   const [buyPriceMats, setBuyPriceMats] = useState(0);
   const [sellPriceItem, setSellPriceItem] = useState(0);
   const needMaterials = countNeedMaterials(recipes ?? { craftMaterial: [] });
+  const totalMaterialCost = calculateTotalMaterialCost(recipes, buyTax);
+
+  const formattedCost = totalMaterialCost.toLocaleString("id-ID", {
+    minimumFractionDigits: 0,
+    maximumFractionDigits: 0,
+  });
+
 
   useEffect(() => {
     async function fetchBuyPrice() {
@@ -292,6 +300,7 @@ export default function SelectedItem({ recipes }) {
             ))}
           </div>
         )}
+        <span className="mt-2">Total Cost: {formattedCost}</span>
       </div>
     </div>
   );
