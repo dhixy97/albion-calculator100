@@ -2,7 +2,7 @@
 
 import { ChevronDown, ChevronUp } from "lucide-react";
 import { useState, useEffect } from "react";
-import { useRecipes } from "@/context/RecipeContext";
+import { RecipeProvider, useRecipes } from "@/context/RecipeContext";
 import { countNeedMaterials } from "@/helper/countNeedMaterials";
 import { calculateProfit } from "@/helper/calculateProfit";
 import { calculateTotalMaterialCost } from "@/helper/calculateMaterialCost";
@@ -24,10 +24,11 @@ export default function SelectedItem({ recipes }) {
   const totalMaterialCost = calculateTotalMaterialCost(recipes, buyTax);
 
   const formattedCost = totalMaterialCost.toLocaleString("id-ID", {
-    minimumFractionDigits: 0,
-    maximumFractionDigits: 0,
+    
   });
 
+
+  
 
   useEffect(() => {
     async function fetchBuyPrice() {

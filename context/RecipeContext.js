@@ -16,6 +16,8 @@ export function RecipeProvider({ children }) {
   const [selectedItem, setSelectedItem] = useState(null);
   const [cityBuyMats, setCityBuyMats] = useState("Martlock");
   const [sellCity, setSellCity] = useState("Lymhurst");
+  const [sellCityJournals, setSellCityJournals] = useState("Martlock")
+  const [buyCityJournals, setBuyCityJournals] = useState("Martlock")
 
   // -----------------------------
   // Load cookies saat mount
@@ -109,6 +111,11 @@ export function RecipeProvider({ children }) {
         setCityBuyMats,
         sellCity,
         setSellCity,
+
+        sellCityJournals,
+        setSellCityJournals,
+        buyCityJournals,
+        setBuyCityJournals
       }}
     >
       {children}
