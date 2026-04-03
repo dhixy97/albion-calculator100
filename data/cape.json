@@ -2704,7 +2704,7 @@
     "tier": 4,
     "enchantment": 0,
     "itemValue": 160,
-    "localizedNames": "Adept's FW_MARTLOCK Cape",
+    "localizedNames": "Adept's Martlock Cape",
     "craftMaterial": [
       {
         "uniqueName": "T4_CAPE",
@@ -2715,7 +2715,7 @@
       },
       {
         "uniqueName": "T4_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Adept's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Adept's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 160
@@ -2733,7 +2733,7 @@
     "tier": 4,
     "enchantment": 1,
     "itemValue": 288,
-    "localizedNames": "Adept's FW_MARTLOCK Cape (T4.1)",
+    "localizedNames": "Adept's Martlock Cape (T4.1)",
     "craftMaterial": [
       {
         "uniqueName": "T4_CAPE@1",
@@ -2744,7 +2744,7 @@
       },
       {
         "uniqueName": "T4_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Adept's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Adept's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 288
@@ -2762,7 +2762,7 @@
     "tier": 4,
     "enchantment": 2,
     "itemValue": 544,
-    "localizedNames": "Adept's FW_MARTLOCK Cape (T4.2)",
+    "localizedNames": "Adept's Martlock Cape (T4.2)",
     "craftMaterial": [
       {
         "uniqueName": "T4_CAPE@2",
@@ -2773,7 +2773,7 @@
       },
       {
         "uniqueName": "T4_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Adept's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Adept's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 544
@@ -2791,7 +2791,7 @@
     "tier": 4,
     "enchantment": 3,
     "itemValue": 1056,
-    "localizedNames": "Adept's FW_MARTLOCK Cape (T4.3)",
+    "localizedNames": "Adept's Martlock Cape (T4.3)",
     "craftMaterial": [
       {
         "uniqueName": "T4_CAPE@3",
@@ -2802,7 +2802,7 @@
       },
       {
         "uniqueName": "T4_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Adept's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Adept's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 1056
@@ -2820,7 +2820,7 @@
     "tier": 4,
     "enchantment": 4,
     "itemValue": 2080,
-    "localizedNames": "Adept's FW_MARTLOCK Cape (T4.4)",
+    "localizedNames": "Adept's Martlock Cape (T4.4)",
     "craftMaterial": [
       {
         "uniqueName": "T4_CAPE@4",
@@ -2831,7 +2831,7 @@
       },
       {
         "uniqueName": "T4_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Adept's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Adept's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 2080
@@ -2849,7 +2849,7 @@
     "tier": 5,
     "enchantment": 0,
     "itemValue": 320,
-    "localizedNames": "Expert's FW_MARTLOCK Cape",
+    "localizedNames": "Expert's Martlock Cape",
     "craftMaterial": [
       {
         "uniqueName": "T5_CAPE",
@@ -2860,7 +2860,7 @@
       },
       {
         "uniqueName": "T5_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Expert's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Expert's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 320
@@ -2878,7 +2878,7 @@
     "tier": 5,
     "enchantment": 1,
     "itemValue": 576,
-    "localizedNames": "Expert's FW_MARTLOCK Cape (T5.1)",
+    "localizedNames": "Expert's Martlock Cape (T5.1)",
     "craftMaterial": [
       {
         "uniqueName": "T5_CAPE@1",
@@ -2889,7 +2889,7 @@
       },
       {
         "uniqueName": "T5_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Expert's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Expert's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 576
@@ -2907,7 +2907,7 @@
     "tier": 5,
     "enchantment": 2,
     "itemValue": 1088,
-    "localizedNames": "Expert's FW_MARTLOCK Cape (T5.2)",
+    "localizedNames": "Expert's Martlock Cape (T5.2)",
     "craftMaterial": [
       {
         "uniqueName": "T5_CAPE@2",
@@ -2918,7 +2918,7 @@
       },
       {
         "uniqueName": "T5_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Expert's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Expert's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 1088
@@ -2936,7 +2936,7 @@
     "tier": 5,
     "enchantment": 3,
     "itemValue": 2112,
-    "localizedNames": "Expert's FW_MARTLOCK Cape (T5.3)",
+    "localizedNames": "Expert's Martlock Cape (T5.3)",
     "craftMaterial": [
       {
         "uniqueName": "T5_CAPE@3",
@@ -2947,7 +2947,7 @@
       },
       {
         "uniqueName": "T5_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Expert's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Expert's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 2112
@@ -2965,7 +2965,7 @@
     "tier": 5,
     "enchantment": 4,
     "itemValue": 4160,
-    "localizedNames": "Expert's FW_MARTLOCK Cape (T5.4)",
+    "localizedNames": "Expert's Martlock Cape (T5.4)",
     "craftMaterial": [
       {
         "uniqueName": "T5_CAPE@4",
@@ -2976,7 +2976,7 @@
       },
       {
         "uniqueName": "T5_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Expert's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Expert's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 4160
@@ -2994,7 +2994,7 @@
     "tier": 6,
     "enchantment": 0,
     "itemValue": 640,
-    "localizedNames": "Master's FW_MARTLOCK Cape",
+    "localizedNames": "Master's Martlock Cape",
     "craftMaterial": [
       {
         "uniqueName": "T6_CAPE",
@@ -3005,7 +3005,7 @@
       },
       {
         "uniqueName": "T6_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Master's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Master's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 640
@@ -3023,7 +3023,7 @@
     "tier": 6,
     "enchantment": 1,
     "itemValue": 1152,
-    "localizedNames": "Master's FW_MARTLOCK Cape (T6.1)",
+    "localizedNames": "Master's Martlock Cape (T6.1)",
     "craftMaterial": [
       {
         "uniqueName": "T6_CAPE@1",
@@ -3034,7 +3034,7 @@
       },
       {
         "uniqueName": "T6_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Master's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Master's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 1152
@@ -3052,7 +3052,7 @@
     "tier": 6,
     "enchantment": 2,
     "itemValue": 2176,
-    "localizedNames": "Master's FW_MARTLOCK Cape (T6.2)",
+    "localizedNames": "Master's Martlock Cape (T6.2)",
     "craftMaterial": [
       {
         "uniqueName": "T6_CAPE@2",
@@ -3063,7 +3063,7 @@
       },
       {
         "uniqueName": "T6_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Master's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Master's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 2176
@@ -3081,7 +3081,7 @@
     "tier": 6,
     "enchantment": 3,
     "itemValue": 4224,
-    "localizedNames": "Master's FW_MARTLOCK Cape (T6.3)",
+    "localizedNames": "Master's Martlock Cape (T6.3)",
     "craftMaterial": [
       {
         "uniqueName": "T6_CAPE@3",
@@ -3092,7 +3092,7 @@
       },
       {
         "uniqueName": "T6_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Master's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Master's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 4224
@@ -3110,7 +3110,7 @@
     "tier": 6,
     "enchantment": 4,
     "itemValue": 8320,
-    "localizedNames": "Master's FW_MARTLOCK Cape (T6.4)",
+    "localizedNames": "Master's Martlock Cape (T6.4)",
     "craftMaterial": [
       {
         "uniqueName": "T6_CAPE@4",
@@ -3121,7 +3121,7 @@
       },
       {
         "uniqueName": "T6_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Master's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Master's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 8320
@@ -3139,7 +3139,7 @@
     "tier": 8,
     "enchantment": 0,
     "itemValue": 2560,
-    "localizedNames": "Elder's FW_MARTLOCK Cape",
+    "localizedNames": "Elder's Martlock Cape",
     "craftMaterial": [
       {
         "uniqueName": "T8_CAPE",
@@ -3150,7 +3150,7 @@
       },
       {
         "uniqueName": "T8_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Elder's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Elder's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 2560
@@ -3168,7 +3168,7 @@
     "tier": 8,
     "enchantment": 1,
     "itemValue": 4608,
-    "localizedNames": "Elder's FW_MARTLOCK Cape (T8.1)",
+    "localizedNames": "Elder's Martlock Cape (T8.1)",
     "craftMaterial": [
       {
         "uniqueName": "T8_CAPE@1",
@@ -3179,7 +3179,7 @@
       },
       {
         "uniqueName": "T8_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Elder's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Elder's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 4608
@@ -3197,7 +3197,7 @@
     "tier": 8,
     "enchantment": 2,
     "itemValue": 8704,
-    "localizedNames": "Elder's FW_MARTLOCK Cape (T8.2)",
+    "localizedNames": "Elder's Martlock Cape (T8.2)",
     "craftMaterial": [
       {
         "uniqueName": "T8_CAPE@2",
@@ -3208,7 +3208,7 @@
       },
       {
         "uniqueName": "T8_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Elder's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Elder's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 8704
@@ -3226,7 +3226,7 @@
     "tier": 8,
     "enchantment": 3,
     "itemValue": 16896,
-    "localizedNames": "Elder's FW_MARTLOCK Cape (T8.3)",
+    "localizedNames": "Elder's Martlock Cape (T8.3)",
     "craftMaterial": [
       {
         "uniqueName": "T8_CAPE@3",
@@ -3237,7 +3237,7 @@
       },
       {
         "uniqueName": "T8_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Elder's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Elder's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 16896
@@ -3255,7 +3255,7 @@
     "tier": 8,
     "enchantment": 4,
     "itemValue": 33280,
-    "localizedNames": "Elder's FW_MARTLOCK Cape (T8.4)",
+    "localizedNames": "Elder's Martlock Cape (T8.4)",
     "craftMaterial": [
       {
         "uniqueName": "T8_CAPE@4",
@@ -3266,7 +3266,7 @@
       },
       {
         "uniqueName": "T8_CAPEITEM_FW_MARTLOCK_BP",
-        "localizedNames": "Elder's FW_MARTLOCK Cape Crest",
+        "localizedNames": "Elder's Martlock Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 33280
@@ -4734,7 +4734,7 @@
     "tier": 4,
     "enchantment": 0,
     "itemValue": 160,
-    "localizedNames": "Adept's FW_BRECILIEN Cape",
+    "localizedNames": "Adept's Brecilien Cape",
     "craftMaterial": [
       {
         "uniqueName": "T4_CAPE",
@@ -4745,7 +4745,7 @@
       },
       {
         "uniqueName": "T4_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Adept's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Adept's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 160
@@ -4763,7 +4763,7 @@
     "tier": 4,
     "enchantment": 1,
     "itemValue": 288,
-    "localizedNames": "Adept's FW_BRECILIEN Cape (T4.1)",
+    "localizedNames": "Adept's Brecilien Cape (T4.1)",
     "craftMaterial": [
       {
         "uniqueName": "T4_CAPE@1",
@@ -4774,7 +4774,7 @@
       },
       {
         "uniqueName": "T4_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Adept's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Adept's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 288
@@ -4792,7 +4792,7 @@
     "tier": 4,
     "enchantment": 2,
     "itemValue": 544,
-    "localizedNames": "Adept's FW_BRECILIEN Cape (T4.2)",
+    "localizedNames": "Adept's Brecilien Cape (T4.2)",
     "craftMaterial": [
       {
         "uniqueName": "T4_CAPE@2",
@@ -4803,7 +4803,7 @@
       },
       {
         "uniqueName": "T4_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Adept's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Adept's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 544
@@ -4821,7 +4821,7 @@
     "tier": 4,
     "enchantment": 3,
     "itemValue": 1056,
-    "localizedNames": "Adept's FW_BRECILIEN Cape (T4.3)",
+    "localizedNames": "Adept's Brecilien Cape (T4.3)",
     "craftMaterial": [
       {
         "uniqueName": "T4_CAPE@3",
@@ -4832,7 +4832,7 @@
       },
       {
         "uniqueName": "T4_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Adept's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Adept's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 1056
@@ -4850,7 +4850,7 @@
     "tier": 4,
     "enchantment": 4,
     "itemValue": 2080,
-    "localizedNames": "Adept's FW_BRECILIEN Cape (T4.4)",
+    "localizedNames": "Adept's Brecilien Cape (T4.4)",
     "craftMaterial": [
       {
         "uniqueName": "T4_CAPE@4",
@@ -4861,7 +4861,7 @@
       },
       {
         "uniqueName": "T4_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Adept's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Adept's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 2080
@@ -4879,7 +4879,7 @@
     "tier": 5,
     "enchantment": 0,
     "itemValue": 320,
-    "localizedNames": "Expert's FW_BRECILIEN Cape",
+    "localizedNames": "Expert's Brecilien Cape",
     "craftMaterial": [
       {
         "uniqueName": "T5_CAPE",
@@ -4890,7 +4890,7 @@
       },
       {
         "uniqueName": "T5_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Expert's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Expert's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 320
@@ -4908,7 +4908,7 @@
     "tier": 5,
     "enchantment": 1,
     "itemValue": 576,
-    "localizedNames": "Expert's FW_BRECILIEN Cape (T5.1)",
+    "localizedNames": "Expert's Brecilien Cape (T5.1)",
     "craftMaterial": [
       {
         "uniqueName": "T5_CAPE@1",
@@ -4919,7 +4919,7 @@
       },
       {
         "uniqueName": "T5_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Expert's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Expert's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 576
@@ -4937,7 +4937,7 @@
     "tier": 5,
     "enchantment": 2,
     "itemValue": 1088,
-    "localizedNames": "Expert's FW_BRECILIEN Cape (T5.2)",
+    "localizedNames": "Expert's Brecilien Cape (T5.2)",
     "craftMaterial": [
       {
         "uniqueName": "T5_CAPE@2",
@@ -4948,7 +4948,7 @@
       },
       {
         "uniqueName": "T5_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Expert's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Expert's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 1088
@@ -4966,7 +4966,7 @@
     "tier": 5,
     "enchantment": 3,
     "itemValue": 2112,
-    "localizedNames": "Expert's FW_BRECILIEN Cape (T5.3)",
+    "localizedNames": "Expert's Brecilien Cape (T5.3)",
     "craftMaterial": [
       {
         "uniqueName": "T5_CAPE@3",
@@ -4977,7 +4977,7 @@
       },
       {
         "uniqueName": "T5_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Expert's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Expert's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 2112
@@ -4995,7 +4995,7 @@
     "tier": 5,
     "enchantment": 4,
     "itemValue": 4160,
-    "localizedNames": "Expert's FW_BRECILIEN Cape (T5.4)",
+    "localizedNames": "Expert's Brecilien Cape (T5.4)",
     "craftMaterial": [
       {
         "uniqueName": "T5_CAPE@4",
@@ -5006,7 +5006,7 @@
       },
       {
         "uniqueName": "T5_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Expert's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Expert's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 4160
@@ -5024,7 +5024,7 @@
     "tier": 6,
     "enchantment": 0,
     "itemValue": 640,
-    "localizedNames": "Master's FW_BRECILIEN Cape",
+    "localizedNames": "Master's Brecilien Cape",
     "craftMaterial": [
       {
         "uniqueName": "T6_CAPE",
@@ -5035,7 +5035,7 @@
       },
       {
         "uniqueName": "T6_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Master's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Master's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 640
@@ -5053,7 +5053,7 @@
     "tier": 6,
     "enchantment": 1,
     "itemValue": 1152,
-    "localizedNames": "Master's FW_BRECILIEN Cape (T6.1)",
+    "localizedNames": "Master's Brecilien Cape (T6.1)",
     "craftMaterial": [
       {
         "uniqueName": "T6_CAPE@1",
@@ -5064,7 +5064,7 @@
       },
       {
         "uniqueName": "T6_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Master's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Master's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 1152
@@ -5082,7 +5082,7 @@
     "tier": 6,
     "enchantment": 2,
     "itemValue": 2176,
-    "localizedNames": "Master's FW_BRECILIEN Cape (T6.2)",
+    "localizedNames": "Master's Brecilien Cape (T6.2)",
     "craftMaterial": [
       {
         "uniqueName": "T6_CAPE@2",
@@ -5093,7 +5093,7 @@
       },
       {
         "uniqueName": "T6_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Master's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Master's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 2176
@@ -5111,7 +5111,7 @@
     "tier": 6,
     "enchantment": 3,
     "itemValue": 4224,
-    "localizedNames": "Master's FW_BRECILIEN Cape (T6.3)",
+    "localizedNames": "Master's Brecilien Cape (T6.3)",
     "craftMaterial": [
       {
         "uniqueName": "T6_CAPE@3",
@@ -5122,7 +5122,7 @@
       },
       {
         "uniqueName": "T6_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Master's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Master's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 4224
@@ -5140,7 +5140,7 @@
     "tier": 6,
     "enchantment": 4,
     "itemValue": 8320,
-    "localizedNames": "Master's FW_BRECILIEN Cape (T6.4)",
+    "localizedNames": "Master's Brecilien Cape (T6.4)",
     "craftMaterial": [
       {
         "uniqueName": "T6_CAPE@4",
@@ -5151,7 +5151,7 @@
       },
       {
         "uniqueName": "T6_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Master's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Master's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 8320
@@ -5169,7 +5169,7 @@
     "tier": 7,
     "enchantment": 0,
     "itemValue": 1280,
-    "localizedNames": "Grandmaster's FW_BRECILIEN Cape",
+    "localizedNames": "Grandmaster's Brecilien Cape",
     "craftMaterial": [
       {
         "uniqueName": "T7_CAPE",
@@ -5180,7 +5180,7 @@
       },
       {
         "uniqueName": "T7_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Grandmaster's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Grandmaster's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 1280
@@ -5198,7 +5198,7 @@
     "tier": 7,
     "enchantment": 1,
     "itemValue": 2304,
-    "localizedNames": "Grandmaster's FW_BRECILIEN Cape (T7.1)",
+    "localizedNames": "Grandmaster's Brecilien Cape (T7.1)",
     "craftMaterial": [
       {
         "uniqueName": "T7_CAPE@1",
@@ -5209,7 +5209,7 @@
       },
       {
         "uniqueName": "T7_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Grandmaster's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Grandmaster's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 2304
@@ -5227,7 +5227,7 @@
     "tier": 7,
     "enchantment": 2,
     "itemValue": 4352,
-    "localizedNames": "Grandmaster's FW_BRECILIEN Cape (T7.2)",
+    "localizedNames": "Grandmaster's Brecilien Cape (T7.2)",
     "craftMaterial": [
       {
         "uniqueName": "T7_CAPE@2",
@@ -5238,7 +5238,7 @@
       },
       {
         "uniqueName": "T7_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Grandmaster's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Grandmaster's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 4352
@@ -5256,7 +5256,7 @@
     "tier": 7,
     "enchantment": 3,
     "itemValue": 8448,
-    "localizedNames": "Grandmaster's FW_BRECILIEN Cape (T7.3)",
+    "localizedNames": "Grandmaster's Brecilien Cape (T7.3)",
     "craftMaterial": [
       {
         "uniqueName": "T7_CAPE@3",
@@ -5267,7 +5267,7 @@
       },
       {
         "uniqueName": "T7_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Grandmaster's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Grandmaster's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 8448
@@ -5285,7 +5285,7 @@
     "tier": 7,
     "enchantment": 4,
     "itemValue": 16640,
-    "localizedNames": "Grandmaster's FW_BRECILIEN Cape (T7.4)",
+    "localizedNames": "Grandmaster's Brecilien Cape (T7.4)",
     "craftMaterial": [
       {
         "uniqueName": "T7_CAPE@4",
@@ -5296,7 +5296,7 @@
       },
       {
         "uniqueName": "T7_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Grandmaster's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Grandmaster's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 16640
@@ -5314,7 +5314,7 @@
     "tier": 8,
     "enchantment": 0,
     "itemValue": 2560,
-    "localizedNames": "Elder's FW_BRECILIEN Cape",
+    "localizedNames": "Elder's Brecilien Cape",
     "craftMaterial": [
       {
         "uniqueName": "T8_CAPE",
@@ -5325,7 +5325,7 @@
       },
       {
         "uniqueName": "T8_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Elder's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Elder's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 2560
@@ -5343,7 +5343,7 @@
     "tier": 8,
     "enchantment": 1,
     "itemValue": 4608,
-    "localizedNames": "Elder's FW_BRECILIEN Cape (T8.1)",
+    "localizedNames": "Elder's Brecilien Cape (T8.1)",
     "craftMaterial": [
       {
         "uniqueName": "T8_CAPE@1",
@@ -5354,7 +5354,7 @@
       },
       {
         "uniqueName": "T8_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Elder's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Elder's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 4608
@@ -5372,7 +5372,7 @@
     "tier": 8,
     "enchantment": 2,
     "itemValue": 8704,
-    "localizedNames": "Elder's FW_BRECILIEN Cape (T8.2)",
+    "localizedNames": "Elder's Brecilien Cape (T8.2)",
     "craftMaterial": [
       {
         "uniqueName": "T8_CAPE@2",
@@ -5383,7 +5383,7 @@
       },
       {
         "uniqueName": "T8_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Elder's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Elder's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 8704
@@ -5401,7 +5401,7 @@
     "tier": 8,
     "enchantment": 3,
     "itemValue": 16896,
-    "localizedNames": "Elder's FW_BRECILIEN Cape (T8.3)",
+    "localizedNames": "Elder's Brecilien Cape (T8.3)",
     "craftMaterial": [
       {
         "uniqueName": "T8_CAPE@3",
@@ -5412,7 +5412,7 @@
       },
       {
         "uniqueName": "T8_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Elder's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Elder's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 16896
@@ -5430,7 +5430,7 @@
     "tier": 8,
     "enchantment": 4,
     "itemValue": 33280,
-    "localizedNames": "Elder's FW_BRECILIEN Cape (T8.4)",
+    "localizedNames": "Elder's Brecilien Cape (T8.4)",
     "craftMaterial": [
       {
         "uniqueName": "T8_CAPE@4",
@@ -5441,7 +5441,7 @@
       },
       {
         "uniqueName": "T8_CAPEITEM_FW_BRECILIEN_BP",
-        "localizedNames": "Elder's FW_BRECILIEN Cape Crest",
+        "localizedNames": "Elder's Brecilien Crest",
         "weight": 0,
         "count": 1,
         "itemValue": 33280
